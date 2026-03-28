@@ -1,0 +1,23 @@
+Components:
+All my components are jupiter notebooks. I find easy to work with them and run parts of the code without the others.
+Components:- the first component is used to handle missing values, and to understand the data if it need or not normalisation or outliers handling.
+           - the second component is used to create clusters based on all the strings available, considering also 2 words phrases. (TF-IDF)
+            - the third part use ollama, which helps me dividing the question in 2 parts, one of them to decide which cluster is the best, and the second one to filter the cluster before sending back all the candidates back to ollama for a final answer.
+
+The components does not interact directly between them, they just create or adjust some files which goes directly as inputs for the others. You do not need all of them for testing, each can be evaluated by itself.
+
+I tried to keep a good accuracy while reducing the time and calls to the llm as much as possible. The speed becomes way better, but it varies a lot for every query(30 sec to 3 min in testing).
+The model can be scaled by creating more clusters for a bigger number of companies,but a bigger problem can arrive. To have a good speed it would be important that all clusters have a similar size, unfortunately there are many more software companies in the world comparing to the petroleum companies(as an example). The inbalanced number of examples per domain can cause a big variety in the speed of queries based on the clusters they fall in. A detailed query makes computation to be faster because of the filtration but can cause a small amount of good options. As for a future upgrade the clustering should be make more carefully, and maybe a more balanced data set should be used.
+
+When dealing with missing information I tried to fill the gaps with averages in their domain for revenue, employees or year of creation, but than can lead to false recomandations. In the beginning I thought that the risk worth so that all companies should be treated the same way.I am not sure what is better for a query that ask for the number of employyes: to guess if the company fits, just ignore the condition or reject the company because of the missing information. I considered the last option to be the worst.
+
+I also set an inferior limit such that we do not find companies good for a query, it might be better to tell the user to change the query rather than telling stupid things. As a problem, that score might be affected by what the model saw before it, and it is subjective, I did not define a specific way to assign it.
+
+I feel confident that my model return good option in terms of location and company type, some errors as I said might appear to a query that wants a specific value for revenue or employees. I trust my model to give good option, and due the different sizes of clusters, the accuracy is a bit more important than the speed, which is obviously way better than baseline A. I would say that if I have to put my model between A and B, I would say 60% to A, 40% to B.
+
+The result seem to be consistent over multiple runs, but a question is rised. Which are the parts of the query which are more important. In my vision a perfect company in terms of location, bussines model, domain of activity might be seen as an option even if their revenue is a bit smaller, but the current model will reject it. In my astrategy, the words are more subjective, but the numbers does not lie, who knows which matters more, it might depend on the user, maybe information about the year when it was founded is more like a preference rather than a necessity, but from a simple query no one can understand what are the non negociable terms for a user. A more structured query which is created with a specific format would improve the accuracy, not in a general way, but for the real need of our user.
+
+100,000 instead of 500 needs more clusters, maybe the algorithm to be adjusted a bit. Doing this way I am afraid to lose some good options but not afraid that I will not find good enough ones. Lets say that are 10 great matches, and the model could lose 3. Maybe the big improvment of speed in this type of situation matters more than the risk of loosing 1 or 2 good options.
+
+In the testing period the categories which I was monitoring the most was the location to be in the asked range and the domain of activity to corespond and it did with success.
+The modular design make every part independent, they work together but can be tested and updated on its own which is a great thing for later.
