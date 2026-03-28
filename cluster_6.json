@@ -1,0 +1,4329 @@
+[
+  {
+    "website":"rompetrol.ro",
+    "operational_name":"Rompetrol",
+    "year_founded":1979,
+    "address":"{'country_code': 'ro', 'latitude': 44.4775537, 'longitude': 26.0713416, 'region_name': 'Bucharest', 'town': 'Bucharest'}",
+    "employee_count":7460,
+    "revenue":13498241905,
+    "primary_naics":"{'code': '324110', 'label': 'Petroleum Refineries'}",
+    "description":"rompetrol is a romanian company specialized in petroleum refining, petrochemical operations, and the distribution of fuel products. the company operates as a subsidiary of kmg international and manages integrated refineries in romania, moldova, bulgaria, and georgia, serving the automotive, industrial, and energy sectors. rompetrol also provides industrial products, wholesale fuel supply, and e-mobility services, and is certified for quality, health, safety, and environmental management.",
+    "business_model":[
+      "Wholesale",
+      "Manufacturing",
+      "Business-to-Business",
+      "Retail",
+      "Service Provider",
+      "Business-to-Consumer",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Energy",
+      "Industrial",
+      "Transportation"
+    ],
+    "core_offerings":[
+      "Fuel Product Distribution",
+      "Quality and Safety Compliance Services",
+      "Petrochemical Product Manufacturing",
+      "E-Mobility Solutions Implementation",
+      "Petroleum Refining and Distribution",
+      "Premium Fuel Retail",
+      "LPG Gas Production and Distribution",
+      "Sustainable Energy Solutions Development",
+      "Environmental Impact Reduction Consulting",
+      "Regional Energy Trading Services",
+      "Industrial Fuel Supply Services",
+      "Wholesale Fuel and Petrochemical Product Sales",
+      "Upstream Oil and Gas Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '324110', 'label': 'Petroleum Refineries'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":1809415.8049597854,
+    "cluster":6
+  },
+  {
+    "website":"cbre.ro",
+    "operational_name":"CBRE Romania",
+    "year_founded":2008,
+    "address":"{'country_code': 'ro', 'latitude': 44.4540414, 'longitude': 26.1007685, 'region_name': 'Bucharest', 'town': 'Bucharest'}",
+    "employee_count":92,
+    "revenue":9568739216,
+    "primary_naics":"{'code': '531210', 'label': 'Offices of Real Estate Agents and Brokers'}",
+    "description":"cbre romania is a romanian company engaged in commercial real estate services and investment, providing integrated solutions such as investment, finance, value creation, planning, leasing, occupancy, design, building, property management, and portfolio management. the company serves clients in sectors including hotels, office, retail, industrial, logistics, and alternative property types, as well as data center services. cbre romania also offers transaction management, project management, design and build services, property rental, strategic consulting, property sales, mortgage services, and development services. the company is part of the cbre group, inc., and is committed to sustainability, with a focus on minimizing environmental impact and promoting a sustainable future.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Hospitality",
+      "Retail",
+      "Industrial",
+      "Real Estate",
+      "Logistics"
+    ],
+    "core_offerings":[
+      "Data Center Real Estate Services",
+      "Real Estate Research and Analysis Services",
+      "Mortgage and Capital Markets Services",
+      "Portfolio Management Services",
+      "Property Investment and Finance Services",
+      "Project Management Services",
+      "Property Development and Construction Services",
+      "Sustainability Integration Consulting",
+      "Property Valuation and Appraisal Services",
+      "Property Design and Build Services",
+      "Property Leasing and Occupancy Services",
+      "Property Management and Marketing Services",
+      "Corporate Real Estate Advisory Services",
+      "Commercial Real Estate Services",
+      "Strategic Real Estate Consulting"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '531210', 'label': 'Offices of Real Estate Agents and Brokers'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":104008034.9565217346,
+    "cluster":6
+  },
+  {
+    "website":"omv.ro",
+    "operational_name":"OMV",
+    "year_founded":2015,
+    "address":"{'country_code': 'ro', 'latitude': 44.490331, 'longitude': 26.0556503, 'region_name': 'Bucharest', 'town': 'Bucharest'}",
+    "employee_count":17,
+    "revenue":6542287157,
+    "primary_naics":"{'code': '457120', 'label': 'Other Gasoline Stations'}",
+    "description":"omv petrom marketing srl is a romanian company engaged in the natural gas and oil industry, operating in the exploration & production, refining & marketing, and chemicals sectors. the company provides products and services such as gasoline, diesel, aviation fuel, bitumen, and chemical products, and manages fuel stations and gas storage facilities across multiple european countries. omv also offers e-mobility solutions and is involved in sustainability initiatives, including circular economy solutions and carbon emission reduction.",
+    "business_model":[
+      "Wholesale",
+      "Business-to-Business",
+      "Retail",
+      "Service Provider",
+      "Business-to-Consumer",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Energy",
+      "Chemicals"
+    ],
+    "core_offerings":[
+      "Bitumen Sales",
+      "Gas Storage Facility Management",
+      "Oil and Natural Gas Marketing",
+      "Oil and Natural Gas Exploration and Production",
+      "Circular Economy Solutions Development",
+      "Marketing Campaign Execution",
+      "Gasoline and Diesel Fuel Sales",
+      "Fuel Card Services",
+      "Chemical Products Sales",
+      "Oil and Natural Gas Refining",
+      "Sustainable Energy Solutions Implementation",
+      "E-Mobility Solutions Development",
+      "Fuel Distribution and Retail",
+      "Aviation Fuel Sales",
+      "Supply Chain Logistics Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '457120', 'label': 'Other Gasoline Stations'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":384840421.0,
+    "cluster":6
+  },
+  {
+    "website":"cfr.ro",
+    "operational_name":"Compania Na\u021bional\u0103 de C\u0103i Ferate CFR",
+    "year_founded":1880,
+    "address":"{'country_code': 'ro', 'latitude': 44.4493708, 'longitude': 26.0685182, 'region_name': 'Bucharest', 'town': 'Bucharest'}",
+    "employee_count":54000,
+    "revenue":5290917696,
+    "primary_naics":"{'code': '488210', 'label': 'Support Activities for Rail Transportation'}",
+    "description":"compania na\u021bional\u0103 de c\u0103i ferate \u201dcfr\u201d \u2013 sa, known as compania na\u021bional\u0103 de c\u0103i ferate cfr, is a romanian state-owned company responsible for the management and maintenance of the national railway infrastructure. the company oversees both public and private railway networks, providing access to terminals and stations, and offers services such as ticket sales and information. it also manages railway modernization and infrastructure development projects, including european union-funded initiatives, and is involved in public procurement processes. the company is a member of international railway organizations and is certified for its operations.",
+    "business_model":[
+      "Government\/Public Sector",
+      "Logistics\/Transportation",
+      "Business-to-Business",
+      "Service Provider",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Transportation"
+    ],
+    "core_offerings":[
+      "Scenic and Tourist Rail Transport Services",
+      "Freight Rail Transport Services",
+      "Railway Modernization Project Development",
+      "Interoperable Rail Network Enhancement",
+      "Railway Network Operation",
+      "Railway Infrastructure Management",
+      "Railway Telecommunications Services",
+      "Ticket Sales and Information Services",
+      "Railway Infrastructure Development Services",
+      "Public Procurement and Contract Management",
+      "Passenger Rail Transport Services",
+      "International Railway Cooperation and Representation",
+      "Noise Reduction and Environmental Protection Projects",
+      "Auxiliary Electric Traction Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '488210', 'label': 'Support Activities for Rail Transportation'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":97979.9573333333,
+    "cluster":6
+  },
+  {
+    "website":"mercedes-benz-trucks-mbb.ro",
+    "operational_name":"Mercedes-Benz Trucks & Buses Romania",
+    "year_founded":2015,
+    "address":"{'country_code': 'ro', 'latitude': 44.49860626556017, 'longitude': 26.158149280912863, 'region_name': 'Ilfov', 'town': 'Voluntari'}",
+    "employee_count":17,
+    "revenue":4801923600,
+    "primary_naics":"{'code': '441110', 'label': 'New Car Dealers'}",
+    "description":"daimler truck & bus romania s.r.l., dba mercedes-benz trucks & buses romania, is a romanian company specialized in the distribution and servicing of mercedes-benz trucks and buses. the company operates as a service provider and distributor in the automotive sector, offering vehicle sales, maintenance, repair, and emobility solutions, as well as fleet management services. it serves clients through a network of authorized service centers and a dedicated claims assistance team.",
+    "business_model":[
+      "Retail",
+      "Service Provider",
+      "Business-to-Business",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Claims Assistance Services",
+      "Advanced Vehicle Diagnostics Services",
+      "Mechanical and Electrical Repair Services",
+      "Fleet Management Solutions",
+      "Long-Term Vehicle Maintenance Contracts",
+      "Truck and Bus Sales",
+      "Sustainability-Focused Vehicle Solutions",
+      "eMobility Solutions",
+      "Truck and Bus Maintenance and Repair"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '441110', 'label': 'New Car Dealers'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":282466094.1176470518,
+    "cluster":6
+  },
+  {
+    "website":"portofconstantza.com",
+    "operational_name":"Portul Constanta",
+    "year_founded":2015,
+    "address":"{'country_code': 'ro', 'latitude': 44.182847100000004, 'longitude': 28.61768274700455, 'region_name': 'Constan\u021ba', 'town': 'Constan\u021ba'}",
+    "employee_count":6000,
+    "revenue":1727732794,
+    "primary_naics":"{'code': '488310', 'label': 'Port and Harbor Operations'}",
+    "description":"c.n. administratia porturilor maritime s.a. constanta, known as portul constanta, is a romanian public company that operates as a maritime and river port authority, managing and overseeing the ports of constanta, midia, mangalia, and tomis. the company provides port management, cargo handling, and related services, including dry bulk, container, general cargo, liquid bulk, and roll-on\/roll-off operations. it also functions as a transit hub for agricultural products and serves as a free port. the company is part of the romanian maritime port sector and is supported by european union funds for the naval sector.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Government\/Public Sector"
+    ],
+    "target_markets":[
+      "Maritime",
+      "Transportation"
+    ],
+    "core_offerings":[
+      "Maritime and River Port Services",
+      "Roll-On\/Roll-Off Cargo Handling and Transshipment",
+      "Port Infrastructure Modernization and Enhancement",
+      "Dry Bulk Cargo Handling and Transshipment",
+      "Public Information and Transparency Reporting",
+      "Environmental Sustainability Project Implementation",
+      "Cargo Ticket Booking and Reservation Services",
+      "Transit Cargo Logistics Services",
+      "Liquid Bulk Cargo Handling and Transshipment",
+      "General Cargo Terminal Operations",
+      "Regulatory Compliance and Institutional Integrity Services",
+      "Container Terminal Operations"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '488310', 'label': 'Port and Harbor Operations'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":287955.4656666667,
+    "cluster":6
+  },
+  {
+    "website":"romgaz.ro",
+    "operational_name":"Romgaz",
+    "year_founded":1909,
+    "address":"{'country_code': 'ro', 'latitude': 45.7973912, 'longitude': 24.1519202, 'region_name': 'Sibiu', 'town': 'Media\u0219'}",
+    "employee_count":5287,
+    "revenue":1383562888,
+    "primary_naics":"{'code': '211130', 'label': 'Natural Gas Extraction'}",
+    "description":"s.n.g.n. romgaz s.a. is a romanian public company engaged in the exploration, production, storage, and distribution of natural gas. the company also operates as an electricity producer and supplier, and provides technological transportation services. romgaz is involved in geological exploration, well interventions, workovers, and special operations, and is a member of the european gas industry. the company is publicly traded on the bucharest stock exchange and is majority owned by the romanian state.",
+    "business_model":[
+      "Wholesale",
+      "Manufacturing",
+      "Business-to-Business",
+      "Service Provider",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Energy",
+      "Oil and Gas"
+    ],
+    "core_offerings":[
+      "Natural Gas Distribution",
+      "Technological Transportation Services",
+      "Natural Gas Exploration and Production",
+      "Geological and Petroleum Technology Services",
+      "Sustainability and Educational Program Services",
+      "Digitalization Solutions Implementation",
+      "Gas Industry Knowledge Dissemination Services",
+      "International Gas and Energy Investment",
+      "Petroleum Rights Co-Ownership and Development",
+      "Methane Gas Extraction and Processing",
+      "Electric Energy Production and Supply",
+      "Well Intervention and Workover Services",
+      "AI-Driven Gas Operations Solutions",
+      "Underground Gas Storage Services"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '211130', 'label': 'Natural Gas Extraction'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":261691.4862871194,
+    "cluster":6
+  },
+  {
+    "website":"transgaz.ro",
+    "operational_name":"Transgaz",
+    "year_founded":2000,
+    "address":"{'country_code': 'ro', 'latitude': 46.1625212, 'longitude': 24.3473855, 'region_name': 'Sibiu', 'town': 'Media\u0219'}",
+    "employee_count":4628,
+    "revenue":1211108198,
+    "primary_naics":"{'code': '221210', 'label': 'Natural Gas Distribution'}",
+    "description":"the national gas transmission company \u201ctransgaz\u201d s.a. is a romanian joint-stock company engaged in the technical operation and management of the national gas transmission system. the company is responsible for the transmission and dispatching of natural gas, as well as research and design activities related to natural gas infrastructure. it also undertakes complementary functions such as purchasing gas for technological use and balancing the national gas transmission system. transgaz is involved in international gas pipeline projects and participates in research and development initiatives. the company is publicly traded on the bucharest stock exchange and is certified for sustainability and environmental management.",
+    "business_model":[
+      "Logistics\/Transportation",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Energy"
+    ],
+    "core_offerings":[
+      "Engineering Project Management Services",
+      "Gas Balancing and Risk Management",
+      "Gas Transmission Research and Design",
+      "Gas Dispatching Services",
+      "Gas Transmission Technology Innovation",
+      "IT Platform Development and Management",
+      "International Gas Cooperation and Cooperation",
+      "Gas Purchasing and Technological Consumption",
+      "Natural Gas Transmission Management",
+      "Renewable Energy Integration Services",
+      "Gas Pipeline Project Execution",
+      "Regulatory Compliance and Institutional Integrity Services",
+      "Gas Transmission Corridor Development",
+      "Environmental Management and Sustainability Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '221210', 'label': 'Natural Gas Distribution'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":261691.4861711322,
+    "cluster":6
+  },
+  {
+    "website":"posta-romana.ro",
+    "operational_name":"Po\u0219ta Rom\u00e2n\u0103",
+    "year_founded":1862,
+    "address":"{'country_code': 'ro', 'latitude': 45.9425072, 'longitude': 25.020108399999998, 'region_name': None, 'town': None}",
+    "employee_count":25000,
+    "revenue":1161768432,
+    "primary_naics":"{'code': '491110', 'label': 'Postal Service'}",
+    "description":"c.n. po\u0219ta rom\u00e2n\u0103 s.a. is a romanian joint stock company engaged in providing universal postal services, including letter mail, parcel delivery, money transfer, and advertising services. the company also operates as a provider of business solutions, customs clearance, and electronic signature services. in addition to its core postal operations, po\u0219ta rom\u00e2n\u0103 is involved in public sector activities such as the sale of real estate and energy compensation services. the company serves the entire romanian territory and is active in the postal organization and logistics sectors.",
+    "business_model":[
+      "Subscription-Based",
+      "Business-to-Business",
+      "Service Provider",
+      "Business-to-Consumer",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Postal Services",
+      "Consumer Services",
+      "Government Services"
+    ],
+    "core_offerings":[
+      "Research and Development Services",
+      "Public Sector Support Services",
+      "Medical and Educational Services",
+      "Customs Clearance Services",
+      "Electronic Signature Solutions",
+      "Subscription Newspaper and Magazine Services",
+      "Postal Services Distribution",
+      "Letter Mail and Parcel Delivery",
+      "Drop Mail Distribution",
+      "Redirect Mail Services",
+      "Advertising Mail Solutions",
+      "Business Correspondence Services",
+      "Online Shopping and eCommerce Solutions",
+      "Money Transfer Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '491110', 'label': 'Postal Service'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":46470.73728,
+    "cluster":6
+  },
+  {
+    "website":"oscars.ro",
+    "operational_name":"OSCAR",
+    "year_founded":2001,
+    "address":"{'country_code': 'ro', 'latitude': 44.4471231, 'longitude': 26.1093192, 'region_name': 'Bucharest', 'town': 'Bucharest'}",
+    "employee_count":488,
+    "revenue":1097857008,
+    "primary_naics":"{'code': '424720', 'label': 'Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)'}",
+    "description":"oscar downstream s.r.l is a romanian private company engaged in the distribution and trading of oil and gas products, including diesel, gasoline, bitumen, and lubricants. the company operates a nationwide network of gas stations, manages in-house fuelling stations, and provides fuel card solutions for fleet and business clients. oscar also offers en-gross fuel solutions and manages a logistics infrastructure supported by tankers and storage facilities. the company serves sectors such as transport, agriculture, construction, and industry, and is part of the alfa group.",
+    "business_model":[
+      "Wholesale",
+      "Franchising",
+      "Business-to-Business",
+      "Retail",
+      "Service Provider",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Construction",
+      "Industrial",
+      "Transportation",
+      "Agriculture"
+    ],
+    "core_offerings":[
+      "Logistics and Storage Services",
+      "En-Gross Fuel Solutions",
+      "Sustainable Fuel Supply Solutions",
+      "Lubricants Distribution",
+      "Franchise Network Development",
+      "Gas Station Network Operation",
+      "In-House Fuelling Station Services",
+      "Industry-Specific Fuel Solutions",
+      "Fuel Card Management Services",
+      "Fuel Distribution and Wholesale",
+      "Personalized Fuel Consumption Optimization Services",
+      "New Fuel Type Introduction",
+      "Bitumen Distribution",
+      "Fleet Card Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '424720', 'label': 'Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":2249706.9836065574,
+    "cluster":6
+  },
+  {
+    "website":"still.ro",
+    "operational_name":"STILL",
+    "year_founded":1919,
+    "address":"{'country_code': 'ro', 'latitude': 44.4457164, 'longitude': 25.942586, 'region_name': 'Ilfov', 'town': 'Dragomire\u0219ti-Vale'}",
+    "employee_count":17,
+    "revenue":840574450,
+    "primary_naics":"{'code': '333924', 'label': 'Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing'}",
+    "description":"still material handling romania srl is a romanian company engaged in the development, production, and distribution of intralogistics equipment and systems. the company supplies and rents forklifts, transport and towing equipment, and internal logistics solutions, including static and dynamic racking, mobile racking, and automated guided vehicles. still also provides fleet management services, digital service management tools, and repair and maintenance solutions. the company serves a global market and operates production sites in germany, italy, china, france, and brazil.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Transportation",
+      "Logistics"
+    ],
+    "core_offerings":[
+      "Digital Fleet Management Tools Development",
+      "Static and Dynamic Racking Systems Integration",
+      "Forklift Manufacturing",
+      "Intralogistics Equipment Repair and Maintenance",
+      "Towing Equipment Manufacturing",
+      "Fleet Management Solutions Development",
+      "Reach Truck Manufacturing",
+      "Intralogistics Equipment Rental Services",
+      "Warehouse Services",
+      "Pallet Truck Manufacturing",
+      "Intralogistics Equipment Distribution",
+      "Mobile Racking Systems Integration",
+      "Internal Logistics Systems Development",
+      "Automated Guided Vehicle Integration",
+      "Intralogistics Equipment Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '333924', 'label': 'Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":49445555.8823529407,
+    "cluster":6
+  },
+  {
+    "website":"brockgroup.com",
+    "operational_name":"Brock Group",
+    "year_founded":1940,
+    "address":{
+      "country_code":"us",
+      "latitude":29.686420147,
+      "longitude":-95.1191841525,
+      "region_name":"Texas",
+      "town":"Deer Park"
+    },
+    "employee_count":11000,
+    "revenue":13517299684,
+    "primary_naics":{
+      "code":"238990",
+      "label":"All Other Specialty Trade Contractors"
+    },
+    "description":"brock services, llc, known as brock group, is an american company engaged in providing multi-craft specialty services for industrial and commercial sectors. the company offers services such as scaffold material rental, shop facilities, field services, project management, construction, maintenance, turnaround projects, and specialized services including scaffolding, insulation, painting, abatement, fireproofing, shoring, facilities maintenance, fabrication, general mechanical services, technical services, and safety services. brock group serves a wide range of industries, including oil and gas, petrochemical, power generation, lng, offshore, heavy manufacturing, food processing, pipelines and transmission, nuclear, pulp and paper, and pharmaceuticals, with operations across the united states and canada.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "LNG",
+      "Petrochemical",
+      "Oil & Gas",
+      "Offshore",
+      "Power Generation",
+      "Nuclear",
+      "Pipelines & Transmission",
+      "Food Processing",
+      "Pharmaceuticals",
+      "Heavy Manufacturing",
+      "Pulp and Paper"
+    ],
+    "core_offerings":[
+      "Painting and Coating Services",
+      "Facilities Maintenance Services",
+      "Advanced Coating Application Services",
+      "Insulation Application Services",
+      "3D Modeling and Design Services",
+      "Project Management Services",
+      "Specialty Construction Services",
+      "Shoring and Support Services",
+      "Turnaround Project Services",
+      "Scaffold Material Rental",
+      "Fabrication and Metalwork Services",
+      "General Mechanical Services",
+      "Fireproofing and Thermal Spray Coating",
+      "Abatement and Dust Control Services",
+      "Scaffolding Installation and Removal",
+      "Technical Consulting Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"238990",
+    "industry_name":"All Other Specialty Trade Contractors",
+    "revenue_per_employee":1228845.4258181818,
+    "cluster":6
+  },
+  {
+    "website":"jmwaller.com",
+    "operational_name":"Versar",
+    "year_founded":1898,
+    "address":{
+      "country_code":"us",
+      "latitude":38.9034016,
+      "longitude":-77.0329501,
+      "region_name":"District of Columbia",
+      "town":"Washington"
+    },
+    "employee_count":17946,
+    "revenue":10811821464,
+    "primary_naics":{
+      "code":"237990",
+      "label":"Other Heavy and Civil Engineering Construction"
+    },
+    "description":"versar, inc., dba versar, is an american company specialized in infrastructure projects, security, engineering, construction, and ecological solutions. the company serves governments, military contracts, intelligence communities, and commercial clients, with a focus on ecological solutions aimed at reducing global environmental impact. versar operates worldwide, providing services such as installation management, support services, coastal resilience, information technology, integrated security, planning and assessment, systems integration, installation, and sustainment. the company is also involved in small business partner programs and is part of the louis berger services (lbs) team, which provides operation and maintenance services at large military installations and transportation facilities.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Construction",
+      "Environmental Services",
+      "Government",
+      "Defense"
+    ],
+    "core_offerings":[
+      "Sustainment Services",
+      "Systems Integration and Installation",
+      "Planning and Assessment Services",
+      "Ecological Solutions Consulting",
+      "Installation Management Services",
+      "Coastal Resilience Solutions",
+      "Construction Project Management Services",
+      "Engineering Consulting Services",
+      "Infrastructure Project Management Services",
+      "Regulatory Compliance Consulting",
+      "Information Technology Services",
+      "Operation and Maintenance Services",
+      "Security Solutions Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"237990",
+    "industry_name":"Other Heavy and Civil Engineering Construction",
+    "revenue_per_employee":602464.1404212638,
+    "cluster":6
+  },
+  {
+    "website":"geo-marine.com",
+    "operational_name":"Versar",
+    "year_founded":1898,
+    "address":{
+      "country_code":"us",
+      "latitude":38.9034016,
+      "longitude":-77.0329501,
+      "region_name":"District of Columbia",
+      "town":"Washington"
+    },
+    "employee_count":40,
+    "revenue":10329342589,
+    "primary_naics":{
+      "code":"237990",
+      "label":"Other Heavy and Civil Engineering Construction"
+    },
+    "description":"versar, inc., dba versar, is an american company specialized in infrastructure projects, security, engineering, construction, and ecological solutions. the company serves governments, military contracts, intelligence communities, and industrial clients worldwide, with a focus on ecological solutions aimed at reducing its global environmental impact. versar also provides information technology, integrated security, planning and assessment, systems integration, installation, sustainment, it frameworks, program management, executive office support, intelligence and analytics, and small business partner programs. the company operates globally and has expanded its capabilities through strategic partnerships.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Government",
+      "Industrial",
+      "Infrastructure",
+      "Defense"
+    ],
+    "core_offerings":[
+      "IT Framework Development",
+      "Sustainment Services",
+      "Engineering and Construction Services",
+      "Intelligence and Analytics Services",
+      "Systems Integration and Installation",
+      "Planning and Assessment Services",
+      "Coastal Resilience Solutions",
+      "Integrated Security Solutions",
+      "Infrastructure Project Management Services",
+      "Security Systems Integration and Installation",
+      "Operation and Maintenance Services",
+      "Ecological Solutions Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"237990",
+    "industry_name":"Other Heavy and Civil Engineering Construction",
+    "revenue_per_employee":258233564.724999994,
+    "cluster":6
+  },
+  {
+    "website":"pultegroup.com",
+    "operational_name":"PulteGroup",
+    "year_founded":1950,
+    "address":{
+      "country_code":"us",
+      "latitude":33.8483772998,
+      "longitude":-84.3664346599,
+      "region_name":"Georgia",
+      "town":"Atlanta"
+    },
+    "employee_count":7523,
+    "revenue":10109819333,
+    "primary_naics":{
+      "code":"236117",
+      "label":"New Housing For-Sale Builders"
+    },
+    "description":"pultegroup, inc. is an american homebuilding company engaged in the construction and sale of residential properties. the company operates under multiple brands and serves a range of homebuyers, including first-time, move-up, and active-adult buyers, across over 45 markets in the united states. pultegroup also manages a supply chain and logistics network to support its homebuilding operations. the company is publicly traded and has received certifications for workplace culture and sustainability.",
+    "business_model":[
+      "Manufacturing",
+      "Real Estate Development",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Real Estate"
+    ],
+    "core_offerings":[
+      "Asset Management and Efficiency",
+      "Supply Chain and Logistics Management",
+      "Homebuilding and Development",
+      "Home Sales and Closing",
+      "Workplace Culture Development Services",
+      "Customer Experience Services",
+      "Sustainable Homebuilding and Energy Efficiency"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"236117",
+    "industry_name":"New Housing For-Sale Builders",
+    "revenue_per_employee":1343854.7564801276,
+    "cluster":6
+  },
+  {
+    "website":"mangalmoneytransfer.co.uk",
+    "operational_name":"Mangal Money Transfer",
+    "year_founded":2013,
+    "address":{
+      "country_code":"gb",
+      "country_name":"United Kingdom",
+      "county":null,
+      "house_number":"44",
+      "latitude":51.6017264,
+      "longitude":-0.265399,
+      "postcode":"HA8 0LT",
+      "raw_text":"44 Watling Avenue, Burnt Oak, Edgware HA8 0LT, United Kingdom",
+      "region_code":"gb-eng",
+      "region_name":"England",
+      "street":"Watling Avenue",
+      "suburb":null,
+      "town":"Edgware"
+    },
+    "employee_count":4,
+    "revenue":385783,
+    "primary_naics":{
+      "code":"522320",
+      "label":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+      "share":0.75
+    },
+    "description":"v send ltd, dba mangal money transfer, is a uk company specialized in remittance services, including money transfer and foreign exchange services for individuals and corporate clients. the company operates a global network of countries and provides a mobile application for money transfer management. it is authorized and regulated by the financial conduct authority and registered as a money service business by hmrc.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Financial Services"
+    ],
+    "core_offerings":[
+      "Partner Network Money Transfer Services",
+      "Invoice Offset Fund Disbursement Services",
+      "Mobile Money Transfer Management Services",
+      "Retail Money Transfer Services",
+      "Foreign Exchange and Onward Transfer Services",
+      "Corporate Money Transfer Services",
+      "High-Value Money Transfer Services",
+      "Money Transfer Services",
+      "Multilingual Money Transfer Services",
+      "Global Money Transfer Services"
+    ],
+    "is_public":false,
+    "secondary_naics":{
+      "code":"522390",
+      "label":"Other Activities Related to Credit Intermediation",
+      "share":0.25
+    },
+    "naics_code":"522320",
+    "industry_name":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+    "revenue_per_employee":96445.75,
+    "cluster":6
+  },
+  {
+    "website":"skyharvest.eu",
+    "operational_name":"SkyHarvest",
+    "year_founded":2024,
+    "address":{
+      "country_code":"at",
+      "country_name":"Austria",
+      "county":null,
+      "house_number":null,
+      "latitude":48.2083537,
+      "longitude":16.3725042,
+      "postcode":"1090",
+      "raw_text":"1090, Vienna, AT",
+      "region_code":"at-9",
+      "region_name":"Vienna",
+      "street":null,
+      "suburb":null,
+      "town":"Vienna"
+    },
+    "employee_count":2,
+    "revenue":11102136,
+    "primary_naics":{
+      "code":"522299",
+      "label":"International, Secondary Market, and All Other Nondepository Credit Intermediation",
+      "share":0.7
+    },
+    "description":"skyharvest is a company engaged in agricultural finance, focusing on integrating agri-tech, fintech, and insuretech to provide data-driven solutions for farmers, banks, insurers, and governments. the company develops and operates a platform that connects loans with insurance, automates insurance claims, and offers real-time data through iot technologies such as satellite imagery, sensors, and drones. skyharvest also provides monitoring systems for loan traceability and risk profiling, supporting digital traceability of funds and reducing delays in insurance payouts. its operations serve farmers, financial institutions, insurers, development organizations, and governments, with an emphasis on sustainable and transparent agricultural finance.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Financial Services",
+      "Government",
+      "Agriculture"
+    ],
+    "core_offerings":[
+      "Environmental Compliance Data Analytics Services",
+      "Ethical Profit-Sharing Loan Structuring",
+      "Agricultural Loan Origination and Management",
+      "Real-Time Agricultural Data Monitoring",
+      "IoT-Based Farming Data Collection",
+      "Agricultural Finance Platform Development",
+      "Traceable Loan and Insurance Linkage",
+      "Agricultural Insurance Integration and Automation",
+      "Sustainable Agricultural Finance Solutions",
+      "Drone-Based Farming Data Services",
+      "Automated Insurance Claim Processing",
+      "Agricultural Risk Profiling and Assessment",
+      "Food Security Data Analytics Services",
+      "Satellite Imagery Data Services",
+      "Sensor-Based Farming Data Services"
+    ],
+    "is_public":false,
+    "secondary_naics":{
+      "code":"541512",
+      "label":"Computer Systems Design Services",
+      "share":0.3
+    },
+    "naics_code":"522299",
+    "industry_name":"International, Secondary Market, and All Other Nondepository Credit Intermediation",
+    "revenue_per_employee":5551068.0,
+    "cluster":6
+  },
+  {
+    "website":"aircash.eu",
+    "operational_name":"Aircash",
+    "year_founded":2015,
+    "address":{
+      "country_code":"hr",
+      "country_name":"Croatia",
+      "county":null,
+      "house_number":"271",
+      "latitude":45.80288285,
+      "longitude":16.0087880547,
+      "postcode":"10000",
+      "raw_text":"271 Ulica grada Vukovara, Zagreb, City of Zagreb, 10000, Croatia",
+      "region_code":"hr-21",
+      "region_name":"City of Zagreb",
+      "street":"Ulica grada Vukovara",
+      "suburb":"Zagreb",
+      "town":"City of Zagreb"
+    },
+    "employee_count":148,
+    "revenue":5679645,
+    "primary_naics":{
+      "code":"522320",
+      "label":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+      "share":0.75
+    },
+    "description":"aircash d.o.o. is a croatian financial institution and software company that operates as an electronic money institution and payment provider. the company offers digital wallet and prepaid card services, as well as a marketplace for parking, transport, entertainment, utilities, and telecoms. aircash also provides payment solutions for online accounts, bus and ferry tickets, parking, tolls, gift cards, and utility bills. the company is licensed by the croatian national bank and the swiss self-regulatory organization, and serves clients across multiple european countries.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Telecommunications",
+      "Financial Services",
+      "Transportation",
+      "Entertainment",
+      "Utilities"
+    ],
+    "core_offerings":[
+      "Entertainment Ticketing Payment Services",
+      "Cross-Border Payment Services",
+      "Retail Partner Integration Services",
+      "Digital Wallet Services",
+      "Gift Card Purchase Services",
+      "Cash Voucher Distribution",
+      "Transport and Parking Payment Services",
+      "Multi-Channel Payment Solutions",
+      "Utility Bill Payment Services",
+      "Prepaid Card Issuance and Management",
+      "Multi-Marketplace Payment Solutions",
+      "Multi-Language Financial Services",
+      "Electronic Money Transfer Services",
+      "Instant Deposit and Withdrawal Services"
+    ],
+    "is_public":false,
+    "secondary_naics":{
+      "code":"541511",
+      "label":"Custom Computer Programming Services",
+      "share":0.25
+    },
+    "naics_code":"522320",
+    "industry_name":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+    "revenue_per_employee":38375.9797297297,
+    "cluster":6
+  },
+  {
+    "website":"easykassa.at",
+    "operational_name":"EasyKassa",
+    "year_founded":2016,
+    "address":{
+      "country_code":"at",
+      "country_name":"Austria",
+      "county":null,
+      "house_number":"31a",
+      "latitude":48.41594285,
+      "longitude":15.639325285,
+      "postcode":"3500",
+      "raw_text":"Mittergriesweg 31a, 3500 Krems an der Donau, Lower Austria, Austria",
+      "region_code":"at-3",
+      "region_name":"Lower Austria",
+      "street":"Mittergriesweg",
+      "suburb":null,
+      "town":"Krems an der Donau"
+    },
+    "employee_count":1,
+    "revenue":317781,
+    "primary_naics":{
+      "code":"522320",
+      "label":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+      "share":0.5
+    },
+    "description":"easykassa is an austrian company that operates as a service provider in the e-commerce and payment processing sector, offering online payment solutions and facilitating secure transaction processing for clients. the company also provides it and internet solutions, including computer consulting, management consulting, and enterprise software services. its offerings include payment processing platforms, kiosk systems, and related it infrastructure for businesses.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Retail",
+      "E-commerce",
+      "Payment Processing"
+    ],
+    "core_offerings":[
+      "Enterprise Software Solutions",
+      "Consumer Internet Solutions",
+      "Cashiering System Sales",
+      "Computer Consulting Services",
+      "Management Consulting Services",
+      "E-Commerce Platform Development",
+      "Point-of-Sale System Sales",
+      "Online Shop Platform Development",
+      "ERP System Implementation Services",
+      "IT Consulting Services",
+      "Networking Solutions Consulting",
+      "E-Commerce Payment Solutions",
+      "Touchscreen Kiosk Sales",
+      "PC Kiosk Sales"
+    ],
+    "is_public":false,
+    "secondary_naics":{
+      "code":"541512",
+      "label":"Computer Systems Design Services",
+      "share":0.3
+    },
+    "naics_code":"522320",
+    "industry_name":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+    "revenue_per_employee":317781.0,
+    "cluster":6
+  },
+  {
+    "website":"sarafishahr.co.uk",
+    "operational_name":"City Exchange",
+    "year_founded":2012,
+    "address":{
+      "country_code":"gb",
+      "country_name":"United Kingdom",
+      "county":null,
+      "house_number":"538",
+      "latitude":52.4635243867,
+      "longitude":-1.9968270133,
+      "postcode":"B68 0BZ",
+      "raw_text":"538Hagley RD W, B68 0BZ",
+      "region_code":"gb-eng",
+      "region_name":"England",
+      "street":"Hagley Road West",
+      "suburb":null,
+      "town":"Oldbury"
+    },
+    "employee_count":28,
+    "revenue":7434965,
+    "primary_naics":{
+      "code":"522320",
+      "label":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+      "share":1.0
+    },
+    "description":"city exchange (\u0635\u0631\u0627\u0641\u06cc \u0634\u0647\u0631) is a british financial service provider specialized in foreign exchange and remittance services, with a focus on currency exchange and money transfer between iran and the uk. the company operates as a financial service provider with over 12 branches across the uk, including london and birmingham, and serves both individual and business clients. city exchange also offers online consultations and currency price updates, and its services are available in english and persian.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Financial Services"
+    ],
+    "core_offerings":[
+      "Currency Price Information Services",
+      "Multi-Currency Account Management Services",
+      "Multilingual Financial Services",
+      "Currency Exchange Services",
+      "Online Financial Consultation Services",
+      "Foreign Currency Remittance Services",
+      "Pound Bank Transfer Services",
+      "Financial Budgeting and Planning Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"522320",
+    "industry_name":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+    "revenue_per_employee":265534.4642857143,
+    "cluster":6
+  },
+  {
+    "website":"fgcexchange.co.uk",
+    "operational_name":"FGC Money Transfer",
+    "year_founded":2016,
+    "address":{
+      "country_code":"gb",
+      "country_name":"United Kingdom",
+      "county":"Greater London",
+      "house_number":"82",
+      "latitude":51.4699742,
+      "longitude":-0.357213,
+      "postcode":"TW3 1NH",
+      "raw_text":"Ground floor, 82 high street, Hounslow, TW3 1NH, United Kingdom",
+      "region_code":"gb-eng",
+      "region_name":"England",
+      "street":"High Street",
+      "suburb":null,
+      "town":"Hounslow"
+    },
+    "employee_count":57,
+    "revenue":15000000,
+    "primary_naics":{
+      "code":"522320",
+      "label":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+      "share":0.7
+    },
+    "description":"fgc exchange ltd, dba fgc money transfer, is a british company specialized in foreign exchange and money remittance services. the company operates internationally, providing currency exchange, money transfer, and real-time transfer tracking to clients in over 22 countries, including afghanistan, bangladesh, pakistan, india, and indonesia. fgc money transfer serves individuals and businesses through airports, hotels, tourist cities, and street offices, and partners with banks and financial institutions to offer international money transfer solutions.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Financial Services"
+    ],
+    "core_offerings":[
+      "Real-Time Transfer Tracking Services",
+      "Street Office Money Transfer Services",
+      "Foreign Exchange Services",
+      "Money Remittance Services",
+      "Financial Institution Partnership Services",
+      "Hotel Money Transfer Services",
+      "International Money Transfer Services",
+      "Currency Exchange Services",
+      "Airport Money Transfer Services",
+      "Technology-Enabled Money Transfer Solutions",
+      "Multilingual Money Transfer Services",
+      "Multi-Channel Money Transfer Services"
+    ],
+    "is_public":false,
+    "secondary_naics":{
+      "code":"522390",
+      "label":"Other Activities Related to Credit Intermediation",
+      "share":0.3
+    },
+    "naics_code":"522320",
+    "industry_name":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+    "revenue_per_employee":263157.8947368421,
+    "cluster":6
+  },
+  {
+    "website":"brinks.nl",
+    "operational_name":"Brink's Solutions Nederland",
+    "year_founded":2020,
+    "address":{
+      "country_code":"nl",
+      "country_name":"Netherlands",
+      "county":null,
+      "house_number":"61",
+      "latitude":52.0672047,
+      "longitude":5.0806874,
+      "postcode":"3528 BR",
+      "raw_text":"Ptolemaeuslaan 61, 3528 BR, Utrecht, Utrecht, Netherlands",
+      "region_code":"nl-ut",
+      "region_name":"Utrecht",
+      "street":"Ptolemaeuslaan",
+      "suburb":null,
+      "town":"Utrecht"
+    },
+    "employee_count":327,
+    "revenue":111012570,
+    "primary_naics":{
+      "code":"522320",
+      "label":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+      "share":1.0
+    },
+    "description":"brink's solutions nederland b.v., dba brink's solutions nederland, is a dutch company that provides payment and cash management solutions for entrepreneurs and businesses, with a focus on the retail and financial services sectors. the company operates a network of cash depositing centers, offers cash depositing, cash management, and cash transport services, and manages cash depositing for retail locations. it also operates an innovation centre that delivers workshops and training related to cash management. brink's solutions nederland is iso certified and serves clients in the netherlands and internationally.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Retail",
+      "Financial Services"
+    ],
+    "core_offerings":[
+      "Cash Transport Services",
+      "Cash Deposit Center Network Operation",
+      "Cash Management Solutions",
+      "Innovation Workshop Services",
+      "Business Cash Flow Optimization Consulting",
+      "Proximity Payment Integration Services",
+      "Payment Process Security Solutions",
+      "Multi-Channel Payment Solutions",
+      "Cash Management Process Optimization Consulting",
+      "Retail Cash Management Services",
+      "Cash Management Training Services",
+      "Cash Deposit Processing",
+      "Cash Management System Implementation",
+      "Online Payment Integration Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"522320",
+    "industry_name":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+    "revenue_per_employee":339487.9816513761,
+    "cluster":6
+  },
+  {
+    "website":"salauddinglobal.co.uk",
+    "operational_name":"Salauddin Global Trading",
+    "year_founded":2018,
+    "address":{
+      "country_code":"gb",
+      "country_name":"United Kingdom",
+      "county":null,
+      "house_number":"25",
+      "latitude":51.4927913,
+      "longitude":0.0637646,
+      "postcode":"SE18 6NE",
+      "raw_text":"25 Hare Street, London, England, SE18 6NE",
+      "region_code":"gb-eng",
+      "region_name":"England",
+      "street":"Hare Street",
+      "suburb":null,
+      "town":"London"
+    },
+    "employee_count":5,
+    "revenue":1360243,
+    "primary_naics":{
+      "code":"522320",
+      "label":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+      "share":1.0
+    },
+    "description":"salauddin global trading ltd, dba salauddin global trading, is a british private limited company specialized in money transfer services, with a focus on sending funds to asia, europe, and the middle east. the company serves clients across the united kingdom, europe, and the middle east. it is approved by the monetary authority of the financial conduct authority (fca) and the hm income and clients authority (mlr) to conduct cash move exercises.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Financial Services"
+    ],
+    "core_offerings":[
+      "Europe Money Transfer Services",
+      "International Money Transfer Services",
+      "Payment Management Services",
+      "Fund Transfer Tracking Services",
+      "Middle East Money Transfer Services",
+      "Money Transfer Services",
+      "Asia Money Transfer Services",
+      "Online Account Creation Services",
+      "Cash Move Exercise Services",
+      "Online Money Transfer Platform Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"522320",
+    "industry_name":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+    "revenue_per_employee":272048.6,
+    "cluster":6
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"ECrowd Invest",
+    "year_founded":2014,
+    "address":{
+      "country_code":"es",
+      "country_name":"Spain",
+      "county":null,
+      "house_number":"162",
+      "latitude":41.4034755,
+      "longitude":2.191449,
+      "postcode":"08018",
+      "raw_text":"162 Carrer de la Llacuna, Barcelona, Catalonia, 08018, Spain",
+      "region_code":"es-ct",
+      "region_name":"Catalonia",
+      "street":"Carrer de la Ciutat de Granada",
+      "suburb":"Sant Mart\u00ed",
+      "town":"Barcelona"
+    },
+    "employee_count":3,
+    "revenue":11102136,
+    "primary_naics":{
+      "code":"522299",
+      "label":"International, Secondary Market, and All Other Nondepository Credit Intermediation",
+      "share":1.0
+    },
+    "description":"ecrowd invest is a spanish private entity operating as an online crowd lending platform specialized in facilitating investment opportunities in environmental and social projects.",
+    "business_model":[
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Sustainable Finance",
+      "Environmental Services"
+    ],
+    "core_offerings":[
+      "Crowd Lending Platform Services",
+      "Sustainable Investment Opportunity Facilitation",
+      "Environmental Project Investment Facilitation",
+      "Social Project Investment Facilitation"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"522299",
+    "industry_name":"International, Secondary Market, and All Other Nondepository Credit Intermediation",
+    "revenue_per_employee":3700712.0,
+    "cluster":6
+  },
+  {
+    "website":"ctcfundlimited.com",
+    "operational_name":"CTC FUND",
+    "year_founded":2024,
+    "address":{
+      "country_code":"gb",
+      "country_name":"United Kingdom",
+      "county":null,
+      "house_number":"17",
+      "latitude":51.5137487,
+      "longitude":-0.1109134,
+      "postcode":"EC4Y 1AA",
+      "raw_text":"17 Fleet Street London, England, EC4Y 1AA",
+      "region_code":"gb-eng",
+      "region_name":"England",
+      "street":"Fleet Street",
+      "suburb":null,
+      "town":"London"
+    },
+    "employee_count":3,
+    "revenue":11102136,
+    "primary_naics":{
+      "code":"522299",
+      "label":"International, Secondary Market, and All Other Nondepository Credit Intermediation",
+      "share":1.0
+    },
+    "description":"ctc fund limited, dba ctc fund, is a british financial services company specialized in decentralized finance, operating on blockchain networks. the company facilitates interest generation on assets held in interest accounts by lending them to institutional and corporate borrowers, utilizing an over-collateralized loan model. it also provides automated risk management and maintains secure reserves with a regulated trust company. ctc fund serves a global client base.",
+    "business_model":[
+      "Business-to-Business",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Financial Services"
+    ],
+    "core_offerings":[
+      "Decentralized Lending Services",
+      "Institutional Asset Lending Services",
+      "Corporate Asset Lending Services",
+      "Automated Risk Monitoring Services",
+      "Secure Asset Reserves Management",
+      "Interest Account Management Services",
+      "Over-Collateralized Loan Structuring",
+      "Blockchain-Based Financial Services",
+      "Blockchain Security Solutions",
+      "Financial Innovation Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"522299",
+    "industry_name":"International, Secondary Market, and All Other Nondepository Credit Intermediation",
+    "revenue_per_employee":3700712.0,
+    "cluster":6
+  },
+  {
+    "website":"npi.ie",
+    "operational_name":"New Payment Innovation",
+    "year_founded":2012,
+    "address":{
+      "country_code":"ie",
+      "country_name":"Ireland",
+      "county":null,
+      "house_number":"3010",
+      "latitude":53.2856724,
+      "longitude":-6.4273317,
+      "postcode":"D24 X7FY",
+      "raw_text":"3010 Lake Drive, Citywest, Dublin, D24 R98P, Ireland",
+      "region_code":"ie-l",
+      "region_name":"Leinster",
+      "street":"Citywest Avenue",
+      "suburb":"Tallaght-Fettercairn DED 1986",
+      "town":"Dublin"
+    },
+    "employee_count":51,
+    "revenue":32327806,
+    "primary_naics":{
+      "code":"522320",
+      "label":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+      "share":0.6
+    },
+    "description":"new payment innovation limited is an irish company that provides payment processing and merchant services, including card machine rentals, epos systems, and online payment gateways. the company also offers payment terminal solutions such as wired, wireless, and mobile options, as well as secure online payment systems and virtual payment terminals. in addition to its core payment processing and terminal services, new payment innovation develops proprietary technology platforms for automated boarding and transaction reporting. the company serves a broad range of sectors, including hospitality, retail, healthcare, and telecommunications, and is certified for payment security.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Food and Beverage",
+      "Hospitality",
+      "Transportation",
+      "Fitness and Wellness",
+      "Retail",
+      "Healthcare"
+    ],
+    "core_offerings":[
+      "Online Payment Gateway Integration",
+      "Payment Solutions Distribution",
+      "Automated Payment Boarding Services",
+      "Payment Technology Consulting Services",
+      "Secure Payment Processing Services",
+      "Business Financial Training Services",
+      "Card Machine Rental Services",
+      "EPOS System Implementation Services",
+      "Partner Network Payment Solutions Services",
+      "Industry-Specific Payment Solutions Services",
+      "PCI DSS Compliance Consulting Services",
+      "Virtual Terminal Deployment Services",
+      "Transaction Reporting and Analytics Services",
+      "Mobile Payment Terminal Distribution"
+    ],
+    "is_public":false,
+    "secondary_naics":{
+      "code":"532420",
+      "label":"Office Machinery and Equipment Rental and Leasing",
+      "share":0.25
+    },
+    "naics_code":"522320",
+    "industry_name":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+    "revenue_per_employee":633878.5490196078,
+    "cluster":6
+  },
+  {
+    "website":"phintech.de",
+    "operational_name":"Phin",
+    "year_founded":2021,
+    "address":{
+      "country_code":"de",
+      "country_name":"Germany",
+      "county":null,
+      "house_number":"15",
+      "latitude":47.9813146,
+      "longitude":11.3272952,
+      "postcode":"82319",
+      "raw_text":"15 Oberer Seeweg, Starnberg, Bavaria, 82319, Germany",
+      "region_code":"de-by",
+      "region_name":"Bavaria",
+      "street":"Oberer Seeweg",
+      "suburb":"Neus\u00f6cking",
+      "town":"Starnberg"
+    },
+    "employee_count":23,
+    "revenue":6105946,
+    "primary_naics":{
+      "code":"522320",
+      "label":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+      "share":0.7
+    },
+    "description":"phin is a german private company operating in the financial services sector, specializing in business solutions and services. the company provides a mobile banking platform that integrates multiple bank accounts, neobanks, and wallets from over 3,400 institutions across 18 european countries. phin also offers a feature that automatically calculates and offsets co2 emissions associated with transaction history, supporting certified carbon offset projects that address environmental, social, and economic development initiatives in developing countries.",
+    "business_model":[
+      "Service Provider",
+      "Software-as-a-Service",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Financial Services"
+    ],
+    "core_offerings":[
+      "Carbon Emissions Calculation Services",
+      "Carbon Offset Project Management",
+      "Clean Water Project Funding Services",
+      "Health and Well-Being Project Funding Services",
+      "Financial Account Management Solutions",
+      "Food Security Project Funding Services",
+      "International Development Project Funding Services",
+      "Biodiversity Project Funding Services",
+      "Multi-Bank Account Integration Services",
+      "Mobile Banking Platform Development",
+      "Environmental Impact Support Services",
+      "Education Project Funding Services"
+    ],
+    "is_public":false,
+    "secondary_naics":{
+      "code":"541620",
+      "label":"Environmental Consulting Services",
+      "share":0.3
+    },
+    "naics_code":"522320",
+    "industry_name":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+    "revenue_per_employee":265475.9130434783,
+    "cluster":6
+  },
+  {
+    "website":"credito21.es",
+    "operational_name":"Credito21",
+    "year_founded":2012,
+    "address":{
+      "country_code":"es",
+      "country_name":"Spain",
+      "county":null,
+      "house_number":"48",
+      "latitude":40.4261357,
+      "longitude":-3.6819294,
+      "postcode":"28001",
+      "raw_text":"C\/ Hermosilla 48, 28001, Madrid, Spain",
+      "region_code":"es-md",
+      "region_name":"Community of Madrid",
+      "street":"Calle de Hermosilla",
+      "suburb":"Salamanca",
+      "town":"Madrid"
+    },
+    "employee_count":37,
+    "revenue":9684255,
+    "primary_naics":{
+      "code":"522320",
+      "label":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+      "share":1.0
+    },
+    "description":"sandiup global s.l., dba credito21, is a spanish company specialized in providing online credit comparison services and financial advisory. the company offers a platform for users to compare credit products from over 50 financial institutions and banks, including those with asnef listings, to facilitate access to personal loans, credit cards, and other credit solutions. credito21 serves individual users seeking to compare and select credit offers.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Financial Services"
+    ],
+    "core_offerings":[
+      "ASNEF Status Disclosure Services",
+      "Personal Loan Comparison Services",
+      "Credit Product Comparison Services",
+      "Microcredit Comparison Services",
+      "Urgent Loan Comparison Services",
+      "Salary-Based Loan Comparison Services",
+      "Personalized Financial Advisory Services",
+      "Pension-Based Loan Comparison Services",
+      "Credit Card Comparison Services",
+      "Quick Loan Comparison Services",
+      "Credit Offer Search and Presentation"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"522320",
+    "industry_name":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+    "revenue_per_employee":261736.6216216216,
+    "cluster":6
+  },
+  {
+    "website":"folio.no",
+    "operational_name":"Folio",
+    "year_founded":2018,
+    "address":{
+      "country_code":"no",
+      "country_name":"Norway",
+      "county":null,
+      "house_number":"3",
+      "latitude":59.914277,
+      "longitude":10.749149,
+      "postcode":"0181",
+      "raw_text":"Youngstorget 3, 0181 Oslo, Oslo, Norway",
+      "region_code":"no-03",
+      "region_name":"Oslo",
+      "street":"Youngstorget",
+      "suburb":null,
+      "town":"Oslo"
+    },
+    "employee_count":24,
+    "revenue":10505233,
+    "primary_naics":{
+      "code":"522320",
+      "label":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+      "share":1.0
+    },
+    "description":"folio as, dba folio, is a norwegian company that provides software-based banking and financial services, including business account management, accounting tools, payroll services, and a business card service. the company serves small businesses and self-employed individuals primarily in norway, with its systems built on top of sparebanken vest's banking infrastructure. folio also offers a mobile application for employees and supports multiple languages.",
+    "business_model":[
+      "Subscription-Based",
+      "Business-to-Business",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Financial Services"
+    ],
+    "core_offerings":[
+      "Payroll Services",
+      "Mobile Banking Application Services",
+      "Accounting Tools Services",
+      "Multilingual Financial Services",
+      "Financial Data Integration Services",
+      "Business Account Management Services",
+      "Business Banking Services",
+      "Business Card Services",
+      "Subscription-Based Financial Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"522320",
+    "industry_name":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+    "revenue_per_employee":437718.0416666667,
+    "cluster":6
+  },
+  {
+    "website":"arivpay.com",
+    "operational_name":"Ariv Pay",
+    "year_founded":2020,
+    "address":{
+      "country_code":"gb",
+      "country_name":"United Kingdom",
+      "county":"Greater London",
+      "house_number":"City View House, 1",
+      "latitude":51.5465985,
+      "longitude":-0.0014799,
+      "postcode":"E15 1BZ",
+      "raw_text":"1-6 Dorset Place, Stratford, London, E15 1BZ, United Kingdom",
+      "region_code":"gb-eng",
+      "region_name":"England",
+      "street":"Dorset Place",
+      "suburb":"Newham",
+      "town":"London"
+    },
+    "employee_count":5,
+    "revenue":1319900,
+    "primary_naics":{
+      "code":"522320",
+      "label":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+      "share":0.75
+    },
+    "description":"arivpay limited, dba ariv pay, is a british private company that provides payment processing and financial services for businesses. the company offers payment solutions such as card acquiring, moto payments, alternative payment methods, and payment analytics, as well as corporate financial management and trading platform services. ariv pay also delivers risk and security solutions, including psd2 compliance, dynamic currency conversion, and atex certification. its services are available to businesses in sectors including retail, e-commerce, corporate, telecoms, hospitality, travel, health, financial services, leisure, theme parks, and sports, serving clients in over 120 countries.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Telecoms",
+      "Sports",
+      "Hospitality",
+      "Health",
+      "Corporate",
+      "E-commerce",
+      "Financial Services",
+      "Retail",
+      "Theme Parks",
+      "Travel",
+      "Leisure"
+    ],
+    "core_offerings":[
+      "Virtual Terminal Solutions",
+      "POS Payment Terminal Solutions",
+      "MOTO Payment Solutions",
+      "PSD2 Compliance Services",
+      "Bulk Disbursement Services",
+      "Payment Solutions Development",
+      "ATEX Certified Payment Solutions",
+      "Payment Analytics and Reporting Services",
+      "Payment Risk and Security Solutions",
+      "Corporate Financial Management Services",
+      "Alternative Payment Options Services",
+      "Instalment and Recurring Payment Solutions",
+      "NFC and EMV Payment Technology Integration",
+      "Card Acquiring Services",
+      "Trading Platform Services",
+      "Dynamic Currency Conversion Services"
+    ],
+    "is_public":false,
+    "secondary_naics":{
+      "code":"541512",
+      "label":"Computer Systems Design Services",
+      "share":0.25
+    },
+    "naics_code":"522320",
+    "industry_name":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+    "revenue_per_employee":263980.0,
+    "cluster":6
+  },
+  {
+    "website":"rantumcapital.de",
+    "operational_name":"Rantum Capital",
+    "year_founded":2013,
+    "address":{
+      "country_code":"de",
+      "country_name":"Germany",
+      "county":null,
+      "house_number":"2-4",
+      "latitude":50.1079165,
+      "longitude":8.6761162202,
+      "postcode":"60311",
+      "raw_text":"Neue Mainzer Stra\u00dfe 2-4, Frankfurt am Main, Hesse, 60311, Germany",
+      "region_code":"de-he",
+      "region_name":"Hesse",
+      "street":"Neue Mainzer Stra\u00dfe",
+      "suburb":"Innenstadt 1",
+      "town":"Frankfurt"
+    },
+    "employee_count":19,
+    "revenue":4688320,
+    "primary_naics":{
+      "code":"522299",
+      "label":"International, Secondary Market, and All Other Nondepository Credit Intermediation",
+      "share":0.5
+    },
+    "description":"rantum capital management gmbh, dba rantum capital, is a german private financial services company that provides debt and equity financing solutions for medium-sized companies. the company manages private debt and private equity funds, offering services such as private debt, second lien loans, acquisition finance, and mezzanine lending. rantum capital also operates as a financial consultant and advises institutional investors, including insurance companies, pension funds, foundations, and multi-family offices, on investment opportunities in sectors such as healthcare, pharmaceuticals, it, chemicals, metals, electrical engineering, consumer goods, food and beverage, real estate, and construction. the company is registered with bafin as an aif-kapitalverwaltungsgesellschaft and is based in frankfurt, germany, with a presence in the german-speaking region and the dach area.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Metals",
+      "Software",
+      "Food and Beverage",
+      "Chemicals",
+      "Consumer Goods",
+      "Industry 4.0",
+      "Construction",
+      "Real Estate",
+      "Services",
+      "Electrical Engineering",
+      "Healthcare",
+      "IT",
+      "Pharmaceuticals",
+      "Machine Making"
+    ],
+    "core_offerings":[
+      "Direct Lending Services",
+      "Succession Financing Services",
+      "Pik Note Financing",
+      "Private Debt Fund Management",
+      "Mezzanine Capital Financing",
+      "Junior Loan Financing",
+      "Sponsorless Lending Services",
+      "Strategic Partnership Development Services",
+      "Institutional Investment Advisory Services",
+      "Private Equity Fund Management",
+      "Debt Financing Solutions",
+      "Second Lien Loan Financing",
+      "Acquisition Finance Structuring",
+      "Growth Strategy Support Services",
+      "Equity Investment Services",
+      "Subordinated Loan Financing"
+    ],
+    "is_public":false,
+    "secondary_naics":{
+      "code":"523940",
+      "label":"Portfolio Management and Investment Advice",
+      "share":0.5
+    },
+    "naics_code":"522299",
+    "industry_name":"International, Secondary Market, and All Other Nondepository Credit Intermediation",
+    "revenue_per_employee":246753.6842105263,
+    "cluster":6
+  },
+  {
+    "website":"agility-fx.co.uk",
+    "operational_name":"Agility FX",
+    "year_founded":2013,
+    "address":{
+      "country_code":"gb",
+      "country_name":"United Kingdom",
+      "county":null,
+      "house_number":"10",
+      "latitude":51.5090306,
+      "longitude":-0.0850256051,
+      "postcode":"EC3R 6AF",
+      "raw_text":"10 Lower Thames Street, London, EC3R 6AF, United Kingdom",
+      "region_code":"gb-eng",
+      "region_name":"England",
+      "street":"Lower Thames Street",
+      "suburb":null,
+      "town":"London"
+    },
+    "employee_count":26,
+    "revenue":2354298,
+    "primary_naics":{
+      "code":"522320",
+      "label":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+      "share":0.7
+    },
+    "description":"agility forex (uk) ltd, dba agility fx, is a british financial services company specialized in international foreign exchange, currency exchange, global payments, and international transfers. the company provides online foreign exchange execution platforms for individuals and businesses, enabling transactions in multiple currencies across the uk, eu, us, and canada, and connects clients to swift, sepa, and uk faster payments networks. agility fx is fca authorised and regulated by the information commissioners office (ico).",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Financial Services"
+    ],
+    "core_offerings":[
+      "FX Liquidity Solutions Delivery",
+      "International Money Transfer Services",
+      "Personalized Financial Advisory Services",
+      "Business Foreign Exchange Services",
+      "Regulatory Compliance Consulting Services",
+      "Personal Foreign Exchange Services",
+      "Multi-Currency Payment Services",
+      "Virtual IBAN Services",
+      "Foreign Exchange Solutions Delivery",
+      "Online Foreign Exchange Trading Platform Services"
+    ],
+    "is_public":false,
+    "secondary_naics":{
+      "code":"523999",
+      "label":"Miscellaneous Financial Investment Activities",
+      "share":0.3
+    },
+    "naics_code":"522320",
+    "industry_name":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+    "revenue_per_employee":90549.9230769231,
+    "cluster":6
+  },
+  {
+    "website":"erfinancial.services",
+    "operational_name":"Euro-Rijn Financial Services",
+    "year_founded":2020,
+    "address":{
+      "country_code":"nl",
+      "country_name":"Netherlands",
+      "county":null,
+      "house_number":null,
+      "latitude":51.66277225,
+      "longitude":4.5255922129,
+      "postcode":"4782 SK",
+      "raw_text":"6 Plaza, Moerdijk, Noord-Brabant, 4782 SK, Netherlands",
+      "region_code":"nl-nb",
+      "region_name":"North Brabant",
+      "street":null,
+      "suburb":null,
+      "town":"Moerdijk"
+    },
+    "employee_count":6,
+    "revenue":17515953,
+    "primary_naics":{
+      "code":"522299",
+      "label":"International, Secondary Market, and All Other Nondepository Credit Intermediation",
+      "share":1.0
+    },
+    "description":"euro-rijn financial services b.v. is a dutch financial services company engaged in commodity trade finance. the company provides trade financing solutions for clients in the commodity trading sector, enabling access to working capital by financing goods stored in the warehouses of euro-rijn group companies. its services include individual credit limits and repurchase agreements with commodities as collateral, with a focus on metals, industrial goods, ferro alloys, non-ferro metals, energy, and soft commodities. euro-rijn financial services serves clients globally, particularly in the commodity trading industry.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Commodity Trading",
+      "Logistics"
+    ],
+    "core_offerings":[
+      "Commodity-Backed Credit Limit Services",
+      "Global Commodity Trade Financing Services",
+      "Commodity-Backed Collateral Financing Services",
+      "Commodity Logistics Financial Services",
+      "Soft Commodities Financing Services",
+      "Metals and Industrial Goods Financing Services",
+      "Commodity Trading Working Capital Solutions",
+      "Ferro Alloys and Non-Ferro Metals Financing Services",
+      "Commodity-Backed Repurchase Agreement Services",
+      "Commodity Trade Finance Services",
+      "Warehouse-Based Commodity Financing Services",
+      "Energy Commodity Financing Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"522299",
+    "industry_name":"International, Secondary Market, and All Other Nondepository Credit Intermediation",
+    "revenue_per_employee":2919325.5,
+    "cluster":6
+  },
+  {
+    "website":"european-pay.fr",
+    "operational_name":"European Pay",
+    "year_founded":2022,
+    "address":{
+      "country_code":"fr",
+      "country_name":"France",
+      "county":null,
+      "house_number":null,
+      "latitude":48.8534951,
+      "longitude":2.3483915,
+      "postcode":"75018",
+      "raw_text":"75018, Paris, Ile-de-France, France",
+      "region_code":"fr-idf",
+      "region_name":"Ile-de-France",
+      "street":null,
+      "suburb":null,
+      "town":"Paris"
+    },
+    "employee_count":2,
+    "revenue":513657,
+    "primary_naics":{
+      "code":"522320",
+      "label":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+      "share":1.0
+    },
+    "description":"itgc-infotech global consultancy private limited, known as european pay, is a french fintech company that develops and operates a digital payment platform utilizing qr technology for contactless transactions. the company provides digital payment solutions, including mobile recharges, bill payments, and online shopping, as well as a digital wallet service. european pay serves small and medium-sized enterprises, street vendors, and local vendors, and collaborates with banks to deliver financial services. the company is a member of the dps trademark and dps sas and incorporates eco-friendly practices by eliminating paper receipts.",
+    "business_model":[
+      "Business-to-Business",
+      "Software-as-a-Service",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Financial Services"
+    ],
+    "core_offerings":[
+      "Mobile Recharge Services",
+      "Financial Institution Collaboration Services",
+      "Digital Payment Platform Development",
+      "Online Shopping Payment Services",
+      "Scan QR Payment Solutions",
+      "Digital Wallet Services",
+      "Business Application Development Services",
+      "Payment Link Payment Solutions",
+      "Multi-Language Payment Platform Services",
+      "QR Code Payment Technology Integration",
+      "Dynamic QR Code Payment Solutions",
+      "Bill Payment Services",
+      "Static QR Code Payment Solutions",
+      "European Pay ID Payment Solutions",
+      "Eco-Friendly Payment Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"522320",
+    "industry_name":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+    "revenue_per_employee":256828.5,
+    "cluster":6
+  },
+  {
+    "website":"vipexchange.uk",
+    "operational_name":"VIP Exchange",
+    "year_founded":2020,
+    "address":{
+      "country_code":"gb",
+      "country_name":"United Kingdom",
+      "county":"Greater London",
+      "house_number":"28",
+      "latitude":51.5088976,
+      "longitude":-0.145402,
+      "postcode":"W1J 6EN",
+      "raw_text":"2nd Floor, Berkeley House, 28 Berkeley Square, Mayfair, London, W1J 6BD\/W1J 6EN, United Kingdom",
+      "region_code":"gb-eng",
+      "region_name":"England",
+      "street":"Berkeley Square",
+      "suburb":"Westminster",
+      "town":"London"
+    },
+    "employee_count":2,
+    "revenue":196555,
+    "primary_naics":{
+      "code":"522320",
+      "label":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+      "share":0.7
+    },
+    "description":"vipland ltd, dba vip exchange, is a british financial services company specialized in foreign exchange, currency conversion, and money transfer services. the company serves both individual and corporate clients, including businesses and financial institutions, and provides gateway services and corporate financial solutions. vip exchange operates multiple branches in london and offers services to clients in over 200 countries and territories.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Financial Services"
+    ],
+    "core_offerings":[
+      "Corporate Financial Services",
+      "Financial Services Consulting",
+      "Currency Exchange Services",
+      "Travel Money Services",
+      "Gateway Services",
+      "Tailored Financial Solutions Consulting",
+      "Money Transfer Services"
+    ],
+    "is_public":false,
+    "secondary_naics":{
+      "code":"522390",
+      "label":"Other Activities Related to Credit Intermediation",
+      "share":0.3
+    },
+    "naics_code":"522320",
+    "industry_name":"Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+    "revenue_per_employee":98277.5,
+    "cluster":6
+  },
+  {
+    "website":"nipponpaint.com.sg",
+    "operational_name":"Nippon Paint Singapore",
+    "year_founded":1962,
+    "address":{
+      "country_code":"sg",
+      "latitude":1.3278391,
+      "longitude":103.6934711,
+      "region_name":"Singapore",
+      "town":"Singapore"
+    },
+    "employee_count":6,
+    "revenue":30247631015,
+    "primary_naics":{
+      "code":"325510",
+      "label":"Paint and Coating Manufacturing"
+    },
+    "description":"nippon paint singapore co. pte ltd is a singaporean company engaged in the manufacturing and distribution of paints and coatings for sectors such as construction, automotive, and consumer goods. the company also provides professional painting services, specification support, and paint disposal solutions. its operations include research and development, supply chain management, and the provision of technical resources for product selection. nippon paint singapore serves both trade and consumer clients and is expanding its presence in southeast asia, including myanmar, brunei, and the maldives.",
+    "business_model":[
+      "Wholesale",
+      "Manufacturing",
+      "E-commerce",
+      "Business-to-Business",
+      "Retail",
+      "Service Provider",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Construction",
+      "Consumer Goods",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Environmentally Friendly Paint Development",
+      "Color and Application Guidance Services",
+      "Special Effects Paint Manufacturing",
+      "Protective Coating Manufacturing",
+      "Consumer Paint Manufacturing",
+      "Paint and Coating Retail",
+      "Paint Disposal Services",
+      "Industry-Specific Painting Solutions",
+      "Automotive Coating Manufacturing",
+      "Paint and Coating Research and Development",
+      "Advanced Cool Coating Development",
+      "Paint Specification Consulting Services",
+      "Professional Painting Services",
+      "Paint and Coating Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325510",
+    "industry_name":"Paint and Coating Manufacturing",
+    "revenue_per_employee":5041271835.8333330154,
+    "cluster":6
+  },
+  {
+    "website":"tcs.com",
+    "operational_name":"Tata Consultancy Services",
+    "year_founded":1968,
+    "address":"{'country_code': 'in', 'latitude': 19.03883715735294, 'longitude': 72.86969495367647, 'region_name': 'Maharashtra', 'town': 'Mumbai'}",
+    "employee_count":607979,
+    "revenue":5009783346,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"tata consultancy services limited is an indian multinational technology company that provides information technology consulting, outsourcing, and software services. the company delivers solutions in areas such as digital transformation, cloud computing, cybersecurity, and internet of things, and offers business solutions and specialized technologies. tata consultancy services serves clients in sectors including banking, capital markets, consumer packaged goods, communications, education, energy, healthcare, high technology, insurance, life sciences, manufacturing, public services, retail, travel and logistics, and public sector organizations. the company operates internationally with a global presence and is publicly traded on the national stock exchange and bombay stock exchange.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Capital Markets",
+      "Consulting",
+      "Manufacturing",
+      "High Tech",
+      "Energy",
+      "Retail",
+      "Travel and Logistics",
+      "Communications",
+      "Public Services",
+      "Healthcare",
+      "Information Technology",
+      "Consumer Packaged Goods",
+      "Insurance",
+      "Education",
+      "Life Sciences",
+      "Banking"
+    ],
+    "core_offerings":[
+      "IoT Solutions Development",
+      "IT Outsourcing Services",
+      "Cloud Computing Solutions",
+      "Research and Innovation Services",
+      "Business Solutions Consulting",
+      "AI Solutions Development",
+      "IT Consulting Services",
+      "Software Development Services",
+      "Cybersecurity Solutions Development",
+      "Sustainability and Community Engagement Services",
+      "Industry-Specific Digital Transformation Services",
+      "MES Software Development"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":8240.0598474618,
+    "cluster":6
+  },
+  {
+    "website":"concentrix.com",
+    "operational_name":"Concentrix",
+    "year_founded":2000,
+    "address":"{'country_code': 'us', 'latitude': 37.5213532, 'longitude': -121.99372478509184, 'region_name': 'California', 'town': 'Newark'}",
+    "employee_count":440000,
+    "revenue":146777605645,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"concentrix corporation is an american technology and services company that provides enterprise technology solutions, business process outsourcing, and business transformation services. the company delivers strategy and design, data and analytics, enterprise technology, digital operations, and specialized offerings such as contact center solutions, ai-powered digital transformation, and cybersecurity services. concentrix serves clients in sectors including automotive, banking, financial services, energy, government, healthcare, media, retail, technology, and travel, and operates internationally across multiple regions. the company is publicly traded and has a history of strategic acquisitions.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Energy",
+      "Financial Services",
+      "Automotive",
+      "Media",
+      "Retail",
+      "Healthcare",
+      "Travel",
+      "Banking",
+      "Technology",
+      "Government"
+    ],
+    "core_offerings":[
+      "Enterprise Software Solutions Development",
+      "Outsourcing Services",
+      "Digital Transformation Consulting",
+      "AI-Powered Digital Transformation Services",
+      "Technical Support Services",
+      "Sustainability Consulting Services",
+      "Prepackaged Software Solutions Development",
+      "Contact Center Solutions Delivery",
+      "Cybersecurity Services",
+      "IT Consulting Services",
+      "Customer Experience Design and Delivery",
+      "Sales and Marketing Services",
+      "Data and Analytics Solutions Development",
+      "Digital Operations Management",
+      "Enterprise Technology Solutions Development",
+      "Business Process Outsourcing Services"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":333585.467375,
+    "cluster":6
+  },
+  {
+    "website":"capgemini.com",
+    "operational_name":"Capgemini",
+    "year_founded":1967,
+    "address":"{'country_code': 'ca', 'latitude': 43.644170900000006, 'longitude': -79.37735244297811, 'region_name': 'Ontario', 'town': 'Toronto'}",
+    "employee_count":341100,
+    "revenue":53148270656,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"capgemini canada inc. is a canadian management and it consulting company engaged in providing services across applications, consulting, infrastructure, financials, business processing, operational technology, engineering, workforce strategies, and technology projects. the company serves a wide range of industries, including utilities, banking, insurance, consumer products, retail, manufacturing, automotive, public sector, and hospitality, with operations across canada and a global network of offices and delivery centers. capgemini is also involved in sustainability initiatives, supporting the un sustainable development goals, and is committed to indigenous relations and digital inclusion.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Public Sector",
+      "Manufacturing",
+      "Hospitality",
+      "Automotive",
+      "Retail",
+      "Utilities",
+      "Insurance",
+      "Banking",
+      "Consumer Products"
+    ],
+    "core_offerings":[
+      "Artificial Intelligence Solutions",
+      "Workforce Strategy Consulting",
+      "Management Consulting Services",
+      "Technology Project Management Services",
+      "Engineering Consulting Services",
+      "Operational Technology Solutions",
+      "IT Consulting Services",
+      "Software Development Services",
+      "Digital Engineering Services",
+      "Applications Development and Integration",
+      "Cloud Solutions Development",
+      "Sustainability and ESG Consulting Services",
+      "Data Analytics Solutions",
+      "Industry-Specific Solutions Development",
+      "Business Process Outsourcing Services"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":155814.3378950454,
+    "cluster":6
+  },
+  {
+    "website":"wipro.com",
+    "operational_name":"Wipro",
+    "year_founded":1945,
+    "address":"{'country_code': 'in', 'latitude': 12.90982715, 'longitude': 77.68784384603327, 'region_name': 'Karnataka', 'town': 'Doddakannelli'}",
+    "employee_count":233346,
+    "revenue":2017157539,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"wipro limited is an indian multinational technology company engaged in information technology, consulting, and business process services. the company provides services in areas such as cloud computing, cybersecurity, data analytics, digital transformation, artificial intelligence, robotics, and engineering. wipro serves clients across sectors including banking, financial services, telecommunications, media and information services, consumer goods, education, public sector, retail, travel, energy, manufacturing, aerospace, automotive, industrial manufacturing, natural resources, oil and gas, utilities, healthcare, life sciences, medical devices, technology products and services, and consumer electronics. the company operates globally, with a presence in major markets across the americas, asia pacific, africa, europe, middle east, and india.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Telecommunications",
+      "Public Sector",
+      "Manufacturing",
+      "Consumer Goods",
+      "Energy",
+      "Industrial Manufacturing",
+      "Natural Resources",
+      "Aerospace",
+      "Financial Services",
+      "Automotive",
+      "Retail",
+      "Utilities",
+      "Healthcare",
+      "Education",
+      "Life Sciences",
+      "Travel",
+      "Technology Products and Services",
+      "Consumer Electronics",
+      "Oil and Gas",
+      "Media and Information Services"
+    ],
+    "core_offerings":[
+      "Cloud Computing Solutions",
+      "Engineering Services",
+      "Game Engineering Services",
+      "AI-Powered Solutions Development",
+      "Sustainability Consulting Services",
+      "Cybersecurity Solutions",
+      "Technology Consulting Services",
+      "Platform Migration Services",
+      "Digital Transformation Solutions",
+      "Data Analytics Solutions",
+      "Localization Services",
+      "Digital Experience Design Services",
+      "Robotics Solutions Development",
+      "Business Process Outsourcing Services"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":8644.4916090269,
+    "cluster":6
+  },
+  {
+    "website":"hcltech.com",
+    "operational_name":"DWS Group",
+    "year_founded":1991,
+    "address":"{'country_code': 'au', 'latitude': -37.8155826, 'longitude': 144.95727453020197, 'region_name': 'Victoria', 'town': 'Melbourne'}",
+    "employee_count":227481,
+    "revenue":1580480112,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"dws limited, known as dws group, is an australian consulting company engaged in it, business, and management consulting services. the company serves corporate clients and government entities across australia, providing services such as program and project management, business analytics and data, strategic advisory, productivity services, managed application services, and robotics process automation. dws group is iso certified and is part of the hcltech group, a global technology company.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Government",
+      "Business Services",
+      "Information Technology"
+    ],
+    "core_offerings":[
+      "Robotics Process Automation Services",
+      "Digital Transformation Consulting",
+      "Strategic Advisory Services",
+      "Cybersecurity Consulting Services",
+      "Managed Application Services",
+      "Business Analytics and Data Services",
+      "AI Solutions Development",
+      "IT Consulting Services",
+      "Business and Management Consulting Services",
+      "Cloud Migration Services",
+      "Engineering Solutions Development",
+      "Customer-Driven Innovation Services",
+      "Cloud Solutions Development",
+      "Productivity Services"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":6947.7455787516,
+    "cluster":6
+  },
+  {
+    "website":"nttdata.com",
+    "operational_name":"NTT DATA",
+    "year_founded":1988,
+    "address":"{'country_code': 'jp', 'latitude': 35.6550061, 'longitude': 139.7961298, 'region_name': 'Tokyo', 'town': 'Tokyo'}",
+    "employee_count":195100,
+    "revenue":24097971365,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"ntt data group corporation is a japanese multinational information technology service and consulting company engaged in it consulting, business process services, it modernization, and managed services. the company serves a wide range of industries, including automotive, banking, education, energy, healthcare, insurance, life sciences, manufacturing, retail, telecommunications, media, technology, and travel. ntt data also provides cloud solutions, cybersecurity, data and artificial intelligence, digital workplace solutions, edge computing, enterprise application platforms, generative ai, global data centers, network services, and sustainability services. the company operates internationally and is part of the ntt group.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Telecommunications",
+      "Manufacturing",
+      "Energy",
+      "Automotive",
+      "Media",
+      "Retail",
+      "Healthcare",
+      "Insurance",
+      "Education",
+      "Life Sciences",
+      "Travel",
+      "Banking",
+      "Technology"
+    ],
+    "core_offerings":[
+      "Global Data Center Services",
+      "Digital Workplace Solutions Implementation",
+      "Edge Computing Solutions Deployment",
+      "Network Infrastructure Services",
+      "Application Development and Integration",
+      "IT Modernization Services",
+      "Sustainability Consulting Services",
+      "Cloud Solutions Implementation",
+      "Managed IT Services",
+      "Cybersecurity Solutions Deployment",
+      "IT Consulting Services",
+      "Data and AI Solutions Development",
+      "Business Process Services",
+      "Generative AI Solutions Development",
+      "Industry-Specific Solutions Development",
+      "Enterprise Application Platform Development"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":123515.9987954895,
+    "cluster":6
+  },
+  {
+    "website":"genpact.com",
+    "operational_name":"Genpact",
+    "year_founded":1997,
+    "address":"{'country_code': 'us', 'latitude': 39.7837304, 'longitude': -100.445882, 'region_name': None, 'town': None}",
+    "employee_count":125000,
+    "revenue":47195522844,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"genpact luxembourg s.a.r.l is an american information technology services, consulting, and outsourcing company engaged in business process outsourcing and technology solutions. the company provides services in data and ai, digital technology, advisory services, and business functions such as finance and accounting, risk and compliance, supply chain management, customer care, human resources management, sales and commercial, sourcing and procurement, sustainability, and trust and safety. genpact serves clients in over 35 countries and operates globally, with a presence in the united states and india.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Manufacturing",
+      "Software and Digital Platforms",
+      "Healthcare",
+      "Insurance",
+      "Banking"
+    ],
+    "core_offerings":[
+      "Automation and AI Solutions Development",
+      "Digital Transformation Consulting",
+      "Cloud Technology Solutions Development",
+      "Finance and Accounting Services",
+      "Sales and Commercial Services",
+      "Business Management Consulting Services",
+      "Data and AI Solutions Development",
+      "Industry-Specific Business Services",
+      "Risk and Compliance Services",
+      "Sourcing and Procurement Services",
+      "Advanced Technology Solutions Development",
+      "Sustainability and Supply Chain Management Services",
+      "Business Process Outsourcing Services",
+      "Human Resources Management Services",
+      "Customer Care Services"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":377564.182752,
+    "cluster":6
+  },
+  {
+    "website":"fujitsu.com",
+    "operational_name":"Fujitsu",
+    "year_founded":1935,
+    "address":"{'country_code': 'jp', 'latitude': 35.583355, 'longitude': 139.64006391850688, 'region_name': 'Kanagawa Prefecture', 'town': 'Kawasaki'}",
+    "employee_count":124000,
+    "revenue":56668130586,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"fujitsu limited is a japanese multinational corporation engaged in information and communications technology (ict) equipment and services. the company provides it services and solutions, including business and digital transformation, network and security services, it and infrastructure operations, hybrid it and cloud services, and consulting. fujitsu serves a wide range of industries, including manufacturing, mobility and transportation, retail, public sector, finance, healthcare, and resources and energy. the company also operates in telecommunications, computer hardware, consumer electronics, software, data storage, cloud computing, and semiconductors. fujitsu is publicly traded on the tokyo stock exchange and is part of the furukawa group.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Manufacturing",
+      "Financial Services",
+      "Retail",
+      "Healthcare",
+      "Education",
+      "Government"
+    ],
+    "core_offerings":[
+      "Connected Technology Services",
+      "Sustainability Consulting Services",
+      "Internet of Things Solutions Development",
+      "Artificial Intelligence Solutions Development",
+      "Digital Transformation Services",
+      "Digital Co-Creation Services",
+      "Computing Platform Solutions",
+      "Cloud Services",
+      "Security Solutions Implementation",
+      "Business Technology Services",
+      "Sports and Community Engagement Services",
+      "Industry-Specific Solutions Development"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":457001.0531129032,
+    "cluster":6
+  },
+  {
+    "website":"telefonica.com",
+    "operational_name":"Telef\u00f3nica Venture Builder",
+    "year_founded":1972,
+    "address":"{'country_code': 'es', 'latitude': 40.5130306, 'longitude': -3.6642811, 'region_name': 'Community of Madrid', 'town': 'Madrid'}",
+    "employee_count":100870,
+    "revenue":16873072935,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"telef\u00f3nica innovaci\u00f3n digital, s.l.u., known as telef\u00f3nica venture builder, is a spanish company that operates as a venture builder and digital innovation provider. the company supports the development of digital business ideas and startups, offering services such as ideation, business plan development, and post-creation monitoring. telef\u00f3nica venture builder also engages in the creation of new companies based on digital technologies and collaborates with startups in sectors including financial services, e-commerce, media, entertainment, and logistics. additionally, the company is involved in initiatives such as the open gateway project, which provides standardized apis for telecommunications networks, and the camara project, which aims to standardize network apis across the industry.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Telecommunications",
+      "Media and Entertainment",
+      "E-commerce",
+      "Financial Services",
+      "Logistics"
+    ],
+    "core_offerings":[
+      "Telecommunications Services",
+      "Digital Transformation Consulting",
+      "Startup Business Support Services",
+      "API Integration and Standardization Services",
+      "Startup Investment and Development Services",
+      "Data and Analytics Services",
+      "Over-the-Top Services Distribution",
+      "AI and IoT Solutions Development",
+      "Digital Infrastructure Services",
+      "Industry-Specific Digital Solutions Development",
+      "Network API Standardization Services",
+      "Enterprise Software Development",
+      "Open Innovation Campus Services",
+      "Machine-to-Machine Solutions Development",
+      "Pay TV and ITC Services Distribution"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":167275.433082185,
+    "cluster":6
+  },
+  {
+    "website":"cgi.com",
+    "operational_name":"CGI",
+    "year_founded":1976,
+    "address":"{'country_code': 'ca', 'latitude': 45.4962042, 'longitude': -73.5722492, 'region_name': 'Quebec', 'town': 'Montreal'}",
+    "employee_count":95000,
+    "revenue":19128497746,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"cgi inc. is a canadian multinational information technology consulting and software development company. the company provides business consulting, systems integration, managed it services, application services, infrastructure services, business process management, and intellectual property solutions. cgi also offers professional training and coaching, and is involved in the development of iot applications, cloud computing, and application development testing and maintenance. the company serves clients in sectors such as banking, communications, government, healthcare, insurance, life sciences, manufacturing, oil and gas, retail, transportation, utilities, aerospace, maritime, media, housing, construction, and space, with operations in over 40 countries.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Maritime",
+      "Manufacturing",
+      "Construction",
+      "Aerospace",
+      "Transportation",
+      "Media",
+      "Space",
+      "Retail",
+      "Communications",
+      "Housing",
+      "Utilities",
+      "Healthcare",
+      "Insurance",
+      "Life Sciences",
+      "Banking",
+      "Oil and Gas",
+      "Government"
+    ],
+    "core_offerings":[
+      "IT Outsourcing Services",
+      "Cloud Computing Solutions",
+      "Digital Transformation Consulting",
+      "Business Process Management Services",
+      "IoT Application Development Services",
+      "IT Infrastructure Services",
+      "Data Analytics Services",
+      "Management Consulting Services",
+      "Systems Integration Services",
+      "Managed IT Services",
+      "IT Consulting Services",
+      "Cybersecurity Solutions",
+      "Application Maintenance Services",
+      "Intellectual Property Solutions",
+      "Application Development and Testing Services",
+      "Business Consulting Services"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":201352.6078526316,
+    "cluster":6
+  },
+  {
+    "website":"atos.net",
+    "operational_name":"Atos",
+    "year_founded":2000,
+    "address":"{'country_code': 'fr', 'latitude': 48.9245425, 'longitude': 2.2222113685909424, 'region_name': 'Ile-de-France', 'town': 'Bezons'}",
+    "employee_count":94000,
+    "revenue":14646547762,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"atos se is a french multinational company that provides information technology services, digital transformation solutions, and consulting. the company delivers services in cloud and infrastructure, cybersecurity, data and artificial intelligence, application services, smart platforms, and digital workplace solutions. atos also offers consulting and advisory services, as well as managed services and integration services. the company operates internationally, serving businesses, institutions, and communities in over 61 countries. atos is part of the gaia-x initiative and is involved in sustainability initiatives, including decarbonization and digital transformation.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Data Analytics",
+      "Cybersecurity",
+      "Digital Transformation",
+      "Information Technology",
+      "Cloud Computing"
+    ],
+    "core_offerings":[
+      "Big Data Analytics Services",
+      "Cloud Infrastructure Development",
+      "Hybrid Cloud Solutions Implementation",
+      "Digital Transformation Consulting",
+      "Digital Workplace Solutions Implementation",
+      "Application Development and Integration",
+      "Technology Outsourcing Services",
+      "Mainframe Solutions Development",
+      "Sustainable Digital Solutions Consulting",
+      "Data and AI Services",
+      "Cybersecurity Solutions Deployment",
+      "IT Consulting Services",
+      "Smart Platform Development",
+      "Unified Communications Services",
+      "Decarbonization Services"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":155814.337893617,
+    "cluster":6
+  },
+  {
+    "website":"epam.com",
+    "operational_name":"EPAM",
+    "year_founded":1993,
+    "address":"{'country_code': 'us', 'latitude': 40.222923, 'longitude': -74.9058366, 'region_name': 'Pennsylvania', 'town': 'Newtown'}",
+    "employee_count":62050,
+    "revenue":13373358770,
+    "primary_naics":"{'code': '541511', 'label': 'Custom Computer Programming Services'}",
+    "description":"epam systems, inc. is an american software engineering company that provides software engineering, digital platform engineering, and digital product design services. the company also offers digital transformation consulting, cloud and data analytics solutions, artificial intelligence and cybersecurity services, and digital business process outsourcing. epam serves clients in sectors such as consumer goods, financial services, healthcare, energy, and automotive, and operates internationally with offices in the usa, europe, asia, and the middle east. the company is a member of the mach alliance and is publicly traded on the new york stock exchange.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Consumer Goods",
+      "Energy",
+      "Financial Services",
+      "Automotive",
+      "Healthcare"
+    ],
+    "core_offerings":[
+      "AI-Driven Solution Development",
+      "Digital Product Design Services",
+      "Experience Build Services",
+      "Digital Transformation Consulting",
+      "Data Analytics Services",
+      "Generative AI Solution Development",
+      "Digital Business Process Outsourcing",
+      "Experience Design Services",
+      "Experience Run Services",
+      "Cybersecurity Solution Development",
+      "Experience Engineering Services",
+      "Software Engineering Services",
+      "Cloud Platform Engineering",
+      "Experience Orchestration Services",
+      "Experience Testing Services"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541511', 'label': 'Custom Computer Programming Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":215525.524093473,
+    "cluster":6
+  },
+  {
+    "website":"leidos.com",
+    "operational_name":"Leidos",
+    "year_founded":1969,
+    "address":"{'country_code': 'us', 'latitude': 38.9590871, 'longitude': -77.35577653156261, 'region_name': 'Virginia', 'town': 'Reston'}",
+    "employee_count":48000,
+    "revenue":27977712699,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"leidos, inc. is an american company that operates as a systems integrator, engineering firm, and information technology services provider. the company delivers solutions in national security, health, defense, energy, government, and space sectors, with activities including systems integration, engineering, and it services. leidos also provides digital modernization, cybersecurity, and enterprise software solutions, as well as cloud and artificial intelligence services. its operations serve both civilian and defense agencies, as well as commercial markets, and the company holds government-wide acquisition, indefinite delivery, and blanket purchase agreement contract vehicles.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Aviation",
+      "Energy",
+      "Space",
+      "Healthcare",
+      "Defense",
+      "Technology",
+      "Government"
+    ],
+    "core_offerings":[
+      "Advanced Sensor Technology Development",
+      "Defense Systems Engineering Services",
+      "Healthcare Systems Consulting",
+      "Cloud Infrastructure Services",
+      "Security Instrument Manufacturing",
+      "Healthcare IT Solutions Development",
+      "IT Consulting Services",
+      "Aviation Systems Engineering Services",
+      "Systems Integration and Engineering Services",
+      "Space Technology Solutions Development",
+      "Cybersecurity Solutions",
+      "Enterprise Software Development",
+      "Nondestructive Imaging Technology Development",
+      "Artificial Intelligence and Machine Learning Services",
+      "Digital Modernization Solutions"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":582869.0145624999,
+    "cluster":6
+  },
+  {
+    "website":"boozallen.com",
+    "operational_name":"Booz Allen",
+    "year_founded":1914,
+    "address":"{'country_code': 'us', 'latitude': 38.92234585, 'longitude': -77.23163400152733, 'region_name': 'Virginia', 'town': 'McLean'}",
+    "employee_count":34200,
+    "revenue":6739043686,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"booz allen hamilton inc. is an american company that provides management and technology consulting, cybersecurity services, digital transformation solutions, and artificial intelligence and cloud computing services. the company also offers software development, mission readiness support, and professional training and coaching. booz allen serves government agencies, commercial enterprises, international organizations, and nonprofits, with operations in the united states, southeast asia, and europe. the company is publicly traded and is a component of the russell 1000 index.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Nonprofit",
+      "Government",
+      "Defense",
+      "Information Technology"
+    ],
+    "core_offerings":[
+      "Systems Engineering and Integration",
+      "Research and Development Services",
+      "Mission Readiness Solutions Delivery",
+      "Digital Transformation Consulting",
+      "Human Capital Consulting Services",
+      "Communications Strategy Consulting",
+      "Professional Training and Coaching Services",
+      "Process Improvement Consulting",
+      "Supply Chain and Logistics Solutions",
+      "Business Management Consulting Services",
+      "Cloud Computing Implementation",
+      "Cybersecurity Solutions Development",
+      "Custom Software Development",
+      "Artificial Intelligence Integration Services"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":197048.060994152,
+    "cluster":6
+  },
+  {
+    "website":"mphasis.com",
+    "operational_name":"Mphasis",
+    "year_founded":1998,
+    "address":"{'country_code': 'us', 'latitude': 40.7424573, 'longitude': -73.986569, 'region_name': 'New York', 'town': 'New York'}",
+    "employee_count":31645,
+    "revenue":219861409,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"mphasis corporation is an indian multinational information technology service and consulting company engaged in technology solutions, cloud services, and digital transformation. the company provides services in application services, blockchain, cognitive computing, cybersecurity, it value stream acceleration, agile it operations, experience design, governance, risk and compliance, infrastructure services, modernization, data management, and product engineering. mphasis serves clients across sectors such as banking, insurance, healthcare, life sciences, oil and gas, public sector, technology, communications, energy and utilities, logistics, and manufacturing, with operations in the americas, asia pacific, africa, europe, and oceania. the company also operates as a business process outsourcing provider and is publicly traded on the bombay stock exchange and the national stock exchange of india.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Telecommunications",
+      "Public Sector",
+      "Manufacturing",
+      "Energy",
+      "Financial Services",
+      "Healthcare",
+      "Logistics",
+      "Life Sciences",
+      "Oil and Gas",
+      "Technology"
+    ],
+    "core_offerings":[
+      "Infrastructure Services",
+      "Application Management Services",
+      "Application Services",
+      "Experience Design Services",
+      "Cognitive Computing Solutions Development",
+      "Digital Transformation Services",
+      "Cloud Computing Services",
+      "Agile IT Operations Services",
+      "Blockchain Solutions Development",
+      "Governance, Risk, and Compliance Services",
+      "Technology Consulting Services",
+      "Cybersecurity Solutions Development",
+      "Product Engineering Services",
+      "IT Value Stream Acceleration Services",
+      "Application Development and Integration Services",
+      "Business Process Outsourcing Services"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":6947.7455838205,
+    "cluster":6
+  },
+  {
+    "website":"globant.com",
+    "operational_name":"Globant",
+    "year_founded":2003,
+    "address":"{'country_code': 'lu', 'latitude': 49.6112768, 'longitude': 6.129799, 'region_name': 'Luxembourg', 'town': 'Luxembourg'}",
+    "employee_count":29150,
+    "revenue":1178707576,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"globant s.a. is an international it and software development company engaged in ai-driven software development, business transformation solutions, and cloud services. the company provides software product development, mobile application development, social network development, and mainframe migration, serving clients in sectors such as automotive, healthcare, media and entertainment, education, retail, hospitality, sports, energy, consumer goods, and manufacturing. globant operates globally, with offices in multiple countries and a focus on sustainability and ethical practices.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Retail",
+      "Finance",
+      "Healthcare",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Research and Development Services",
+      "AI-Driven Software Development",
+      "IT Outsourcing Services",
+      "Digital Transformation Consulting",
+      "AI Software Development Services",
+      "AI Software Development Platforms Deployment",
+      "Sustainability and Social Responsibility Consulting",
+      "Mobile Application Development",
+      "Industry-Specific Software Development",
+      "Mainframe Migration Services",
+      "Software Product Development",
+      "AI Agent Deployment",
+      "Social Network Platform Development",
+      "AI Software Development Tools Integration"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":40435.9374271012,
+    "cluster":6
+  },
+  {
+    "website":"saic.com",
+    "operational_name":"SAIC",
+    "year_founded":1969,
+    "address":"{'country_code': 'us', 'latitude': 38.955889799999994, 'longitude': -77.35633687806292, 'region_name': 'Virginia', 'town': 'Reston'}",
+    "employee_count":25000,
+    "revenue":7044681709,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"science applications international corporation, inc., known as saic, is an american technology company that provides mission integration, information technology services, engineering, and professional services for federal civilian, state and local, defense, intelligence community, and space sectors. the company delivers solutions in areas such as mission it, enterprise it, cybersecurity, cloud services, and artificial intelligence-driven tools. saic operates internationally, with offices in the united states, australia, canada, and other countries.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Space",
+      "Intelligence",
+      "Government",
+      "Defense"
+    ],
+    "core_offerings":[
+      "Mission IT Solutions Development",
+      "Technology Integration Services",
+      "Defense and Intelligence Solutions Development",
+      "Engineering Services",
+      "Enterprise IT Solutions Development",
+      "Federal and State IT Solutions Development",
+      "Emerging Technology Integration Services",
+      "Cloud Services",
+      "Cybersecurity Solutions Development",
+      "Professional Services",
+      "Space Sector Solutions Development",
+      "AI-Driven Tools Development",
+      "Digital Transformation Solutions",
+      "Secure High-End Solutions Development"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":281787.26836,
+    "cluster":6
+  },
+  {
+    "website":"tietoevry.com",
+    "operational_name":"Tietoevry",
+    "year_founded":1968,
+    "address":"{'country_code': 'fi', 'latitude': 60.170408300000005, 'longitude': 24.828491784095917, 'region_name': 'Uusimaa', 'town': 'Espoo'}",
+    "employee_count":23632,
+    "revenue":4334057488,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"tietoevry oyj is a finnish company engaged in software development, digital engineering, and it consulting. the company provides services in cloud solutions, data-driven business transformation, intelligent automation, user experience services, cybersecurity, and ai-powered solutions. tietoevry serves a broad range of industries, including automotive, financial services, healthcare, education, energy, manufacturing, public sector, pulp, paper, and packaging, as well as fintech and telecom sectors. the company operates internationally, with offices in finland, norway, sweden, denmark, estonia, france, germany, india, and the united states.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Public Sector",
+      "Forestry",
+      "Manufacturing",
+      "Energy",
+      "Financial Services",
+      "Automotive",
+      "Healthcare",
+      "Education",
+      "Telecom",
+      "Pulp and Paper"
+    ],
+    "core_offerings":[
+      "Data-Driven Business Transformation Consulting",
+      "Sustainability and Ethical Technology Consulting",
+      "AI-Powered Solutions Development",
+      "User Experience Design Services",
+      "Digital Equality and Inclusion Services",
+      "Cybersecurity Solutions Deployment",
+      "IT Consulting Services",
+      "Digital Engineering Services",
+      "Industry-Specific Digital Solutions Development",
+      "Intelligent Automation Implementation",
+      "Cloud Solutions Development",
+      "Business Process Outsourcing Services"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":183397.8287068382,
+    "cluster":6
+  },
+  {
+    "website":"asgn.com",
+    "operational_name":"ASGN",
+    "year_founded":1985,
+    "address":"{'country_code': 'us', 'latitude': 37.65637435, 'longitude': -77.5781101782265, 'region_name': 'Virginia', 'town': 'Glen Allen'}",
+    "employee_count":21000,
+    "revenue":5917532636,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"asgn incorporated is an american information technology services company that provides it consulting, professional staffing, and enterprise software solutions for commercial and government clients. the company operates through two main segments: apex systems, which delivers technology and creative digital marketing services, and ecs, which provides mission-critical it services to government agencies. asgn also offers management consulting, professional training and coaching, and digital services, including data and analytics, artificial intelligence and machine learning, and cloud solutions. the company serves a broad range of industries, including financial services, healthcare, technology, media, telecommunications, business and government services, and defense, and maintains operations in north america, mexico, canada, and latin america.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Telecommunications",
+      "Consumer Goods",
+      "Financial Services",
+      "Media",
+      "Healthcare",
+      "Defense",
+      "Government Services",
+      "Technology",
+      "Business Services"
+    ],
+    "core_offerings":[
+      "Digital Transformation Consulting",
+      "DevOps Services",
+      "AI and Machine Learning Services",
+      "Management Consulting Services",
+      "Professional Training and Coaching Services",
+      "IT Modernization Services",
+      "Data and Analytics Services",
+      "Professional Staffing Services",
+      "Cloud Solutions Implementation",
+      "Creative Digital Marketing Services",
+      "Business Solutions Consulting",
+      "Digital Marketing Services",
+      "IT Consulting Services",
+      "Enterprise Software Development",
+      "Cybersecurity Solutions Development"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":281787.2683809524,
+    "cluster":6
+  },
+  {
+    "website":"caci.com",
+    "operational_name":"CACI",
+    "year_founded":1962,
+    "address":"{'country_code': 'us', 'latitude': 38.9543424, 'longitude': -77.35089, 'region_name': 'Virginia', 'town': 'Reston'}",
+    "employee_count":20000,
+    "revenue":5635745368,
+    "primary_naics":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "description":"caci international inc is an american multinational company that provides professional services and information technology solutions for national security, government, and private sector clients. the company operates in consulting, defense, information technology, and outsourcing, offering services such as enterprise it, mission and engineering support, space and spectrum superiority, cyber and digital solutions, and government property management. caci also delivers business intelligence and software development, including enterprise and business systems, and supports its operations with a corporate service management system, virtual university, and related tools and platforms. the company is publicly traded on the new york stock exchange and is certified for sustainability and corporate social responsibility.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Healthcare",
+      "Government Services",
+      "Defense",
+      "Information Technology"
+    ],
+    "core_offerings":[
+      "Defense and Intelligence Consulting",
+      "Space and Spectrum Superiority Solutions",
+      "Business Intelligence Solutions Development",
+      "IT Outsourcing Services",
+      "Government Property Management Services",
+      "Mission and Engineering Support Services",
+      "Cyber and Digital Security Solutions",
+      "Healthcare IT Solutions Development",
+      "Software Development Services",
+      "Sustainability and EHS Consulting Services",
+      "Enterprise Software Development",
+      "Enterprise IT Services",
+      "National Security Solutions Consulting",
+      "Electronic Warfare Solutions Development",
+      "Unmanned Aerial Systems Countermeasures Solutions"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"{'code': '541512', 'label': 'Computer Systems Design Services'}",
+    "industry_name":"Unknown",
+    "revenue_per_employee":281787.2684,
+    "cluster":6
+  },
+  {
+    "website":"yesilbirgelecek.com",
+    "operational_name":"Ye\u015fil Bir Gelecek",
+    "year_founded":2025,
+    "address":{
+      "country_code":"tr",
+      "latitude":37.8944759,
+      "longitude":32.5000785,
+      "region_name":"Konya",
+      "town":"Sel\u00e7uklu"
+    },
+    "employee_count":1,
+    "revenue":29383,
+    "primary_naics":{
+      "code":"541620",
+      "label":"Environmental Consulting Services"
+    },
+    "description":"ye\u015fil bir gelecek dan\u0131\u015fmanl\u0131k teknoloji yaz\u0131l\u0131m a.\u015f., dba ye\u015fil bir gelecek, is a turkish private company that provides carbon footprint calculation services, environmental consulting, and software development for individuals and organizations. the company operates under the european skdm framework, offering technology solutions and platforms for carbon footprint assessment, and is registered with the european greensme platform. its activities include consulting, software development, and technology solutions related to sustainability and environmental responsibility.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Software-as-a-Service",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Software Development",
+      "Environmental Services"
+    ],
+    "core_offerings":[
+      "Individual Carbon Footprint Calculation Services",
+      "Carbon Footprint Calculation Platform Development",
+      "Environmental Technology Solutions Development",
+      "Carbon Footprint Calculation Services",
+      "Sustainability Consulting Services",
+      "Sustainability Education Services",
+      "GreenSME Platform Services",
+      "Climate Change Compliance Consulting",
+      "Corporate Carbon Footprint Calculation Services",
+      "Renewable Energy Consulting Services",
+      "Carbon Footprint Software Development",
+      "Sustainable Production Consulting Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541620",
+    "industry_name":"Environmental Consulting Services",
+    "revenue_per_employee":29383.0,
+    "cluster":6
+  },
+  {
+    "website":"monbefluides.fr",
+    "operational_name":"Mon BE Fluides",
+    "year_founded":2025,
+    "address":{
+      "country_code":"fr",
+      "latitude":48.1033589,
+      "longitude":-1.6755826,
+      "region_name":"Brittany",
+      "town":"Rennes"
+    },
+    "employee_count":3,
+    "revenue":399621,
+    "primary_naics":{
+      "code":"541330",
+      "label":"Engineering Services"
+    },
+    "description":"mon be fluides is a french engineering company engaged in the design and execution of fluid systems for tertiary buildings, including schools, clinics, hotels, hospitals, and other similar facilities. the company provides integrated engineering services covering heating, ventilation, and air conditioning, plumbing, electrical, and fire safety systems. mon be fluides also offers building information modeling (bim) and 3d modeling solutions, and collaborates with industry partners on complex projects such as industrial energy storage sites. its services are available to a diverse range of clients, including educational institutions, healthcare providers, hospitality businesses, care facilities, companies, offices, and sports complexes.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Hospitality",
+      "Education",
+      "Healthcare",
+      "Sports"
+    ],
+    "core_offerings":[
+      "Industrial Energy Storage Site Engineering",
+      "Electrical System Design",
+      "Energy Performance Optimization Consulting",
+      "Customized Engineering Solutions Development",
+      "Plumbing System Design",
+      "Fire Safety System Design",
+      "Fluid Systems Engineering Services",
+      "Carbon Footprint Reduction Consulting",
+      "Technical Coordination and Conflict Resolution Services",
+      "3D Fluid System Modeling Services",
+      "Air Conditioning System Design",
+      "Project Phased Engineering Services",
+      "Integrated BIM Modeling Services",
+      "Heating and Ventilation System Design"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541330",
+    "industry_name":"Engineering Services",
+    "revenue_per_employee":133207.0,
+    "cluster":6
+  },
+  {
+    "website":"utilifyapp.com",
+    "operational_name":"Utilify",
+    "year_founded":2025,
+    "address":{
+      "country_code":"us",
+      "latitude":43.0578008,
+      "longitude":-74.3390471,
+      "region_name":"New York",
+      "town":"New York"
+    },
+    "employee_count":1,
+    "revenue":487116,
+    "primary_naics":{
+      "code":"541690",
+      "label":"Other Scientific and Technical Consulting Services"
+    },
+    "description":"utilify s.r.l. is an american company engaged in energy consulting and digital auditing services, with a focus on energy efficiency and digital auditing solutions. the company provides digital auditing, back office digitalization, energy efficiency projects, carbon footprint monitoring, and energy management solutions for businesses across various industries. utilify also develops intelligent iot solutions that collect data from electricity meters to perform digital audits and monitor electricity bills, supporting energy optimization and cost reduction.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Digital Services",
+      "Energy"
+    ],
+    "core_offerings":[
+      "IoT-Based Energy Data Analysis",
+      "Energy Consulting Services",
+      "Personalized Energy Management Solutions",
+      "Sustainable Energy Solutions Consulting",
+      "Back Office Digitalization Services",
+      "Energy Cost Reduction Consulting",
+      "Operational Efficiency Improvement Consulting",
+      "Energy Efficiency Project Consulting",
+      "Smart Meter Data Integration Services",
+      "Digital Auditing Services",
+      "Energy Usage Pattern Analysis Services",
+      "Carbon Footprint Monitoring Services",
+      "Energy Savings Opportunity Identification Services",
+      "Digital Platform-Based Energy Management Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541690",
+    "industry_name":"Other Scientific and Technical Consulting Services",
+    "revenue_per_employee":487116.0,
+    "cluster":6
+  },
+  {
+    "website":"planethon.io",
+    "operational_name":"Planethon",
+    "year_founded":2025,
+    "address":{
+      "country_code":"se",
+      "latitude":59.2799329847,
+      "longitude":18.0831742023,
+      "region_name":"Stockholm County",
+      "town":"Stockholm"
+    },
+    "employee_count":9,
+    "revenue":1040515,
+    "primary_naics":{
+      "code":"541611",
+      "label":"Administrative Management and General Management Consulting Services"
+    },
+    "description":"planethon is a swedish company engaged in environmental services, with a focus on renewable energy and sustainability solutions. the company provides research and analysis, strategic foresight, scenario planning, transformation programs, value chain engagement, leadership development, sustainability programs, futures literacy training, and community building. planethon also offers a planet & people centric development framework and foresight tools to support clients in sustainable development.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Financial Services",
+      "Environmental Services",
+      "Sustainability",
+      "Media and Entertainment"
+    ],
+    "core_offerings":[
+      "Science-Based Business Intelligence Services",
+      "Sustainable Development Consulting",
+      "Innovation Lab Services",
+      "Planet and People Centric Framework Development",
+      "Environmental and Renewable Energy Consulting",
+      "Leadership Development Services",
+      "Value Chain Engagement Services",
+      "Foresight Tools Development",
+      "Collaborative Project Consulting",
+      "Futures Literacy Training Services",
+      "Community Building Services",
+      "Strategic Foresight and Scenario Planning Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541611",
+    "industry_name":"Administrative Management and General Management Consulting Services",
+    "revenue_per_employee":115612.7777777778,
+    "cluster":6
+  },
+  {
+    "website":"rx-watertec.com",
+    "operational_name":"RX-WATERTEC",
+    "year_founded":2025,
+    "address":{
+      "country_code":"de",
+      "latitude":49.0053319,
+      "longitude":8.4309139,
+      "region_name":"Baden-W\u00fcrttemberg",
+      "town":"Karlsruhe"
+    },
+    "employee_count":6,
+    "revenue":1014973,
+    "primary_naics":{
+      "code":"541330",
+      "label":"Engineering Services"
+    },
+    "description":"rx-watertec gmbh, dba rx-watertec, is a german company specialized in rainwater management solutions that integrate digital technology and iot systems. the company provides services including digital planning, sensor development, artificial intelligence analytics, maintenance, and on-site support for industries such as construction, urban development, and green building projects. rx-watertec also engages in research and development activities related to integrated digitization of water supply systems and collaborates with partners to deliver sustainable urban solutions.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Construction",
+      "Urban Development",
+      "Green Building"
+    ],
+    "core_offerings":[
+      "Construction Project Water Management Consulting",
+      "On-Site Rainwater Management Support",
+      "Sustainable Urban Water Management Consulting",
+      "Future-Proof Water Management Solutions Development",
+      "Rainwater Management Solutions Development",
+      "Rainwater Management System Maintenance",
+      "Digital Rainwater Infrastructure Planning",
+      "Water Management Research and Collaboration",
+      "Urban Development Water Management Consulting",
+      "Cloud-Based Water Management Platform Development",
+      "Green Building Water Management Solutions",
+      "AI Analytics for Water Management",
+      "Custom IoT Sensor Development",
+      "Integrated Water Supply Digitization Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541330",
+    "industry_name":"Engineering Services",
+    "revenue_per_employee":169162.1666666667,
+    "cluster":6
+  },
+  {
+    "website":"trihita-consulting.com",
+    "operational_name":"Tri Hita Consulting",
+    "year_founded":2025,
+    "address":{
+      "country_code":"id",
+      "latitude":-8.6806283282,
+      "longitude":115.3553350026,
+      "region_name":"Bali",
+      "town":"Denpasar"
+    },
+    "employee_count":16,
+    "revenue":193177,
+    "primary_naics":{
+      "code":"541618",
+      "label":"Other Management Consulting Services"
+    },
+    "description":"tri hita consulting is an indonesian consulting firm specialized in sustainability, energy efficiency, and climate change. the company provides strategic advisory services, including climate change strategy, net-zero targets, and sustainable finance, as well as carbon management, esg and sustainable finance, and capacity-building programs. it also offers training and technical assistance for the financial industry, such as training on carbon trading and energy efficiency financing, and supports public and private sector clients in areas including sustainable energy policy, climate policy, and environmental and social assessments. tri hita consulting collaborates with organizations such as the asean centre for energy, tamaris hydro, pt indonesia steel tube works, and the indonesian stock exchange, and is involved in projects related to ghg emission reduction methodologies and sustainable transitions.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Energy",
+      "Government",
+      "Finance"
+    ],
+    "core_offerings":[
+      "Environmental and Social Assessment Services",
+      "GHG Emission Reduction Calculation Methodology Development",
+      "Climate Change Advisory Services",
+      "GHG Inventory Development",
+      "Carbon Management Consulting",
+      "Carbon Credit Strategy Development",
+      "Carbon Offset and Footprint Reduction Consulting",
+      "Net-Zero Strategy Development",
+      "ESG Advisory Services",
+      "Sustainable Finance Consulting",
+      "Energy Efficiency Consulting",
+      "Energy Policy Development Services",
+      "Green Financing Solutions",
+      "GHG Mitigation Assessment Services",
+      "Sustainable Transition Consulting"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541618",
+    "industry_name":"Other Management Consulting Services",
+    "revenue_per_employee":12073.5625,
+    "cluster":6
+  },
+  {
+    "website":"globaltechsolve.com",
+    "operational_name":"GT Solve",
+    "year_founded":2025,
+    "address":{
+      "country_code":"in",
+      "latitude":12.6981683111,
+      "longitude":79.9955670333,
+      "region_name":"Tamil N\u0101du",
+      "town":"Chennai"
+    },
+    "employee_count":2,
+    "revenue":25250,
+    "primary_naics":{
+      "code":"541330",
+      "label":"Engineering Services"
+    },
+    "description":"global tech solve pvt ltd, known as gt solve, is an indian private company engaged in engineering, sourcing, and manufacturing solutions for global mobility programs. the company provides design, development, and supply of high-precision components and subassemblies for electric vehicles, software-defined vehicles, and industrial platforms, serving automotive original equipment manufacturers, software-defined vehicle manufacturers, and industrial platform developers. gt solve operates internationally, with regional hubs in north america, hong kong, vietnam, and china, and offers services such as automation, engineering alignment with production, and the integration of design, manufacturing, and delivery under a single platform. the company also operates as a manufacturing as a service provider, supporting clients with a scalable delivery model and a network of calibrated talent and supplier partners.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Industrial",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Electric Vehicle Component Manufacturing",
+      "Software-Defined Vehicle Component Manufacturing",
+      "Modular Mobility System Integration",
+      "Tooling Design and Development",
+      "Automotive Component Design and Development",
+      "Gig Engineering Services",
+      "Micro-Manufacturing Services",
+      "High-Precision Subassembly Manufacturing",
+      "Mobility Engineering Solutions Development",
+      "Sustainable Mobility Solutions Development",
+      "Industrial Platform Component Manufacturing",
+      "Manufacturing as a Service Solutions",
+      "Advanced Design Automation Services",
+      "Calibrated Talent Deployment Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541330",
+    "industry_name":"Engineering Services",
+    "revenue_per_employee":12625.0,
+    "cluster":6
+  },
+  {
+    "website":"verdantika.co.in",
+    "operational_name":"Verdantika",
+    "year_founded":2025,
+    "address":{
+      "country_code":"in",
+      "latitude":28.4689700081,
+      "longitude":77.0378165236,
+      "region_name":"Haryana",
+      "town":"Gurugram"
+    },
+    "employee_count":1,
+    "revenue":7524,
+    "primary_naics":{
+      "code":"541618",
+      "label":"Other Management Consulting Services"
+    },
+    "description":"verdantika is an indian advisory and professional services firm engaged in sustainable solutions, with a focus on industry, climate, and impact. the company provides research advisory, supply chain optimization, ghg footprinting, life cycle impact assessment, taxation, legal, and epc consulting services. verdantika also offers systems mapping and cross-sectoral partnerships to support clients in regulatory compliance and sustainable business expansion across sectors such as oil and gas, manufacturing, and logistics.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Oil and Gas",
+      "Manufacturing",
+      "Logistics"
+    ],
+    "core_offerings":[
+      "Life Cycle Impact Assessment Services",
+      "Engineering Project Consulting",
+      "Resource Circular Economy Consulting",
+      "Legal Advisory Services",
+      "Decarbonization Strategy Consulting",
+      "Systems Mapping and Impact Analysis",
+      "Climate Innovation Consulting",
+      "Sustainable Business Strategy Development",
+      "Sustainability Advisory Services",
+      "Sustainable Growth Strategy Consulting",
+      "Taxation Advisory Services",
+      "Cross-Sectoral Partnership Development",
+      "Regulatory Compliance Consulting",
+      "Supply Chain Optimization Consulting",
+      "Carbon Footprint Assessment Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541618",
+    "industry_name":"Other Management Consulting Services",
+    "revenue_per_employee":7524.0,
+    "cluster":6
+  },
+  {
+    "website":"sintea.eu",
+    "operational_name":"Sintea",
+    "year_founded":2025,
+    "address":{
+      "country_code":"it",
+      "latitude":44.6234828,
+      "longitude":11.369298,
+      "region_name":"Emilia-Romagna",
+      "town":"San Giorgio di Piano"
+    },
+    "employee_count":8,
+    "revenue":1159938,
+    "primary_naics":{
+      "code":"541690",
+      "label":"Other Scientific and Technical Consulting Services"
+    },
+    "description":"sintea s.r.l., dba sintea, is an italian company specialized in technical-agronomic consulting and sustainable agricultural services. the company provides agronomic consulting, integrated crop management, variety selection, crop rotations, and low-impact environmental nutrition and defense, as well as voluntary certifications such as globalg.a.p., sqnpi, and biologico. sintea also offers campaign notebook services, support for agricultural cooperatives, private merchants, and technical equipment producers, and collaborates with these stakeholders to conduct field trials, demonstrations, and technical dissemination. its operations primarily serve the emilia-romagna region and neighboring areas.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Agriculture"
+    ],
+    "core_offerings":[
+      "Crop Rotation Advisory Services",
+      "Agricultural Field Trial Services",
+      "Agricultural Innovation Promotion Services",
+      "Integrated Crop Management Services",
+      "Sustainable Agriculture Consulting Services",
+      "Technical-Agronomic Consulting Services",
+      "Green Catalog Distribution",
+      "Agricultural Project Documentation Services",
+      "Delegated Campaign Notebook Services",
+      "Agricultural Technical Dissemination Services",
+      "Environmental Nutrition and Defense Services",
+      "Voluntary Certification Support Services",
+      "Agricultural Demonstration Services",
+      "Regulatory Compliance Documentation Services",
+      "Crop Variety Selection Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541690",
+    "industry_name":"Other Scientific and Technical Consulting Services",
+    "revenue_per_employee":144992.25,
+    "cluster":6
+  },
+  {
+    "website":"agiretude.fr",
+    "operational_name":"Agir&Tude",
+    "year_founded":2025,
+    "address":{
+      "country_code":"fr",
+      "latitude":47.3466877,
+      "longitude":-1.2861611,
+      "region_name":"Pays de la Loire",
+      "town":"Oudon"
+    },
+    "employee_count":1,
+    "revenue":135612,
+    "primary_naics":{
+      "code":"541330",
+      "label":"Engineering Services"
+    },
+    "description":"agir&tude is a french engineering consulting firm that provides technical engineering and product development services, including 3d modeling, technical validation, engineering consulting, new product design, analytical and numerical calculations, and technical audits. the company also offers process analysis and improvement, as well as support for sustainable design and eco-conception. agir&tude serves clients in sectors such as lifting, railway, research and development, aerospace tooling, building products, and hydraulic oil, and employs certified professionals in areas including surfacing, mold tools, sustainable design, welding, and sheet metal work.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Hydraulic Oil",
+      "Research and Development",
+      "Construction",
+      "Aerospace",
+      "Railway"
+    ],
+    "core_offerings":[
+      "Technical Validation and Audit Services",
+      "Analytical and Numerical Calculation Services",
+      "Development Process Analysis and Optimization Services",
+      "Product Performance Improvement Consulting",
+      "Research and Development Support Services",
+      "Eco-Design Integration Services",
+      "3D Modeling and Visualization Services",
+      "Welding and Metal Fabrication Services",
+      "Engineering Consulting Services",
+      "Industry-Specific Product Development Services",
+      "Product Design and Development Services",
+      "Advanced Surfacing and Mold Tooling Services",
+      "Sustainable Product Design Consulting",
+      "Tailored Engineering Solutions Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541330",
+    "industry_name":"Engineering Services",
+    "revenue_per_employee":135612.0,
+    "cluster":6
+  },
+  {
+    "website":"brightlnk.com",
+    "operational_name":"BrightLNK",
+    "year_founded":2025,
+    "address":{
+      "country_code":"us",
+      "latitude":39.7837304,
+      "longitude":-100.445882,
+      "region_name":null,
+      "town":null
+    },
+    "employee_count":3,
+    "revenue":1550509,
+    "primary_naics":{
+      "code":"541330",
+      "label":"Engineering Services"
+    },
+    "description":"brightlnk is a company specialized in product development and supply chain solutions, including audits of existing suppliers, qualification of new suppliers, and risk management and manufacturing redeployment. the company provides engineering and project management services for new product introduction and ongoing production, as well as hardware advisory and supplier management. brightlnk serves a diverse range of industries, such as agribusiness, ai hardware, consumer electronics, clean technology, health and wellness, medical devices, military and commercial, robotics and industrial, and vehicles and mobility, supporting startups, emerging brands, and established companies globally.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "AI-enabled hardware",
+      "CleanTech & Renewable Energy",
+      "Robotics & Industrial",
+      "Vehicles & Mobility",
+      "AgTech",
+      "Military & Commercial",
+      "Medical Devices",
+      "Health & Wellness",
+      "Consumer Electronics"
+    ],
+    "core_offerings":[
+      "Supplier Matching and Qualification Services",
+      "New Product Introduction Engineering Services",
+      "Hardware Advisory Services",
+      "Supply Chain Solutions Development",
+      "Project Management Services",
+      "Ongoing Production Engineering Services",
+      "Tariff Landscape Advisory Services",
+      "Strategic Partnership Development Services",
+      "Product Development Services",
+      "Supplier Management Services",
+      "Risk Management Services",
+      "New Product Launch Acceleration Services",
+      "Manufacturing Redeployment Solutions",
+      "Global Supplier Network Access Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541330",
+    "industry_name":"Engineering Services",
+    "revenue_per_employee":516836.3333333333,
+    "cluster":6
+  },
+  {
+    "website":"visusta.ch",
+    "operational_name":"visusta",
+    "year_founded":2025,
+    "address":{
+      "country_code":"ch",
+      "latitude":47.16175085,
+      "longitude":8.289735,
+      "region_name":"Lucerne",
+      "town":"Hochdorf"
+    },
+    "employee_count":2,
+    "revenue":576061,
+    "primary_naics":{
+      "code":"541620",
+      "label":"Environmental Consulting Services"
+    },
+    "description":"visusta gmbh, dba visusta, is a swiss company specialized in providing consulting and interventions to support businesses in achieving sustainability goals. the company focuses on ecological and economic viability, offering services in energy efficiency, greenhouse gas reduction, renewable energy planning, circular economy development, water and wastewater management, and resource optimization. visusta serves a broad range of clients, including those in the food industry, and emphasizes a pragmatic approach to embedding sustainability within business models.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Food and Beverage"
+    ],
+    "core_offerings":[
+      "Water and Wastewater Management",
+      "Greenhouse Gas Reduction Consulting",
+      "Circular Economy Development",
+      "Sustainability Intervention Services",
+      "Sustainability Consulting Services",
+      "Renewable Energy Planning",
+      "Resource Optimization Consulting",
+      "Energy Efficiency Consulting"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541620",
+    "industry_name":"Environmental Consulting Services",
+    "revenue_per_employee":288030.5,
+    "cluster":6
+  },
+  {
+    "website":"auxerisconsulting.com",
+    "operational_name":"Auxeris Consulting",
+    "year_founded":2025,
+    "address":{
+      "country_code":"us",
+      "latitude":42.3656347,
+      "longitude":-71.1040018,
+      "region_name":"Massachusetts",
+      "town":"Cambridge"
+    },
+    "employee_count":1,
+    "revenue":325449,
+    "primary_naics":{
+      "code":"541611",
+      "label":"Administrative Management and General Management Consulting Services"
+    },
+    "description":"auxeris llc, known as auxeris consulting, is a united states consulting firm engaged in strategic advisory and sustainability services for real estate and business. the company provides services in sustainability assessments, energy efficiency, carbon accounting, business strategy integration, data analysis, regulatory navigation, governance, and real estate capital planning. auxeris consulting serves mission-driven organizations and real estate leaders, focusing on the intersection of sustainability, business strategy, and the built environment. the firm is certified by finra and holds securities licenses.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Real Estate",
+      "Business Services"
+    ],
+    "core_offerings":[
+      "Sustainability Assessment and Action Plan Development",
+      "Environmental and Financial Value Assessment",
+      "Governance and Governance Advisory Services",
+      "Regulatory Compliance Consulting",
+      "Carbon Accounting Services",
+      "Real Estate Capital Planning Consulting",
+      "Energy Efficiency Consulting",
+      "Organizational Alignment Consulting",
+      "Strategic Business Advisory Services",
+      "Data Analysis and Insights Services",
+      "Sustainability Strategy Consulting",
+      "Stakeholder Engagement Services",
+      "Business Strategy Integration Consulting"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541611",
+    "industry_name":"Administrative Management and General Management Consulting Services",
+    "revenue_per_employee":325449.0,
+    "cluster":6
+  },
+  {
+    "website":"envirowayadvisory.com",
+    "operational_name":"Enviroway Advisory",
+    "year_founded":2025,
+    "address":{
+      "country_code":"ar",
+      "latitude":-34.6083696,
+      "longitude":-58.4440583,
+      "region_name":"Autonomous City of Buenos Aires",
+      "town":"Buenos Aires"
+    },
+    "employee_count":5,
+    "revenue":1100196,
+    "primary_naics":{
+      "code":"541690",
+      "label":"Other Scientific and Technical Consulting Services"
+    },
+    "description":"sophia s.a.s., dba enviroway advisory, is an argentine sustainability advisory firm specialized in providing services such as sustainability reporting, climate strategy, esg integration, sustainable finance, impact auditing, market and geopolitical analysis, and governance and culture consulting. the company integrates environmental and energy audits with a modular saas platform that offers voice-enabled esg analytics, supplier screening, and blockchain-secured impact metrics. enviroway advisory serves corporate clients in sectors including energy, manufacturing, financial services, healthcare, technology, and consumer goods, with a global presence and a focus on latin america and spain.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Manufacturing",
+      "Consumer Goods",
+      "Energy",
+      "Financial Services",
+      "Healthcare",
+      "Technology"
+    ],
+    "core_offerings":[
+      "AI-Driven Sustainability Solutions",
+      "Impact Auditing Services",
+      "Voice-Enabled ESG Analytics Solutions",
+      "Sustainability Advisory Services",
+      "Environmental and Energy Audit Services",
+      "Market and Geopolitical Analysis Services",
+      "Data-Driven Sustainability Insights Services",
+      "Sustainable Finance Advisory",
+      "ESG Analytics Platform Development",
+      "Supplier Screening Solutions",
+      "Sustainability Reporting Services",
+      "Climate Strategy Consulting",
+      "Blockchain Impact Metrics Solutions",
+      "Governance and Culture Consulting",
+      "ESG Integration Consulting"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541690",
+    "industry_name":"Other Scientific and Technical Consulting Services",
+    "revenue_per_employee":220039.2,
+    "cluster":6
+  },
+  {
+    "website":"idu.gr",
+    "operational_name":"I\u0394U",
+    "year_founded":2025,
+    "address":{
+      "country_code":"gr",
+      "latitude":38.0497284,
+      "longitude":23.8013416,
+      "region_name":"Attica",
+      "town":"Marousi"
+    },
+    "employee_count":3,
+    "revenue":186658,
+    "primary_naics":{
+      "code":"541310",
+      "label":"Architectural Services"
+    },
+    "description":"i\u03b4u is a greek architectural lighting design studio specialized in architectural, landscape, facade, and art exhibit lighting design, as well as natural light planning and evaluation. the company also provides lighting simulation and assessment, sustainable lighting strategy, and collaborates on leed-certified and nearly zero energy building projects. i\u03b4u serves architects, clients, and spaces in greece and internationally, with a focus on environmentally responsible design practices.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Architecture",
+      "Lighting Design",
+      "Sustainable Design"
+    ],
+    "core_offerings":[
+      "Facade Lighting Design Services",
+      "Contextual Lighting Design Services",
+      "Architectural Lighting Design Services",
+      "Lighting Simulation and Assessment Services",
+      "Natural Light Planning and Evaluation Services",
+      "Landscape Lighting Design Services",
+      "Emotion-Enhancing Lighting Experience Design",
+      "Lighting Installation Services",
+      "Art and Exhibit Lighting Design Services",
+      "Personalized Lighting Consulting Services",
+      "Ambiance and Functionality Enhancement Services",
+      "Nearly Zero Energy Building Lighting Services",
+      "Sustainable Lighting Strategy Services",
+      "LEED-Certified Lighting Design Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541310",
+    "industry_name":"Architectural Services",
+    "revenue_per_employee":62219.3333333333,
+    "cluster":6
+  },
+  {
+    "website":"ecoviso.fr",
+    "operational_name":"Ecoviso",
+    "year_founded":2025,
+    "address":{
+      "country_code":"fr",
+      "latitude":43.3123433,
+      "longitude":5.4222706,
+      "region_name":"Provence-Alpes-C\u00f4te d'Azur",
+      "town":"Marseille"
+    },
+    "employee_count":1,
+    "revenue":119185,
+    "primary_naics":{
+      "code":"541620",
+      "label":"Environmental Consulting Services"
+    },
+    "description":"ecoviso sas, dba ecoviso, is a french consulting company specialized in eco-responsible solutions, with a focus on water management, sustainable development, and ecological transitions. the company provides consulting, regulatory compliance, strategic support, commercial assistance, project management, and project implementation services to industrial, agricultural, and technological startups, with a particular emphasis on the mediterranean region. ecoviso also offers resources and tools to support clients in navigating regulatory environments and implementing sustainable solutions.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Industrial",
+      "Technology",
+      "Agriculture"
+    ],
+    "core_offerings":[
+      "Resource Management Project Development",
+      "Water Resource Management Consulting",
+      "Strategic Advisory Services",
+      "Natural and Usage Cycle Analysis Services",
+      "Water Management Consulting",
+      "Sustainable Development Consulting",
+      "Circular Economy Advisory Services",
+      "Eco-Responsible Solutions Consulting",
+      "Water Pricing and Financial Advisory Services",
+      "Environmental Impact Project Development",
+      "Regulatory Compliance Consulting",
+      "Project Management and Implementation Services",
+      "Ecological Transition Consulting",
+      "Innovation and Mergers and Acquisitions Advisory",
+      "Commercial Advisory Services",
+      "Mediterranean Region Water Solutions Consulting"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541620",
+    "industry_name":"Environmental Consulting Services",
+    "revenue_per_employee":119185.0,
+    "cluster":6
+  },
+  {
+    "website":"algavo.com",
+    "operational_name":"Algavo",
+    "year_founded":2025,
+    "address":{
+      "country_code":"no",
+      "latitude":59.07990035,
+      "longitude":10.2804321686,
+      "region_name":"Vestfold og Telemark",
+      "town":"Sandefjord"
+    },
+    "employee_count":2,
+    "revenue":703951,
+    "primary_naics":{
+      "code":"541690",
+      "label":"Other Scientific and Technical Consulting Services"
+    },
+    "description":"algavo as is a norwegian company engaged in the marine bioeconomy, focusing on the transformation of marine biomass into bioactives and regenerative compounds. the company provides consulting, research and development, and technical support services, including strategic insight, industry advisory, and ecosystem mapping. algavo serves ventures, researchers, and impact leaders globally, with a presence in the nordics and the caribbean. its operations also include collaboration with the orss project on ocean restoration and salmon-related research, supporting aquaculture and biotechnology.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Biotechnology",
+      "Marine Bioeconomy",
+      "Aquaculture"
+    ],
+    "core_offerings":[
+      "Aquaculture and Biotechnology Integration Services",
+      "Circular Marine Systems Consulting",
+      "Regenerative Marine Compound Manufacturing",
+      "Marine Biomass Conversion Research and Development",
+      "Marine Biodiversity Impact Assessment Services",
+      "Strategic Marine Value Chain Consulting",
+      "Industry Advisory for Marine Ventures",
+      "Salmon Aquaculture Research and Advisory",
+      "Sustainable Innovation Advisory Services",
+      "Marine Bioeconomy Systems Engineering",
+      "Marine Bioeconomy Consulting Services",
+      "Marine Ecosystem Mapping and Analysis",
+      "Ocean Restoration Project Support Services",
+      "Marine Waste Utilization Solutions",
+      "High-Value Bioactive Product Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541690",
+    "industry_name":"Other Scientific and Technical Consulting Services",
+    "revenue_per_employee":351975.5,
+    "cluster":6
+  },
+  {
+    "website":"pace-energy.eu",
+    "operational_name":"PACE",
+    "year_founded":2025,
+    "address":{
+      "country_code":"be",
+      "latitude":50.84188315,
+      "longitude":4.3732653462,
+      "region_name":"Brussels-Capital",
+      "town":"Brussels"
+    },
+    "employee_count":3,
+    "revenue":500645,
+    "primary_naics":{
+      "code":"541330",
+      "label":"Engineering Services"
+    },
+    "description":"pace is a european public-private project focused on the deployment and promotion of fuel cell micro-cogeneration systems, with a primary emphasis on the residential and commercial sectors. the project operates as a service provider in the energy sector, supporting energy efficiency and decarbonization initiatives across multiple european countries. pace is supported by the european union\u2019s horizon 2020 research and innovation programme and is co-funded by several european suppliers.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Commercial",
+      "Energy",
+      "Residential"
+    ],
+    "core_offerings":[
+      "European Fuel Cell Technology Advocacy",
+      "Fuel Cell Technology Promotion Services",
+      "Green Building Fuel Cell Integration",
+      "Fuel Cell System Decarbonization Solutions",
+      "Fuel Cell Policy Advocacy Services",
+      "Fuel Cell System Educational Services",
+      "Residential Fuel Cell System Installation",
+      "Commercial Fuel Cell System Installation",
+      "Fuel Cell System Market Promotion Services",
+      "Fuel Cell System Energy Efficiency Consulting",
+      "Fuel Cell System Certification Support",
+      "Fuel Cell micro-Cogeneration System Deployment",
+      "Fuel Cell System Research and Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541330",
+    "industry_name":"Engineering Services",
+    "revenue_per_employee":166881.6666666667,
+    "cluster":6
+  },
+  {
+    "website":"styri.eu",
+    "operational_name":"Styri",
+    "year_founded":2025,
+    "address":{
+      "country_code":"no",
+      "latitude":59.97239745,
+      "longitude":10.7757291941,
+      "region_name":"Oslo",
+      "town":"Oslo"
+    },
+    "employee_count":4,
+    "revenue":1271015,
+    "primary_naics":{
+      "code":"541330",
+      "label":"Engineering Services"
+    },
+    "description":"styri as, dba styri, is a norwegian company specialized in engineering consultancy services for the maritime and heavy-duty industries, with a focus on clean energy solutions. the company provides services in maritime product development, industrialization, mass production, supplier development, ship integration, and land-based product development for heavy industry. styri also engages in business development, product development, and mass production related to fuel-cell and electrolyzer technologies, supporting the transition to a sustainable shipping and industrial sector.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Heavy-Duty",
+      "Maritime",
+      "Clean Energy"
+    ],
+    "core_offerings":[
+      "Electrolyzer Technology Development",
+      "Heavy-Duty Product Development",
+      "Sustainable Energy Solution Consulting",
+      "Supplier Development Services",
+      "Maritime Product Industrialization",
+      "Maritime Product Mass Production",
+      "Heavy-Duty Product Mass Production",
+      "Maritime Ship Integration Services",
+      "Fuel Cell Technology Development",
+      "Engineering Consultancy Services",
+      "Maritime Product Development",
+      "Emissions Reduction Solution Development",
+      "Clean Energy Project Development",
+      "Public Funding Acquisition Services",
+      "Heavy-Duty Product Industrialization"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541330",
+    "industry_name":"Engineering Services",
+    "revenue_per_employee":317753.75,
+    "cluster":6
+  },
+  {
+    "website":"forestfoods.ca",
+    "operational_name":"Forest Foods",
+    "year_founded":2025,
+    "address":{
+      "country_code":"ca",
+      "latitude":49.2050025,
+      "longitude":-122.9342472,
+      "region_name":"British Columbia",
+      "town":"New Westminster"
+    },
+    "employee_count":2,
+    "revenue":544420,
+    "primary_naics":{
+      "code":"541611",
+      "label":"Administrative Management and General Management Consulting Services"
+    },
+    "description":"forest foods ltd. is a canadian company that operates as an educational provider, management consulting firm, and resource organization focused on wild harvests in british columbia and western canada. the company offers educational resources, workshops, and guidance on responsible foraging practices, and provides support for indigenous harvest management and landscape restoration. forest foods also collaborates with local foragers and indigenous communities to promote sustainable local economies and forest value structures. the organization is certified by the pacific northwest mycological society and wild harvest canada.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Community Development",
+      "Education",
+      "Sustainability"
+    ],
+    "core_offerings":[
+      "Local Economy Growth Consulting",
+      "Community Engagement Services",
+      "Foraging Workshop Services",
+      "Eco-Chef Collaboration Services",
+      "Landscape Restoration Services",
+      "Fungal Resource Assessment Support",
+      "Resource Map Development",
+      "Indigenous Harvest Management Partnership Services",
+      "Sustainable Development Consulting",
+      "Wild Food Education Services",
+      "Responsible Harvesting Guidance Services",
+      "Certified Mushroom Identification Services",
+      "Product Catalog Distribution",
+      "Land-Based Economy Development Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541611",
+    "industry_name":"Administrative Management and General Management Consulting Services",
+    "revenue_per_employee":272210.0,
+    "cluster":6
+  },
+  {
+    "website":"ecea.com.br",
+    "operational_name":"EC\u00c9A",
+    "year_founded":2025,
+    "address":{
+      "country_code":"br",
+      "latitude":-26.8898813,
+      "longitude":-48.6495828,
+      "region_name":"Santa Catarina",
+      "town":"Navegantes"
+    },
+    "employee_count":1,
+    "revenue":24683,
+    "primary_naics":{
+      "code":"541620",
+      "label":"Environmental Consulting Services"
+    },
+    "description":"ec\u00e9a engenharia e consultoria ambiental, dba ec\u00e9a, is a brazilian company specialized in environmental engineering and consulting. the company provides services in civil engineering, environmental engineering, and environmental consulting, with a focus on sustainable development solutions for businesses and institutions. ec\u00e9a also operates as a provider of engineering solutions for sustainable project development.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Engineering",
+      "Environmental Services"
+    ],
+    "core_offerings":[
+      "Sustainable Infrastructure Planning Services",
+      "Strategic Environmental Project Development",
+      "Environmental Impact Assessment Services",
+      "Civil Engineering Services",
+      "Green Building Engineering Services",
+      "Customized Engineering Solutions Development",
+      "Sustainable Development Solutions",
+      "Regulatory Compliance Consulting",
+      "Environmental Engineering and Consulting Services",
+      "Environmental Risk Management Consulting",
+      "Operational Efficiency Consulting",
+      "Legal Compliance Consulting",
+      "Environmental Policy Consulting"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541620",
+    "industry_name":"Environmental Consulting Services",
+    "revenue_per_employee":24683.0,
+    "cluster":6
+  },
+  {
+    "website":"yumanalab.com",
+    "operational_name":"YUMANA Lab",
+    "year_founded":2025,
+    "address":{
+      "country_code":"es",
+      "latitude":43.2630018,
+      "longitude":-2.9350039,
+      "region_name":"Autonomous Community of the Basque Country",
+      "town":"Bilbao"
+    },
+    "employee_count":1,
+    "revenue":92542,
+    "primary_naics":{
+      "code":"541611",
+      "label":"Administrative Management and General Management Consulting Services"
+    },
+    "description":"yumana lab is a spanish consulting firm that provides services in circular economy design, training and re-education programs, and the development of tools and solutions for sustainable growth. the company also offers support in areas such as industry 4.0, ai, trend analysis, concept testing, and technological roadmaps. yumana lab serves businesses and organizations internationally, integrating principles of circular, teal, violet, silver, regenerative, and social-solidarity economies into its strategies.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Education",
+      "Technology",
+      "Sustainability"
+    ],
+    "core_offerings":[
+      "Industry 4.0 Integration Consulting",
+      "Technology Trend Analysis Services",
+      "Violet Economy Strategy Consulting",
+      "Innovation Consulting Services",
+      "Sustainable Tool Development",
+      "Sustainable Growth Strategy Development",
+      "Concept Testing and Roadmap Development",
+      "AI Integration Consulting",
+      "Social-Solidarity Economy Strategy Consulting",
+      "Collaborative Project Management Services",
+      "Customized Training and Re-Education Services",
+      "Circular Economy Design Services",
+      "Co-Design and Implementation Services",
+      "Teal Economy Strategy Consulting",
+      "Regenerative Economy Strategy Consulting"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541611",
+    "industry_name":"Administrative Management and General Management Consulting Services",
+    "revenue_per_employee":92542.0,
+    "cluster":6
+  },
+  {
+    "website":"climatelondon.org",
+    "operational_name":"London Climate Ready Partnership",
+    "year_founded":2024,
+    "address":{
+      "country_code":"gb",
+      "latitude":51.5074774,
+      "longitude":0.015673,
+      "region_name":"England",
+      "town":"London"
+    },
+    "employee_count":2,
+    "revenue":1379542,
+    "primary_naics":{
+      "code":"541620",
+      "label":"Environmental Consulting Services"
+    },
+    "description":"the london climate ready partnership is a british organization that operates as a service provider in the environmental and sustainability sector, with a focus on climate resilience and adaptation. the partnership serves as a hub for collaboration among government agencies, private sector organizations, and academic institutions, supporting initiatives in urban planning, infrastructure, and community engagement related to climate change. its activities include the development of resources, publications, and events to advance climate resilience and adaptation in london, and it collaborates with partners such as transport for london, the environment agency, and the university of reading.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Non-Profit\/Non-Governmental Organization",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Urban Planning",
+      "Environmental Services",
+      "Sustainability",
+      "Infrastructure"
+    ],
+    "core_offerings":[
+      "Community Engagement Services",
+      "Climate Change Publication Development",
+      "Carbon Emissions Reduction Consulting",
+      "Sector-Specific Climate Resilience Consulting",
+      "Climate Adaptation Strategy Development",
+      "Environmental Impact Assessment Services",
+      "Climate Adaptation Resource Development",
+      "Green Infrastructure Promotion Services",
+      "Climate Resilience Consulting",
+      "Stakeholder Collaboration Services",
+      "Climate Resilience Event Organization",
+      "Extreme Weather Impact Assessment Services",
+      "Climate Change Awareness Campaign Execution",
+      "Sustainability Strategy Consulting",
+      "Urban Infrastructure Resilience Consulting"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541620",
+    "industry_name":"Environmental Consulting Services",
+    "revenue_per_employee":689771.0,
+    "cluster":6
+  },
+  {
+    "website":"envipro.fi",
+    "operational_name":"EnviPro",
+    "year_founded":2024,
+    "address":{
+      "country_code":"fi",
+      "latitude":60.2251233,
+      "longitude":24.8986246,
+      "region_name":"Uusimaa",
+      "town":"Helsinki"
+    },
+    "employee_count":8,
+    "revenue":1057446,
+    "primary_naics":{
+      "code":"541620",
+      "label":"Environmental Consulting Services"
+    },
+    "description":"envipro oy, dba envipro, is a finnish company specialized in environmental consulting, environmental design, environmental monitoring, and environmental auditing services. the company primarily serves clients in finland and operates as a service provider in the environmental sector. envipro is certified by syke (suomen ymp\u00e4rist\u00f6keskuksen) for environmental monitoring and environmental auditing, and its team holds certifications from syke and rap infra. the company also emphasizes environmental education and community engagement.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Environmental Consulting"
+    ],
+    "core_offerings":[
+      "Sustainable Environmental Solutions",
+      "Geotechnical Consulting Services",
+      "Environmental Consulting and Design Services",
+      "Environmental Education Services",
+      "Environmental Microbiology Consulting",
+      "Environmental Monitoring and Auditing Services",
+      "Community Environmental Engagement Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541620",
+    "industry_name":"Environmental Consulting Services",
+    "revenue_per_employee":132180.75,
+    "cluster":6
+  },
+  {
+    "website":"nakama-agro.es",
+    "operational_name":"Nakama",
+    "year_founded":2024,
+    "address":{
+      "country_code":"es",
+      "latitude":36.8303995921,
+      "longitude":-2.4513935465,
+      "region_name":"Andalusia",
+      "town":"Almeria"
+    },
+    "employee_count":2,
+    "revenue":194060,
+    "primary_naics":{
+      "code":"541690",
+      "label":"Other Scientific and Technical Consulting Services"
+    },
+    "description":"nakama is a spanish company that provides agricultural consulting, advisory, and training services. the company offers expertise in plant pathology testing, sanitary protocols, process optimization, energy efficiency audits, digitalization of agricultural operations, and disease diagnosis. nakama also delivers plant pathology testing, process improvement, fitosanitary protocols, energy efficiency audits, digital agriculture, project management, and disease diagnosis. its services are designed to support agricultural businesses in spain, the uk, china, the netherlands, france, and germany, and it collaborates with both public and private sector organizations.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Agriculture"
+    ],
+    "core_offerings":[
+      "Agricultural Process Optimization Consulting",
+      "Traceability Systems Consulting",
+      "Agricultural Risk Reduction Consulting",
+      "Plant Pathology Testing Services",
+      "Energy Efficiency Audit and Advisory",
+      "Fitopatology Services",
+      "Sustainability Consulting Services",
+      "Disease Diagnosis Services",
+      "Agricultural Consulting and Training Services",
+      "Digital Agriculture Solutions Development",
+      "Horticultural Variety Improvement Consulting",
+      "Personalized Agricultural Plan Development",
+      "Sanitary Protocols Development and Advisory",
+      "Agricultural Project Management Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541690",
+    "industry_name":"Other Scientific and Technical Consulting Services",
+    "revenue_per_employee":97030.0,
+    "cluster":6
+  },
+  {
+    "website":"asvata.com",
+    "operational_name":"Asvata",
+    "year_founded":2024,
+    "address":{
+      "country_code":"in",
+      "latitude":19.0070173357,
+      "longitude":72.8185766571,
+      "region_name":"Maharashtra",
+      "town":"Mumbai"
+    },
+    "employee_count":7,
+    "revenue":49957,
+    "primary_naics":{
+      "code":"541620",
+      "label":"Environmental Consulting Services"
+    },
+    "description":"asvata is an indian company engaged in sustainable climate action solutions, with a focus on carbon offset projects that address the sustainable development goals beyond carbon reduction. the company operates a portfolio of certified carbon projects, including agroforestry, sustainable agriculture, cookstove projects, renewable energy, waste heat recovery, and alternate wetting and drying in rice cultivation. asvata provides services such as project development, carbon credit issuance, and supply partnership facilitation, and serves a global market with a primary focus on india and kenya. the company is certified by verra and gold standard and offers digital dashboards for traceability and project monitoring.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Sustainable Development",
+      "Agriculture",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Renewable Energy Project Development",
+      "Climate Project Consulting Services",
+      "Alternate Wetting and Drying Project Development",
+      "Supply Partnership Facilitation",
+      "Carbon Project Financing",
+      "Sustainable Climate Action Solutions",
+      "Agroforestry Project Development",
+      "Waste Heat Recovery Project Development",
+      "Carbon Offset Project Development",
+      "Cookstove Project Development",
+      "Digital Traceability Dashboard Solutions",
+      "Sustainable Agriculture Project Development",
+      "Carbon Credit Issuance",
+      "Project Monitoring Technology Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541620",
+    "industry_name":"Environmental Consulting Services",
+    "revenue_per_employee":7136.7142857143,
+    "cluster":6
+  },
+  {
+    "website":"olympianopt.com",
+    "operational_name":"OLYMPIAN OPTIMIZATIONS",
+    "year_founded":2024,
+    "address":{
+      "country_code":"gr",
+      "latitude":39.621425225,
+      "longitude":22.4244055,
+      "region_name":"Thessaly",
+      "town":"Larissa"
+    },
+    "employee_count":2,
+    "revenue":131787,
+    "primary_naics":{
+      "code":"541330",
+      "label":"Engineering Services"
+    },
+    "description":"olympian optimizations is a greek engineering company specialized in industrial design, mechanical and electrical engineering, and manufacturing. the company provides services including design optimization, prototyping, manufacturing, and quality control, serving clients in sectors such as food, pharmaceuticals, agriculture, and defense. olympian optimizations operates globally and emphasizes sustainability and ethical business practices.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Food and Beverage",
+      "Agriculture",
+      "Defense",
+      "Pharmaceuticals"
+    ],
+    "core_offerings":[
+      "Business Performance Enhancement Consulting",
+      "Industrial Innovation Consulting",
+      "Mechanical Engineering Services",
+      "Product Quality Improvement Consulting",
+      "Industrial Product Design and Development",
+      "Customized Industrial Solutions Development",
+      "Finite Element Analysis Services",
+      "Sustainable Engineering Solutions Development",
+      "Product Quality Control Services",
+      "Cost Reduction Consulting",
+      "Prototyping and Manufacturing Services",
+      "Specialized Engineering Services",
+      "Design Optimization Services",
+      "Electrical Engineering Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541330",
+    "industry_name":"Engineering Services",
+    "revenue_per_employee":65893.5,
+    "cluster":6
+  },
+  {
+    "website":"terragreen-solutions.com",
+    "operational_name":"TerraGreen",
+    "year_founded":2024,
+    "address":{
+      "country_code":"de",
+      "latitude":52.4857804,
+      "longitude":13.2975087,
+      "region_name":"Berlin",
+      "town":"Berlin"
+    },
+    "employee_count":5,
+    "revenue":650994,
+    "primary_naics":{
+      "code":"541620",
+      "label":"Environmental Consulting Services"
+    },
+    "description":"terragreen solutions gmbh, dba terragreen, is a german company specialized in environmental solutions focused on sustainable development, biodiversity, and climate stability. the company provides services in afforestation, reforestation, species protection, habitat restoration, co\u2082 storage, and biodiversity compensation, supporting projects from initiation to completion. terragreen also offers project management, including securing and developing compensation areas, obtaining necessary permits, and ensuring compliance for landowners, public institutions, and project developers. the company utilizes proprietary databases, digital mapping, and ai-driven processes to optimize project execution and deliver verified compensation solutions.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Environmental Services",
+      "Land Use and Resource Management"
+    ],
+    "core_offerings":[
+      "CO\u2082 Storage Solutions",
+      "Community and Landowner Support Services",
+      "Nature Compensation Platform Services",
+      "Green Infrastructure Development Services",
+      "Environmental Project Management Services",
+      "Afforestation and Reforestation Services",
+      "Compensation Area Development and Securing",
+      "Legal Compliance and Permitting Services",
+      "Species Protection and Habitat Restoration Services",
+      "Biodiversity Compensation Services",
+      "Sustainable Land Use Consulting",
+      "Digital Mapping and Cartographic Database Services",
+      "AI-Driven Project Optimization Services",
+      "Eco-Point Certification and Allocation"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541620",
+    "industry_name":"Environmental Consulting Services",
+    "revenue_per_employee":130198.8,
+    "cluster":6
+  },
+  {
+    "website":"ecoexpert.green",
+    "operational_name":"EcoExpert Green Consulting",
+    "year_founded":2024,
+    "address":{
+      "country_code":"ro",
+      "latitude":47.05878045,
+      "longitude":21.929861,
+      "region_name":"Bihor",
+      "town":"Oradea"
+    },
+    "employee_count":3,
+    "revenue":124714,
+    "primary_naics":{
+      "code":"541620",
+      "label":"Environmental Consulting Services"
+    },
+    "description":"ecoexpert green consulting s.r.l is a romanian consulting company engaged in environmental, social, and governance (esg) solutions. the company provides services such as carbon footprint calculation, sustainability reporting, and net zero compliance, utilizing technologies including blockchain, ai, and sensors. ecoexpert green consulting serves a diverse client base, including large enterprises, start-ups, and financial institutions, and offers modular esg solutions to support companies in achieving sustainability objectives. the company also operates a platform for esg reporting and maintains a network of partners and clients to facilitate access to sustainability tools and resources.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Corporate\/Business Services",
+      "Financial Services"
+    ],
+    "core_offerings":[
+      "AI-Driven Sustainability Solutions",
+      "Sustainability Resource Optimization Consulting",
+      "Corporate Sustainability Reporting Services",
+      "Governance Impact Assessment Services",
+      "Environmental Impact Assessment Services",
+      "Carbon Footprint Calculation Services",
+      "Net Zero Compliance Consulting",
+      "Sustainability Performance Optimization Consulting",
+      "ESG Platform Solutions",
+      "Blockchain-Based Sustainability Solutions",
+      "Sustainability Cost Reduction Consulting",
+      "ESG Solutions Consulting",
+      "Social Impact Assessment Services",
+      "Sustainability Reporting Services",
+      "Customized Sustainability Strategy Development",
+      "Sensor-Based Sustainability Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541620",
+    "industry_name":"Environmental Consulting Services",
+    "revenue_per_employee":41571.3333333333,
+    "cluster":6
+  }
+]

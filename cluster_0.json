@@ -1,0 +1,2357 @@
+[
+  {
+    "website":"e-lyte.de",
+    "operational_name":"E-Lyte",
+    "year_founded":2019,
+    "address":{
+      "country_code":"de",
+      "latitude":49.48198215,
+      "longitude":7.6888401993,
+      "region_name":"Rhineland-Palatinate",
+      "town":"Kaiserslautern"
+    },
+    "employee_count":34,
+    "revenue":7531907,
+    "primary_naics":{
+      "code":"325998",
+      "label":"All Other Miscellaneous Chemical Product and Preparation Manufacturing"
+    },
+    "description":"e-lyte innovations gmbh, dba e-lyte, is a german chemical manufacturer and research company specializing in the development, production, and testing of electrolyte solutions for energy storage technologies. the company provides services including electrolyte development, analytical testing, benchmarking studies, compatibility testing, and electrochemical evaluation of new electrolyte components. e-lyte serves a global market, focusing on lithium-ion, sodium-ion, and next-generation battery systems, as well as supercapacitors. its operations include chemical manufacturing, cell testing, and postmortem analysis, and the company is involved in research projects related to energy storage technologies. e-lyte's products are distributed across the european union and are manufactured in germany.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Sodium-Ion Battery Electrolyte Manufacturing",
+      "Lithium-Ion Battery Electrolyte Manufacturing",
+      "High-Temperature Electrolyte Manufacturing",
+      "Energy Storage Electrolyte Customization",
+      "Electrolyte Compatibility Testing and Benchmarking",
+      "Low-Temperature Electrolyte Manufacturing",
+      "Silicon-Based Anode Cell System Development",
+      "Electrolyte Solutions Development and Manufacturing",
+      "Electrochemical Electrolyte Evaluation Services",
+      "High-Voltage Cathode Material Development",
+      "Lithium-Sulfur Battery Electrolyte Manufacturing",
+      "Supercapacitor Electrolyte Manufacturing",
+      "Primary Lithium Battery Electrolyte Manufacturing",
+      "Lithium-Iron-Phosphate Cell Electrolyte Manufacturing",
+      "Lithium-Titanate Cell Electrolyte Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325998",
+    "industry_name":"All Other Miscellaneous Chemical Product and Preparation Manufacturing",
+    "revenue_per_employee":221526.6764705882,
+    "cluster":0
+  },
+  {
+    "website":"scusne.com",
+    "operational_name":"Wanbang New Energy",
+    "year_founded":2019,
+    "address":{
+      "country_code":"cn",
+      "latitude":30.0450247,
+      "longitude":103.8311001,
+      "region_name":"Sichuan",
+      "town":"Dongpo"
+    },
+    "employee_count":17,
+    "revenue":18333244,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"sichuan wanbang shenghui new energy technology co., ltd. (\u56db\u5ddd\u4e07\u90a6\u80dc\u8f89\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8), dba wanbang new energy (\u4e07\u90a6\u65b0\u80fd\u6e90), is a chinese manufacturing company specialized in the research, development, and production of energy new materials, with a focus on solid-state batteries and related materials. the company serves primarily the chinese market, providing products and services to clients in the energy and new materials sectors. in addition to manufacturing, it operates research and production facilities and engages in technology transfer through partnerships with educational institutions and industrial enterprises.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy",
+      "New Materials"
+    ],
+    "core_offerings":[
+      "Cathode Material Manufacturing",
+      "Electrolyte Material Manufacturing",
+      "Energy Materials Technology Transfer Services",
+      "Solid-State Battery Technology Consulting",
+      "Energy Materials Innovation Services",
+      "Energy Materials Research and Development",
+      "Solid-State Battery Component Manufacturing",
+      "Sustainable Energy Material Solutions",
+      "Solid-State Lithium Battery Manufacturing",
+      "Anode Material Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":1078426.1176470588,
+    "cluster":0
+  },
+  {
+    "website":"solidpowerbattery.com",
+    "operational_name":"Solid Power",
+    "year_founded":2019,
+    "address":{
+      "country_code":"us",
+      "latitude":39.964406,
+      "longitude":-105.1221635306,
+      "region_name":"Colorado",
+      "town":"Louisville"
+    },
+    "employee_count":206,
+    "revenue":85415079,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"solid power inc., dba solid power, is an american company specialized in the development of all-solid-state battery technology. the company provides battery cell technology to partners and sells sulfide solid electrolytes to companies seeking to transition to solid-state batteries. solid power operates pilot production and ev cell manufacturing lines in colorado, as well as facilities for electrolyte manufacturing, cell testing, and research and development. the company serves automakers and is publicly traded.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Battery Cell Testing and Research",
+      "Battery Materials Innovation",
+      "Battery Energy Density Enhancement Solutions",
+      "All-Solid-State Battery Technology Development",
+      "Renewable-Energy Mobility Solutions Development",
+      "EV Cell Manufacturing",
+      "Battery Cell Manufacturing",
+      "Lithium Metal EV Cell Manufacturing",
+      "Automotive-Scale Battery Cell Production",
+      "Battery Cell Technology Licensing",
+      "Sulfide Solid Electrolyte Manufacturing",
+      "Sulfide Solid Electrolyte Sales",
+      "Conversion Reaction Cell Manufacturing",
+      "Battery Safety Enhancement Solutions",
+      "Battery Cost Reduction Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":414636.3058252427,
+    "cluster":0
+  },
+  {
+    "website":"nextechbatteries.com",
+    "operational_name":"NexTech Batteries",
+    "year_founded":2016,
+    "address":{
+      "country_code":"us",
+      "latitude":39.2056818485,
+      "longitude":-119.7405908182,
+      "region_name":"Nevada",
+      "town":"Carson City"
+    },
+    "employee_count":9,
+    "revenue":43479170,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"nextech batteries, inc. is an american private company engaged in the development and commercialization of lithium-sulfur battery technology. the company operates in the electrical and electronic manufacturing sector, focusing on lithium-sulfur batteries and energy storage solutions for applications in vehicle electrification, consumer electronics, and renewable energy storage. nextech batteries also conducts research and development in solid-state electrolyte formulations, coated separators, active materials, cathode systems, and battery management systems. the company is certified for sustainable manufacturing practices and emphasizes the use of recyclable materials and carbon-neutral processes.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Consumer Electronics",
+      "Renewable Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Coated Separator Development",
+      "Consumer Electronics Battery Solutions",
+      "Lithium-Sulfur Battery Development",
+      "Battery Management System Development",
+      "Pouch Cell Fabrication",
+      "Lithium-Sulfur Battery Manufacturing",
+      "Battery Material Recycling Solutions",
+      "Renewable Energy Storage Solutions",
+      "Patented Battery Technology Licensing",
+      "Active Material and Cathode System Development",
+      "Sustainable Battery Manufacturing",
+      "Vehicle Electrification Battery Solutions",
+      "Energy Storage Solutions",
+      "Solid-State Electrolyte Formulation Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":4831018.888888889,
+    "cluster":0
+  },
+  {
+    "website":"lionteam.com.cn",
+    "operational_name":"Blue New Energy Technology",
+    "year_founded":2024,
+    "address":{
+      "country_code":"cn",
+      "latitude":29.895849,
+      "longitude":120.6280266,
+      "region_name":"Zhejiang",
+      "town":"Shaoxing"
+    },
+    "employee_count":6,
+    "revenue":5500000,
+    "primary_naics":{
+      "code":"335999",
+      "label":"All Other Miscellaneous Electrical Equipment and Component Manufacturing"
+    },
+    "description":"blue new energy technology (zhejiang) co., ltd. (\u84dd\u5ef7\u65b0\u80fd\u6e90\u79d1\u6280\uff08\u6d59\u6c5f\uff09\u6709\u9650\u516c\u53f8), dba blue new energy technology (\u84dd\u5ef7\u65b0\u80fd\u6e90\u79d1\u6280), is a chinese manufacturing company specialized in the production of lithium-ion battery key materials, including composite separator films and solid electrolytes. the company also manufactures active functional materials and water-based adhesive agents, with proprietary formulations developed in-house. blue new energy technology serves the lithium-ion battery industry and operates as a platform for the industrialization of its research outcomes, collaborating with academic and industrial partners.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Battery Technology"
+    ],
+    "core_offerings":[
+      "Solid-Liquid Mixed Battery Separator Coating",
+      "Lithium-Ion Battery Material Manufacturing",
+      "Customized Lithium-Ion Battery Solution Development",
+      "Water-Based Adhesive Agent Manufacturing",
+      "Active Functional Material Manufacturing",
+      "Composite Separator Film Manufacturing",
+      "Lithium-Ion Battery Material Industrialization",
+      "Solid Electrolyte Manufacturing",
+      "Lithium-Ion Battery Separator Coating",
+      "Lithium-Ion Battery Technology Research and Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335999",
+    "industry_name":"All Other Miscellaneous Electrical Equipment and Component Manufacturing",
+    "revenue_per_employee":916666.6666666666,
+    "cluster":0
+  },
+  {
+    "website":"goodtimebattery.com",
+    "operational_name":"GuTai Battery Technology",
+    "year_founded":2022,
+    "address":{
+      "country_code":"cn",
+      "latitude":null,
+      "longitude":null,
+      "region_name":"Guangdong Province",
+      "town":"Shenzhen"
+    },
+    "employee_count":9,
+    "revenue":9130445,
+    "primary_naics":{
+      "code":"335999",
+      "label":"All Other Miscellaneous Electrical Equipment and Component Manufacturing"
+    },
+    "description":"shenzhen shenzhen special economic zone gutai battery technology co., ltd. (\u6df1\u5733\u6df1\u6c55\u7279\u522b\u5408\u4f5c\u533a\u56fa\u6cf0\u7535\u6c60\u6280\u672f\u6709\u9650\u516c\u53f8), dba gutai battery technology (\u56fa\u6cf0\u7535\u6c60\u6280\u672f), is a chinese company specialized in the research, development, and industrialization of solid-state battery key materials, with a focus on solid-state electrolytes for lithium-ion and sodium batteries. the company also develops related technologies such as li-rich lithium manganate preparation and high-voltage nickel-manganese binary material preparation. it operates a comprehensive new material research and experimental facility in shenzhen, china, and primarily serves the national market.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Battery Technology"
+    ],
+    "core_offerings":[
+      "Advanced Battery Material Technology Development",
+      "Battery Safety Testing Services",
+      "Solid-State Electrolyte Manufacturing",
+      "Solid-State Battery Material Industrialization",
+      "Battery Technology Commercialization",
+      "Li-Rich Lithium Manganate Material Development",
+      "Sodium Battery Solid-State Electrolyte Manufacturing",
+      "Battery Manufacturing and Testing",
+      "Lithium-Ion Battery Solid-State Electrolyte Manufacturing",
+      "High-Voltage Nickel-Manganese Binary Material Development",
+      "Battery Component Testing and Validation",
+      "Solid-State Battery Material Research and Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335999",
+    "industry_name":"All Other Miscellaneous Electrical Equipment and Component Manufacturing",
+    "revenue_per_employee":1014493.8888888889,
+    "cluster":0
+  },
+  {
+    "website":"solidedgesolution.com",
+    "operational_name":"SolidEdge Solution",
+    "year_founded":2021,
+    "address":{
+      "country_code":"tw",
+      "latitude":24.8047326,
+      "longitude":120.9736257,
+      "region_name":"Hsinchu",
+      "town":"East District"
+    },
+    "employee_count":17,
+    "revenue":18333244,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"xinyang technology co., ltd. (\u82af\u91cf\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8), known as solidedge solution, is a taiwanese company engaged in the development and manufacturing of solid-state lithium battery materials and components. the company operates as both a manufacturer and developer, providing in-house production of cathodes, anodes, and electrolytes, as well as integrated solutions that include material development and cell integration technologies. solidedge solution serves the automotive and energy sectors, with a focus on lightweight, flexible, and high-energy density battery technologies, and collaborates with industry and academic partners to advance battery materials and technologies.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Silicon Carbon Cathode Manufacturing",
+      "Battery Material Research and Development",
+      "High Voltage Cathode Manufacturing",
+      "Sustainable Battery Material Innovation",
+      "Solid Electrolyte Film Manufacturing",
+      "Solid-State Lithium Battery Manufacturing",
+      "Industry-Academia Collaboration Services",
+      "Custom Battery Module Development",
+      "Battery Component Manufacturing",
+      "Electric Vehicle Battery Technology Development",
+      "Energy Sector Battery Solutions Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":1078426.1176470588,
+    "cluster":0
+  },
+  {
+    "website":"polyenergy.tech",
+    "operational_name":"Poly Energy",
+    "year_founded":2015,
+    "address":{
+      "country_code":"hk",
+      "latitude":22.30806175,
+      "longitude":114.1718264143,
+      "region_name":"Hong Kong",
+      "town":"Kowloon"
+    },
+    "employee_count":17,
+    "revenue":18333244,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"poly energy is a hong kong company specialized in the development and commercialization of energy storage solutions, with a focus on all-solid-state batteries and polymer-based solid-state electrolytes. the company serves markets including consumer electronics, automotive batteries, drones, electric vehicles, aerospace, and other sectors. its operations include the production of polymer electrolytes, composite lfp cathodes, and lithium metal anodes, with a technology roadmap aimed at addressing the limitations of lithium-ion batteries.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Consumer Electronics",
+      "Aerospace",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Consumer Electronics Battery Solutions",
+      "Battery Technology Patent Licensing",
+      "Lithium Metal Anode Manufacturing",
+      "Energy Storage Solutions Development",
+      "Polymer-Based Solid-State Electrolyte Engineering",
+      "Aerospace Battery Solutions",
+      "Energy Storage Technology Commercialization",
+      "Wet-chemistry Process Development for Battery Materials",
+      "Automotive Battery Solutions",
+      "Composite LFP Cathode Manufacturing",
+      "Polymer Electrolyte Manufacturing",
+      "Drone Battery Solutions",
+      "All-Solid-State Battery Manufacturing",
+      "Solid-State Battery Materials Research and Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":1078426.1176470588,
+    "cluster":0
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"RJETech",
+    "year_founded":2022,
+    "address":{
+      "country_code":"cn",
+      "latitude":23.1301964,
+      "longitude":113.2592945,
+      "region_name":"Guangdong Province",
+      "town":"Guangzhou"
+    },
+    "employee_count":17,
+    "revenue":18333244,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"guangzhou youngy energy technology co., ltd, dba rjetech, is a chinese manufacturer specialized in energy storage products. the company operates as a vertically integrated manufacturer, with activities in lithium mining, production of cathode and anode materials, battery cells, modules, and dc blocks. rjetech also develops self-developed battery management systems and provides expertise in electric vehicle batteries and anode materials.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Battery Cell and Module Manufacturing",
+      "Cathode Material Manufacturing",
+      "Electric Vehicle Battery Manufacturing",
+      "DC Block Manufacturing",
+      "Lithium Mining",
+      "Battery Management System Development",
+      "Energy Storage Product Manufacturing",
+      "Anode Material Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":1078426.1176470588,
+    "cluster":0
+  },
+  {
+    "website":"silienergy.kr",
+    "operational_name":"Sili Energy",
+    "year_founded":2019,
+    "address":{
+      "country_code":"kr",
+      "latitude":36.3497007,
+      "longitude":127.3849016,
+      "region_name":"Daejeon",
+      "town":"Daejeon"
+    },
+    "employee_count":17,
+    "revenue":18333244,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"sili energy co., ltd. (\uc8fc\uc2dd\ud68c\uc0ac \uc2dc\ub9ac\uc5d0\ub108\uc9c0) is a south korean company engaged in the development and manufacturing of secondary battery cathode materials, including silicon and lithium-based cathode materials, and solid-state battery materials. the company operates as both a manufacturer and service provider in the energy and battery technology industry, with a focus on the automotive sector, particularly electric vehicles. sili energy also provides material evaluation and technical consulting services, and is involved in lithium recycling and cost reduction initiatives. the company maintains a dedicated r&d campus and laboratory.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Silicon Cathode Material Manufacturing",
+      "Battery Technology Consulting Services",
+      "Battery Material Research and Development",
+      "Battery Capacity Enhancement Solutions",
+      "Battery Material Evaluation Services",
+      "EV Charging Speed Improvement Solutions",
+      "Energy Efficiency Enhancement Solutions",
+      "Sustainable Lithium Recycling Services",
+      "Electric Vehicle Battery Solutions",
+      "Solid-State Battery Material Manufacturing",
+      "Lithium Cathode Material Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":1078426.1176470588,
+    "cluster":0
+  },
+  {
+    "website":"thehisun.com",
+    "operational_name":"Hisun",
+    "year_founded":2022,
+    "address":{
+      "country_code":"us",
+      "latitude":29.9263975336,
+      "longitude":-95.0753096483,
+      "region_name":"Texas",
+      "town":"Crosby"
+    },
+    "employee_count":12,
+    "revenue":7608704,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"hisun new energy materials ltd. co., dba hisun, is a united states company specialized in new energy battery materials, including electrolytes for lithium and sodium ion batteries, silicon carbon anode materials, raw materials, special additives, sodium-ion battery electrolytes, and solid electrolytes. the company serves a range of industries such as digital, power, energy storage, emergency start, unmanned aerial vehicle, model aircraft, electronic cigarette, and electric tool sectors. hisun also operates as a manufacturer and distributor of materials for new energy applications, and maintains a technology innovation platform to support its research and development activities.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Energy",
+      "Aerospace",
+      "Electronics",
+      "Consumer Goods"
+    ],
+    "core_offerings":[
+      "Lithium Ion Battery Electrolyte Manufacturing",
+      "Silicon Carbon Anode Material Manufacturing",
+      "New Energy Battery Materials Research and Development",
+      "Battery Raw Material Manufacturing",
+      "Battery Materials Manufacturing",
+      "Battery Materials Sales and Distribution",
+      "Battery Material Exporting",
+      "Battery Additive Manufacturing",
+      "Sodium Ion Battery Electrolyte Manufacturing",
+      "Battery Material Quality Rework Services",
+      "Solid Electrolyte Manufacturing",
+      "Customized Battery Material Solutions",
+      "Electrolyte Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":634058.6666666666,
+    "cluster":0
+  },
+  {
+    "website":"ronbaymat.com",
+    "operational_name":"Rongbai Lithium Battery",
+    "year_founded":2014,
+    "address":{
+      "country_code":"cn",
+      "latitude":30.0403094,
+      "longitude":121.1500882,
+      "region_name":"Zhejiang",
+      "town":"Yuyao"
+    },
+    "employee_count":14,
+    "revenue":781783,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"ningbo rongbai new energy technology co., ltd., dba rongbai lithium battery (\u5bb9\u767e\u9502\u7535), is a chinese technology company specialized in the research, development, production, and sales of lithium battery cathode materials. the company serves both domestic and international battery manufacturers and operates as a multinational group with subsidiaries in china, hubei, guizhou, and korea. it is also engaged in scientific research and maintains a provincial-level research center and postdoctoral workstation.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "New Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Lithium Battery Cathode Materials Sales and Distribution",
+      "Lithium Battery Cathode Materials Manufacturing",
+      "Lithium Battery Cathode Material Application Consulting",
+      "Lithium Battery Cathode Material Supply Chain Optimization Consulting",
+      "Custom Lithium Battery Cathode Material Formulation",
+      "Power-Oriented Cathode Material Development",
+      "Lithium Battery Cathode Material Cost Optimization Consulting",
+      "Lithium Battery Cathode Material Quality Assurance Services",
+      "Lithium Battery Cathode Material Technical Consulting",
+      "Lithium Battery Cathode Material Exporting",
+      "Lithium Battery Cathode Material Innovation Services",
+      "Lithium Battery Cathode Materials Research and Development",
+      "High-Energy Density Cathode Material Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":55841.6428571429,
+    "cluster":0
+  },
+  {
+    "website":"russianstorage.ru",
+    "operational_name":"RUSTOR",
+    "year_founded":2018,
+    "address":{
+      "country_code":"ru",
+      "latitude":43.3620656,
+      "longitude":132.8319624,
+      "region_name":"Primorsky Krai",
+      "town":"Shkotovsky District"
+    },
+    "employee_count":9,
+    "revenue":5610317,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"rustor llc (\u043e\u043e\u043e \u00ab\u0440\u0443\u0441\u0442\u043e\u0440\u00bb) is a russian company engaged in the development and production of cathode materials based on complex oxides of lithium, nickel, manganese, and cobalt for lithium-ion battery applications. the company also conducts research and development in the lithium-ion battery industry and serves as both a manufacturer and supplier of cathode materials to the lithium-ion battery manufacturing sector, primarily targeting clients in the energy storage market.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Energy",
+      "Battery Manufacturing"
+    ],
+    "core_offerings":[
+      "Lithium-Ion Battery Cathode Material Manufacturing",
+      "Custom Lithium-Ion Battery Cathode Material Development",
+      "Lithium-Ion Battery Cathode Material Sales and Distribution",
+      "Lithium-Ion Battery Cathode Material Research and Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":623368.5555555555,
+    "cluster":0
+  },
+  {
+    "website":"feovaenergy.com",
+    "operational_name":"FeovaEnergy",
+    "year_founded":2010,
+    "address":{
+      "country_code":"sg",
+      "latitude":1.357107,
+      "longitude":103.8194992,
+      "region_name":"Singapore",
+      "town":null
+    },
+    "employee_count":24,
+    "revenue":14617795,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"feovaenergy is a singaporean company specialized in lithium battery materials, with a focus on cathode and anode production technology, lithium carbonate, and lithium hydroxide. the company serves a global market, providing products such as cathode and anode materials, electrolyte solvents, and basic lithium salts, and offers technical consulting services for lithium-ion and sodium-ion battery applications. feovaenergy is also involved in sustainability and environmental protection initiatives within the new energy battery industry.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Battery Materials",
+      "New Energy"
+    ],
+    "core_offerings":[
+      "Cathode Materials Manufacturing",
+      "New Energy Industry Technical Consulting Services",
+      "Lithium-Ion Battery Solutions Development",
+      "Lithium Battery Materials Manufacturing",
+      "Lithium Salt Manufacturing",
+      "Battery Materials Technical Consulting Services",
+      "Sodium-Ion Battery Solutions Development",
+      "Anode Materials Manufacturing",
+      "Sustainable Energy Solutions Development",
+      "Electrolyte Solvents Manufacturing",
+      "Battery Materials Global Distribution"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":609074.7916666666,
+    "cluster":0
+  },
+  {
+    "website":"lihongte.com",
+    "operational_name":"Li Hongte",
+    "year_founded":2018,
+    "address":{
+      "country_code":"cn",
+      "latitude":34.261004,
+      "longitude":108.9423363,
+      "region_name":"Shaanxi",
+      "town":"Xi'an"
+    },
+    "employee_count":12,
+    "revenue":7608704,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"li hongte new energy materials co., ltd. (\u9655\u897f\u529b\u5b8f\u7279\u65b0\u80fd\u6e90\u6750\u6599\u6709\u9650\u516c\u53f8), dba li hongte (\u529b\u5b8f\u7279), is a chinese company specialized in the research, development, production, and sales of lithium-ion battery cathode materials, with a focus on lithium iron phosphate (lfp) and ternary materials. the company primarily serves the energy storage and electric vehicle industries, supplying lithium iron phosphate cathode materials for battery manufacturing. it also operates a research institute and technical department dedicated to developing new technologies, processes, and materials, and maintains a quality control system for process data tracking and early warning systems for battery batches.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Lithium Iron Phosphate Cathode Material Manufacturing",
+      "Battery Material Technology Innovation Services",
+      "Energy Storage Battery Material Solutions",
+      "Lithium-Ion Battery Cathode Material Research and Development",
+      "Ternary Cathode Material Manufacturing",
+      "Battery Material Quality Control Services",
+      "Lithium-Ion Battery Cathode Material Sales and Distribution",
+      "Electric Vehicle Battery Material Solutions",
+      "Lithium-Ion Battery Cathode Material Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":634058.6666666666,
+    "cluster":0
+  },
+  {
+    "website":"altmin.in",
+    "operational_name":"Altmin",
+    "year_founded":2018,
+    "address":{
+      "country_code":"in",
+      "latitude":17.4129831,
+      "longitude":78.338635,
+      "region_name":"Telangana",
+      "town":"Hyderabad"
+    },
+    "employee_count":16,
+    "revenue":865718,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"altmin private limited is an indian private company engaged in the development and manufacturing of battery materials and cell engineering for the lithium-ion battery and electric vehicle sectors. the company produces cathode and anode materials, including lfp, lmfp, and lto chemistries, and operates a cathode gigafactory in telangana. altmin also manages partnerships with mines in south america to support its supply chain and provides chemical manufacturing services.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Eco-Friendly Battery Material Development",
+      "Battery Materials Manufacturing",
+      "Lithium-Ion Battery Chemistry Development",
+      "LTO Cathode Material Manufacturing",
+      "Battery Cell Engineering",
+      "EV Industry Supply Chain Solutions",
+      "Sustainable Battery Technology Solutions",
+      "Mining and Metals Supply Chain Solutions",
+      "LMFP Cathode Material Manufacturing",
+      "Anode Material Manufacturing",
+      "LFP Cathode Material Manufacturing",
+      "Battery Materials Supply Chain Solutions",
+      "Carbon Emission Reduction Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":54107.375,
+    "cluster":0
+  },
+  {
+    "website":"dongdaochina.cn",
+    "operational_name":"Dongdao New Energy",
+    "year_founded":2011,
+    "address":{
+      "country_code":"cn",
+      "latitude":21.2737079,
+      "longitude":110.3548318,
+      "region_name":"Guangdong Province",
+      "town":"Zhanjiang"
+    },
+    "employee_count":15,
+    "revenue":9130445,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"guangdong dongdao new energy co., ltd. (\u5e7f\u4e1c\u4e1c\u5c9b\u65b0\u80fd\u6e90\u80a1\u4efd\u6709\u9650\u516c\u53f8) is a chinese company engaged in the research, development, production, and sales of lithium-ion battery anode materials and electrolytes, with a focus on spherical and natural graphite anode materials. the company also operates as a manufacturer of artificial and natural graphite for electric vehicles, plug-in hybrid electric vehicles, energy storage systems, and 3c batteries. dongdao new energy is certified in environmental management, quality management, occupational health and safety management, and automotive quality management, and collaborates with research institutions to advance its technology. the company serves clients in the lithium battery industry and related sectors globally.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Consumer Electronics",
+      "Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Lithium-Ion Battery Anode Material Manufacturing",
+      "Battery Material Technology Innovation and Patent Development",
+      "Electric Vehicle Battery Material Supply",
+      "Lithium-Ion Battery Electrolyte Manufacturing",
+      "Lithium-Ion Battery Material Research and Development",
+      "Battery Material Standards Development and Leadership",
+      "Automotive Battery Material Supply",
+      "Lithium-Ion Battery Material Sales and Distribution",
+      "Natural Graphite Anode Material Manufacturing",
+      "3C Battery Material Supply",
+      "Energy Storage System Material Supply",
+      "Collaborative Battery Technology Research Services",
+      "Spherical Graphite Anode Material Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":608696.3333333334,
+    "cluster":0
+  },
+  {
+    "website":"rjetech.com",
+    "operational_name":"RJETech",
+    "year_founded":2022,
+    "address":{
+      "country_code":"cn",
+      "latitude":22.6898306,
+      "longitude":113.5857285,
+      "region_name":"Guangdong Province",
+      "town":"Guangzhou"
+    },
+    "employee_count":2,
+    "revenue":120689,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"guangzhou rongjie energy technology co., ltd., dba rjetech, is a chinese company specialized in the research and development, production, and sales of battery cells and systems for energy storage and electric vehicles. the company manufactures lithium battery and energy storage equipment, as well as lithium battery cathode materials, and also engages in lithium battery recycling and reuse. rjetech serves a range of markets, including generation-side, grid-side, consumption-side, residential, and electric vehicle sectors, and is part of a larger group with operations spanning lithium battery manufacturing, energy storage solutions, and related resource-materials-product-application-recycling activities.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy",
+      "Renewable Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Lithium Battery Equipment Manufacturing",
+      "Energy Storage Solution Manufacturing",
+      "Electric Vehicle Battery Manufacturing",
+      "Battery Cell Manufacturing",
+      "Battery System Manufacturing",
+      "Lithium Battery Recycling",
+      "Lithium Battery Cathode Material Production",
+      "Battery Pack Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":60344.5,
+    "cluster":0
+  },
+  {
+    "website":"ayxxgbyy.com.cn",
+    "operational_name":"East Saint\u5148\u884c",
+    "year_founded":1999,
+    "address":{
+      "country_code":"cn",
+      "latitude":36.1023552,
+      "longitude":114.33633,
+      "region_name":"Henan",
+      "town":"Beiguan"
+    },
+    "employee_count":5,
+    "revenue":6391311,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"east saint\u5148\u884c (\u4ebf\u535a\u7535\u7ade\u4e1c\u5723\u5148\u884c) is a chinese high-tech enterprise engaged in the research, development, production, sales, and service of lithium-ion battery cathode materials, electric vehicle battery packs, and energy storage battery packs. the company focuses on lithium-ion battery cathode materials such as cobalt lithium, ternary materials, and lithium iron phosphate. it operates a research institute affiliated with peking university's college of chemistry and maintains international offices in shenzhen and beijing. east saint\u5148\u884c is certified as a beijing high-tech enterprise and designated as a beijing new material center for phosphoric iron lithium.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "New Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Electric Vehicle Battery Pack Manufacturing",
+      "Energy Storage Battery Pack Manufacturing",
+      "Lithium-Ion Battery Cathode Material Research and Development",
+      "Energy Storage Battery Pack Sales and Distribution",
+      "Nickel-Cobalt-Manganese Ternary Material Manufacturing",
+      "Cobalt Lithium Material Manufacturing",
+      "Lithium-Ion Battery Cathode Material Sales and Distribution",
+      "Electric Vehicle Battery Pack Sales and Distribution",
+      "Lithium Iron Phosphate Material Manufacturing",
+      "Lithium-Ion Battery Cathode Material Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":1278262.2,
+    "cluster":0
+  },
+  {
+    "website":"hunanyide.com",
+    "operational_name":"Yide New Energy",
+    "year_founded":2019,
+    "address":{
+      "country_code":"cn",
+      "latitude":27.9182616,
+      "longitude":112.5217128,
+      "region_name":"Hunan",
+      "town":"Shaoshan"
+    },
+    "employee_count":10,
+    "revenue":6208702,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"hunan yide new energy technology co., ltd. (\u6e56\u5357\u4ebf\u5fb7\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8), dba yide new energy (\u4ebf\u5fb7\u65b0\u80fd\u6e90), is a chinese technology company specialized in the research and production of lithium-ion battery anode materials. the company serves the automotive, energy storage, and consumer electronics sectors, supplying products for electric vehicles, energy storage, and 3c digital products. its operations include manufacturing and development of anode materials and battery technologies.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Consumer Electronics",
+      "Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Lithium-Ion Battery Anode Material Manufacturing",
+      "Lithium-Ion Battery Anode Material Research",
+      "Lithium-Ion Battery Anode Material Application"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":620870.2,
+    "cluster":0
+  },
+  {
+    "website":"polyentech.com",
+    "operational_name":"POLYENTECH",
+    "year_founded":2021,
+    "address":{
+      "country_code":"cn",
+      "latitude":22.9032867,
+      "longitude":112.8866883,
+      "region_name":"Guangdong Province",
+      "town":"Foshan"
+    },
+    "employee_count":12,
+    "revenue":7608704,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"guangdong polyentech co., ltd, dba polyentech, is a chinese company specialized in the research, development, production, and sales of new battery materials and solid-state batteries. the company serves markets including new energy vehicles, aerospace, intelligent electronic devices, and energy storage systems, and manufactures solid-state electrolytes for lithium and sodium batteries, li-rich mn-based cathode materials, and solid-state energy storage systems. polyentech also develops technologies for home energy storage, engineering vehicle battery packs, high-speed motorcycle battery packs, power station backup battery packs, wall-mounted home energy storage, marine battery packs, and fully electric energy storage systems.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Consumer Electronics",
+      "Energy",
+      "Aerospace",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Battery Technology Consulting Services",
+      "Solid-State Electrolyte Manufacturing",
+      "Marine Battery Pack Manufacturing",
+      "Battery Materials Sales and Distribution",
+      "Lithium-Rich Mn-Based Cathode Manufacturing",
+      "Battery Materials Research and Development",
+      "Home Energy Storage System Manufacturing",
+      "Power Station Backup Battery Pack Manufacturing",
+      "High-Speed Motorcycle Battery Pack Manufacturing",
+      "Fully Electric Energy Storage System Manufacturing",
+      "Solid-State Battery Manufacturing",
+      "Solid-State Battery Technology Development",
+      "Engineering Vehicle Battery Pack Manufacturing",
+      "Solid-State Energy Storage System Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":634058.6666666666,
+    "cluster":0
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"BTR New Material Group",
+    "year_founded":2000,
+    "address":{
+      "country_code":"cn",
+      "latitude":22.5445741,
+      "longitude":114.0545429,
+      "region_name":"Guangdong Province",
+      "town":"Shenzhen"
+    },
+    "employee_count":12,
+    "revenue":7608704,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"btr new material group co., ltd., dba btr new material group, is a chinese manufacturer specialized in the production and sales of cathode and anode materials for lithium-ion batteries. the company operates as a high-tech enterprise that integrates research and development, manufacturing, and sales, and is affiliated with china baoan group co., ltd. btr new material group serves global markets and is a leader in the lithium-ion battery anode materials industry, with a focus on silicon-based anodes and large-scale production of high nickel cathode material nca in china.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy",
+      "Chemicals"
+    ],
+    "core_offerings":[
+      "Lithium-Ion Anode Material Manufacturing",
+      "Lithium-Ion Battery Material Research and Development",
+      "Lithium-Ion Battery Material Manufacturing",
+      "Lithium-Ion Battery Material Sales and Distribution",
+      "Green Energy Material Solutions",
+      "High Nickel Cathode Material Manufacturing",
+      "Silicon-Based Anode Material Development",
+      "Lithium-Ion Cathode Material Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":634058.6666666666,
+    "cluster":0
+  },
+  {
+    "website":"zjsmld.com",
+    "operational_name":"Zhejiang Shengmei Lithium Battery Materials",
+    "year_founded":2020,
+    "address":{
+      "country_code":"cn",
+      "latitude":null,
+      "longitude":null,
+      "region_name":"Zhejiang",
+      "town":"Jinhua"
+    },
+    "employee_count":26,
+    "revenue":15427116,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"zhejiang shengmei lithium battery materials co., ltd., dba zhejiang shengmei lithium battery materials, is a chinese manufacturing company specialized in the production of lithium bis(fluorosulfonyl)imide, an electrolyte additive for lithium-ion batteries. the company operates a large-scale production facility and utilizes multiple patented technologies in its manufacturing processes. its products are used in the lithium-ion battery industry.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Battery Industry"
+    ],
+    "core_offerings":[
+      "Sustainable Lithium Battery Material Development",
+      "Lithium Battery Material Distribution",
+      "Patented Lithium Battery Technology Application",
+      "Lithium Battery Material Research and Development",
+      "Lithium Battery Materials Manufacturing",
+      "Lithium-Ion Battery Electrolyte Additive Production",
+      "Lithium Bis(fluorosulfonyl)imide Manufacturing",
+      "Lithium Battery Material Quality Assurance Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":593350.6153846154,
+    "cluster":0
+  },
+  {
+    "website":"hunanyuneng.com",
+    "operational_name":"Hunan Yueneng New Energy Battery Material Co., Ltd.",
+    "year_founded":2018,
+    "address":{
+      "country_code":"cn",
+      "latitude":27.965772,
+      "longitude":112.8543993,
+      "region_name":"Hunan",
+      "town":"Yuhu"
+    },
+    "employee_count":12,
+    "revenue":7608704,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"hunan yueneng new energy battery material co., ltd. (\u6e56\u5357\u88d5\u80fd\u65b0\u80fd\u6e90\u7535\u6c60\u6750\u6599\u80a1\u4efd\u6709\u9650\u516c\u53f8), dba hunan yueneng new energy battery material co., ltd., is a chinese company specialized in the research, production, and sales of lithium-ion battery cathode materials, with a primary focus on lithium iron phosphate (lfp) and ternary materials. the company supplies its products to the automotive and energy storage sectors, serving battery manufacturers. it also operates a research and development institute and technical department dedicated to developing new technologies, processes, and materials.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Energy Storage",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Lithium-Ion Battery Cathode Material Research and Development",
+      "Ternary Cathode Material Manufacturing",
+      "New Energy Vehicle Battery Material Supply",
+      "Energy Storage Battery Material Supply",
+      "Lithium-Ion Battery Cathode Material Sales and Distribution",
+      "LFP Cathode Material Manufacturing",
+      "Lithium-Ion Battery Cathode Material Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":634058.6666666666,
+    "cluster":0
+  },
+  {
+    "website":"liongo.com.cn",
+    "operational_name":"Nanjing Blue Solid New Energy",
+    "year_founded":2021,
+    "address":{
+      "country_code":"cn",
+      "latitude":31.4178958,
+      "longitude":119.4787471,
+      "region_name":"Jiangsu",
+      "town":"Liyang"
+    },
+    "employee_count":7,
+    "revenue":4565222,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"nanjing blue solid new energy co., ltd. (\u84dd\u56fa\uff08\u5e38\u5dde\uff09\u65b0\u80fd\u6e90\u6709\u9650\u516c\u53f8), dba nanjing blue solid new energy (\u84dd\u56fa\u65b0\u80fd\u6e90), is a chinese company specialized in the production and wholesale supply of solid-state electrolytes, hybrid solid-liquid electrolytes, lithium-ion battery electrolytes, sodium-ion battery electrolytes, and customized electrolytes for various battery types. the company serves the energy storage and power generation sectors, supplying products to a broad market through its subsidiaries in jiangsu, zibo, and huzhou. nanjing blue solid new energy is certified to national safety standards and collaborates with professional fire rescue teams to enhance workplace safety.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Energy",
+      "Power Generation"
+    ],
+    "core_offerings":[
+      "Solid-State Electrolyte Manufacturing",
+      "Sodium-Ion Battery Electrolyte Manufacturing",
+      "Lithium-Ion Battery Electrolyte Manufacturing",
+      "3C Battery Electrolyte Supply",
+      "Battery Electrolyte Wholesale",
+      "Battery Electrolyte Manufacturing",
+      "Power Battery Electrolyte Supply",
+      "Hybrid Solid-Liquid Electrolyte Manufacturing",
+      "Energy Storage Electrolyte Supply",
+      "Customized Battery Electrolyte Development",
+      "Battery Electrolyte Quality Assurance Services",
+      "Battery Electrolyte Safety Compliance Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":652174.5714285715,
+    "cluster":0
+  },
+  {
+    "website":"chargecccv.com",
+    "operational_name":"Charge CCCV",
+    "year_founded":2013,
+    "address":{
+      "country_code":"us",
+      "latitude":42.090132925,
+      "longitude":-75.954188425,
+      "region_name":"New York",
+      "town":"Binghamton"
+    },
+    "employee_count":45,
+    "revenue":37811839,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"charge cccv, also known as c4v, is an american intellectual property company engaged in lithium-ion battery composition and manufacture, with a focus on next-generation battery technologies. the company develops cobalt and nickel-free cathode chemistries and solid-state and semi-solid-state battery technologies, serving applications in electric mobility, aviation, grid storage, and space exploration. charge cccv emphasizes sustainability and environmentally friendly materials and processes in its operations.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy",
+      "Aerospace",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Space Exploration Battery Solutions",
+      "Battery Material Supply Chain Management",
+      "Aviation Battery Solutions",
+      "Sustainable Battery Process Development",
+      "Battery Commercialization Services",
+      "Electric Mobility Battery Solutions",
+      "Cathode Chemistry Innovation and Manufacturing",
+      "Electrolyte Modification and Optimization",
+      "Environmentally Friendly Battery Material Development",
+      "Semi-Solid-State Battery Technology Development",
+      "Grid Storage Battery Solutions",
+      "Solid-State Battery Technology Development",
+      "Lithium-Ion Battery Technology Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":840263.0888888889,
+    "cluster":0
+  },
+  {
+    "website":"nuvvon.com",
+    "operational_name":"Nuvvon",
+    "year_founded":2022,
+    "address":{
+      "country_code":"us",
+      "latitude":40.8508469,
+      "longitude":-74.4544771,
+      "region_name":"New Jersey",
+      "town":"Parsippany-Troy Hills"
+    },
+    "employee_count":9,
+    "revenue":30370795,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"nuvvon inc. is an american company engaged in the development, scale-up, and commercialization of solid-state lithium metal batteries. the company focuses on solid polymer electrolyte technology, which is designed to be flame-resistant, flexible, and suitable for roll-to-roll production and integration with standard li-ion equipment. nuvvon serves the energy storage sector, providing battery solutions for business clients.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy Storage"
+    ],
+    "core_offerings":[
+      "Battery Cell Commercialization",
+      "Solid-State Lithium Metal Battery Development",
+      "Flame-Resistant Battery Technology Development",
+      "Polymer Electrolyte Technology Development",
+      "Energy Storage Solutions Development",
+      "Flexible Battery Manufacturing",
+      "Solid-State Battery Materials Research",
+      "Roll-to-Roll Battery Production",
+      "Temperature-Independent Battery Technology Development",
+      "High-Energy-Density Battery Solutions",
+      "Solid-State Lithium Metal Battery Manufacturing",
+      "Polymer Electrolyte Technology Scaling",
+      "Low-Cost Battery Material Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":3374532.777777778,
+    "cluster":0
+  },
+  {
+    "website":"quantumscape.com",
+    "operational_name":"QuantumScape",
+    "year_founded":2010,
+    "address":{
+      "country_code":"us",
+      "latitude":37.3668647553,
+      "longitude":-121.9180945769,
+      "region_name":"California",
+      "town":"San Jose"
+    },
+    "employee_count":850,
+    "revenue":568156574,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"quantumscape battery, inc. is an american electronics manufacturer and technology company engaged in the development and production of solid-state lithium-metal batteries for electric vehicles and energy storage applications. the company specializes in solid ceramic electrolyte separators and anode-less cell designs, and collaborates with automotive partners to support the commercialization of its battery technology. quantumscape also conducts research and development in materials science and engineering, and is publicly traded on the nasdaq exchange.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Battery Energy Density Enhancement Solutions",
+      "Greenhouse Gas Emission Reduction Solutions",
+      "Anode-Less Battery Cell Design and Manufacturing",
+      "Solid-Ceramic Electrolyte Separator Development",
+      "Battery Charging Speed Optimization Solutions",
+      "Advanced Battery Technology Research and Development",
+      "Solid-State Lithium-Metal Battery Manufacturing",
+      "Energy Storage System Solutions",
+      "Sustainable Energy Storage Solutions",
+      "Electric Vehicle Battery Solutions",
+      "Battery Safety Enhancement Solutions",
+      "Automotive Partnership Development",
+      "Electrified Transportation Technology Development"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":668419.4988235295,
+    "cluster":0
+  },
+  {
+    "website":"ctlne.com",
+    "operational_name":"Taibang New Energy",
+    "year_founded":2019,
+    "address":{
+      "country_code":"cn",
+      "latitude":30.05518,
+      "longitude":107.8748712,
+      "region_name":"Chongqing",
+      "town":null
+    },
+    "employee_count":3,
+    "revenue":9130445,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"chongqing taibang new energy co., ltd. (\u91cd\u5e86\u592a\u84dd\u65b0\u80fd\u6e90\u6709\u9650\u516c\u53f8) is a chinese company engaged in the research, development, and industrialization of new solid-state lithium batteries and key lithium battery materials. the company serves the automotive, commercial vehicle, and energy storage sectors, targeting business clients. it operates multiple production and research facilities across china, including facilities in beijing, shunyi, chongqing, and anhui.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Commercial Vehicles",
+      "Energy Storage",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Lithium Battery Materials Research and Development",
+      "Solid-State Lithium Battery Development",
+      "Lithium Battery Manufacturing",
+      "Automotive Battery Solutions",
+      "Lithium Battery Research and Development",
+      "Semi-Solid Lithium Battery Manufacturing",
+      "Energy Storage Battery Solutions",
+      "Solid-State Lithium Battery Manufacturing",
+      "Commercial Vehicle Battery Solutions",
+      "Semi-Solid Lithium Battery Development",
+      "Lithium Battery Technology Innovation"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":3043481.6666666665,
+    "cluster":0
+  },
+  {
+    "website":"cidecell.com",
+    "operational_name":"CIDEcell",
+    "year_founded":2019,
+    "address":{
+      "country_code":"es",
+      "latitude":43.2974719,
+      "longitude":-1.9679922,
+      "region_name":"Autonomous Community of the Basque Country",
+      "town":"San Sebasti\u00e1n"
+    },
+    "employee_count":9,
+    "revenue":10648441,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"cidecell is a spanish manufacturer specialized in the production of customized electrodes and cells for lithium-ion batteries, solid-state batteries, sodium-ion batteries, lithium-sulphur batteries, and ultracapacitors. the company serves industries such as aerospace, medical devices, renewable energy, defense, electric vehicles, marine, and related sectors. cidecell also operates as a provider of material manufacturing, oem manufacturing, and battery manufacturing services, and maintains research and development laboratories for materials and characterization. the company emphasizes sustainability through the use of environmentally conscious materials and processes.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Aerospace",
+      "Automotive",
+      "Renewable Energy",
+      "Marine",
+      "Healthcare",
+      "Defense"
+    ],
+    "core_offerings":[
+      "Battery Material Research and Development",
+      "Water-Based Battery Process Development",
+      "Battery Component Assembly and Integration",
+      "High Nickel Cathode Material Development",
+      "Lithium-Sulphur Battery Manufacturing",
+      "Silicon Anode Material Development",
+      "Customized Battery Electrode Manufacturing",
+      "Ultracapacitor Manufacturing",
+      "Battery Performance Testing and Characterization",
+      "Battery Electrode and Cell Manufacturing",
+      "Solid-State Battery Manufacturing",
+      "Advanced Lithium-Ion Battery Manufacturing",
+      "Customized Battery Cell Manufacturing",
+      "Sodium-Ion Battery Manufacturing",
+      "Sustainable Battery Solutions Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":1183160.111111111,
+    "cluster":0
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"BASF Shanshan Battery Materials",
+    "year_founded":2003,
+    "address":{
+      "country_code":"cn",
+      "latitude":28.2491934,
+      "longitude":113.0748296,
+      "region_name":"Hunan",
+      "town":"Changsha"
+    },
+    "employee_count":12,
+    "revenue":7608704,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"basf shanshan battery materials co., ltd, dba basf shanshan battery materials, is a chinese private company operating in the chemicals sector, specializing in the research, development, production, and sales of lithium battery cathode materials. the company serves global markets and operates a research institute focused on product development, experimental verification, analysis, and testing. it also manages two wholly-owned subsidiaries.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Chemicals",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Lithium Battery Cathode Materials Sales and Distribution",
+      "Battery Material Product Testing and Analysis",
+      "Lithium Battery Cathode Materials Manufacturing",
+      "Sustainable Battery Material Innovation Services",
+      "Lithium Battery Cathode Materials Research and Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":634058.6666666666,
+    "cluster":0
+  },
+  {
+    "website":"kunlunchem.com.cn",
+    "operational_name":"Kunlun New Materials",
+    "year_founded":2004,
+    "address":{
+      "country_code":"cn",
+      "latitude":39.0000001,
+      "longitude":116.0,
+      "region_name":"Hebei",
+      "town":null
+    },
+    "employee_count":42,
+    "revenue":25000000,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"xianghe kunlun new energy materials co., ltd. (\u9999\u6cb3\u6606\u4ed1\u65b0\u80fd\u6e90\u6750\u6599\u80a1\u4efd\u6709\u9650\u516c\u53f8), known as kunlun new materials (\u6606\u4ed1\u65b0\u6750), is a chinese company engaged in the development and production of power-type lithium-ion battery electrolytes. the company operates as a technology enterprise with a focus on solid-state battery technology and serves both domestic and international markets, supplying products for electric vehicles, environmental protection vehicles, and deep-sea submarines. kunlun new materials is certified in environmental management, quality assurance, and occupational health and safety management systems, and holds iatf16949 certification.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Marine",
+      "Environmental Protection",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Smart Manufacturing Implementation for Batteries",
+      "Deep-Sea Submarine Electrolyte Solutions",
+      "Environmental Management Services for Battery Production",
+      "Lithium-Ion Battery Electrolyte Manufacturing",
+      "International Battery Material Distribution",
+      "Battery Material Exporting",
+      "Patented Battery Technology Solutions",
+      "Solid-State Battery Electrolyte Development",
+      "Occupational Health and Safety Management Services for Battery Manufacturing",
+      "Quality Assurance Services for Battery Materials",
+      "Environmental Protection Vehicle Electrolyte Solutions",
+      "Custom Battery Material Solutions Development",
+      "Battery Material Research and Innovation",
+      "Electric Vehicle Electrolyte Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":595238.0952380953,
+    "cluster":0
+  },
+  {
+    "website":"sepiontechnologies.com",
+    "operational_name":"Sepion Technologies",
+    "year_founded":2020,
+    "address":{
+      "country_code":"us",
+      "latitude":37.78256035,
+      "longitude":-122.2709320517,
+      "region_name":"California",
+      "town":"Alameda"
+    },
+    "employee_count":23,
+    "revenue":33407512,
+    "primary_naics":{
+      "code":"335999",
+      "label":"All Other Miscellaneous Electrical Equipment and Component Manufacturing"
+    },
+    "description":"sepion technologies, inc. is a united states company engaged in materials solutions for the electrify-everything revolution, with a focus on lithium-ion and lithium-metal battery separators. the company operates in the research and product development sector, utilizing nanoscience, polymer chemistry, and machine-learning-driven materials discovery to design and produce coated separator technology for electric vehicle and energy storage applications. sepion technologies collaborates with automakers, cell manufacturers, and component manufacturers to improve battery performance and energy density.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Prototype Battery Cell Production",
+      "Lithium-Metal Battery Separator Manufacturing",
+      "Cell Manufacturer Partnership Services",
+      "Lithium-Ion Battery Separator Manufacturing",
+      "Machine-Learning Materials Discovery Services",
+      "Coated Separator Technology Development",
+      "Component Manufacturer Partnership Services",
+      "Battery Separator Solutions Development",
+      "Electric Vehicle Battery Component Solutions",
+      "Automotive Battery Component Collaboration",
+      "Polymer Chemistry Application in Separators",
+      "Nanoscience-Based Separator Design",
+      "Sustainable Energy Materials Innovation"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335999",
+    "industry_name":"All Other Miscellaneous Electrical Equipment and Component Manufacturing",
+    "revenue_per_employee":1452500.5217391304,
+    "cluster":0
+  },
+  {
+    "website":"mitrachem.com",
+    "operational_name":"Mitra Chem",
+    "year_founded":2021,
+    "address":{
+      "country_code":"us",
+      "latitude":37.40869085,
+      "longitude":-122.0799023,
+      "region_name":"California",
+      "town":"Mountain View"
+    },
+    "employee_count":60,
+    "revenue":10152175,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"mitra chem incorporated is an american private company engaged in the development and manufacturing of lithium-ion battery materials, with a focus on iron-based cathode materials. the company operates in the semiconductor and renewable energy sectors, providing battery materials for electric vehicles, energy storage, and related applications. mitra chem utilizes proprietary machine learning technology to support research and development and manufacturing processes, and its products are used by original equipment manufacturers and battery cell suppliers. the company is also involved in joint development partnerships and has received funding from the us department of energy.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy",
+      "Renewable Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Battery Materials Commercialization Services",
+      "Iron-Based Cathode Materials Manufacturing",
+      "Lithium Iron Phosphate Plus Cathode Manufacturing",
+      "Battery Materials Joint Development Partnerships",
+      "Energy Storage Battery Materials Solutions",
+      "Battery Materials Research and Development",
+      "Battery Materials Sampling Services",
+      "Lithium Iron Phosphate Cathode Manufacturing",
+      "Electric Vehicle Battery Materials Solutions",
+      "Battery Materials Industrialization Services",
+      "Lithium-Ion Battery Materials Manufacturing",
+      "Machine Learning-Driven Battery Materials Development",
+      "Renewable Energy Semiconductor Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":169202.9166666667,
+    "cluster":0
+  },
+  {
+    "website":"atsmlab.en.alibaba.com",
+    "operational_name":"Shenzhen Atsm Energy",
+    "year_founded":2024,
+    "address":{
+      "country_code":"cn",
+      "latitude":23.14246595,
+      "longitude":113.4060277474,
+      "region_name":"Guangdong Province",
+      "town":"Tianhe District"
+    },
+    "employee_count":12,
+    "revenue":7608704,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"shenzhen atsm energy co., ltd., dba shenzhen atsm energy, is a chinese company specialized in the research, development, production, and sales of lithium battery materials, lithium-ion battery equipment, and graphene materials. the company serves a global market, focusing on the energy and automotive sectors, and provides products and services including battery materials, equipment, and testing solutions.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Battery Production Line Manufacturing",
+      "Sodium Battery Anode Materials Manufacturing",
+      "Battery Testing Solutions",
+      "Laboratory and Pilot Line Equipment Manufacturing",
+      "Battery Equipment Global Distribution",
+      "Battery Testing Equipment Global Distribution",
+      "Battery Precursor Powders Manufacturing",
+      "Battery Electrolyte and Solid Electrolyte Production",
+      "Lithium Battery Materials Manufacturing",
+      "Battery Coating and Slitting Materials Manufacturing",
+      "Lithium Battery Anode Materials Manufacturing",
+      "Battery Auxiliary Materials Manufacturing",
+      "Battery Equipment Manufacturing",
+      "Graphene Materials Manufacturing",
+      "Battery Materials Global Distribution",
+      "Battery Testing Equipment Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":634058.6666666666,
+    "cluster":0
+  },
+  {
+    "website":"pennenergy.cn",
+    "operational_name":"Fengyang Pengen",
+    "year_founded":2016,
+    "address":{
+      "country_code":"cn",
+      "latitude":32.9271204,
+      "longitude":115.8018761,
+      "region_name":"Anhui",
+      "town":"Fuyang"
+    },
+    "employee_count":7,
+    "revenue":7608704,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"fengyang pengen technology co., ltd. (\u961c\u9633\u670b\u80fd\u79d1\u6280\u6709\u9650\u516c\u53f8), dba fengyang pengen (\u961c\u9633\u670b\u80fd), is a chinese technology company specialized in the research, development, production, and sales of lithium-ion batteries and battery cells, including cathode materials, electrolytes, and battery packs. the company also provides battery leasing services and operates as a vertically integrated manufacturer covering the entire lithium-ion battery manufacturing chain from raw materials to battery packs. fengyang pengen serves sectors such as automotive, construction machinery, energy storage, and two-wheeler industries, and operates a new energy industry research institute, a new material development laboratory, and a material testing center. the company has developed proprietary lithium iron phosphate and ternary battery technologies, and has established subsidiaries in china and the united states.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Construction",
+      "Two-Wheeler",
+      "Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Battery Electrolyte Development",
+      "Battery Management System Development",
+      "Lithium-Ion Battery Research and Development",
+      "Lithium-Ion Battery Leasing Services",
+      "Battery Material Testing Services",
+      "Automotive Battery Solutions",
+      "Lithium-Ion Battery Manufacturing",
+      "Ultra-Low Temperature Battery Technology Development",
+      "Battery Material Precursor Synthesis",
+      "Construction Machinery Battery Solutions",
+      "Lithium-Ion Battery Sales and Distribution",
+      "Functional Electrolyte Manufacturing",
+      "Battery Pack Manufacturing",
+      "Customized Battery Pack Design",
+      "New Energy Industry Consulting Services",
+      "Battery Cathode Material Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":1086957.7142857143,
+    "cluster":0
+  },
+  {
+    "website":"rusaccum.ru",
+    "operational_name":"Rusaccum",
+    "year_founded":2021,
+    "address":{
+      "country_code":"ru",
+      "latitude":59.9512351,
+      "longitude":30.4715363,
+      "region_name":"Saint Petersburg",
+      "town":"Saint Petersburg"
+    },
+    "employee_count":5,
+    "revenue":5610317,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"rusaccum llc (\u043e\u043e\u043e \u00ab\u0440\u0443\u0441\u0430\u043a\u043a\u0443\u043c\u00bb), dba rusaccum (\u0440\u0443\u0441\u0430\u043a\u043a\u0443\u043c), is a russian limited liability company specialized in the development of solid-state batteries, with a focus on lithium-ion batteries and solid-state lithium sources. the company operates in the scientific-technical sector, developing technologies to enhance lithium-ion battery efficiency, producing materials for lithium-ion batteries, and designing and supplying lithium-ion battery cells and batteries for specific applications. rusaccum also conducts expert evaluations of materials and batteries using electrochemical testing and collaborates with scientific and educational institutions to address scientific and technological challenges in the green energy sector, hybrid and electric vehicles, and energy storage applications. the company serves both european and russian markets.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy",
+      "Energy Storage",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Lithium-Ion Battery Cell Manufacturing",
+      "Scientific and Technological Research Collaboration",
+      "Electrochemical Battery Testing Services",
+      "Solid-State Lithium Source Production",
+      "Electric and Hybrid Vehicle Battery Solutions",
+      "Green Energy Sector Solutions",
+      "Electrochemical Material Testing Services",
+      "Lithium-Ion Battery Development",
+      "Energy Storage Application Solutions",
+      "Lithium-Ion Battery Material Production",
+      "Solid-State Battery Development",
+      "Custom Battery Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":1122063.3999999999,
+    "cluster":0
+  },
+  {
+    "website":"nascentmaterials.com",
+    "operational_name":"Nascent Materials",
+    "year_founded":2019,
+    "address":{
+      "country_code":"us",
+      "latitude":40.7379897,
+      "longitude":-74.1709494,
+      "region_name":"New Jersey",
+      "town":"Newark"
+    },
+    "employee_count":2,
+    "revenue":30370795,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"nascent materials inc. is an american company engaged in the development and manufacturing of cathode materials for lithium-ion batteries, with a focus on lithium iron phosphate (lfp) and lithium manganese iron phosphate (lmfp) chemistries. the company operates as a manufacturer and technology provider, offering proprietary manufacturing processes that reduce production costs and waste, and are compatible with u.s. feedstocks and recycling inputs. nascent materials serves a global market, with a particular emphasis on the u.s. lithium-ion battery industry and markets such as electric vehicles, grid storage, industrial applications, ai data centers, defense, and aviation.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Grid Storage",
+      "Aviation",
+      "Energy",
+      "Automotive",
+      "Industrial",
+      "Defense"
+    ],
+    "core_offerings":[
+      "AI Data Center Battery Material Supply",
+      "Electric Vehicle Battery Material Supply",
+      "Cathode Material Manufacturing",
+      "Lithium-Ion Battery Cathode Manufacturing",
+      "Industrial Battery Material Supply",
+      "Lithium-Manganese-Iron-Phosphate Cathode Manufacturing",
+      "Lithium-Iron-Phosphate Cathode Manufacturing",
+      "Battery Industry Supply Chain Solutions",
+      "Proprietary Cathode Manufacturing Technology Development",
+      "Lithium-Ion Battery Cathode Development",
+      "Continuous Flow Cathode Production",
+      "Thermo-Fusion Synthesis Technology Development",
+      "Sustainable Energy Storage Solutions",
+      "Grid Storage Battery Material Supply",
+      "Zero-Waste Cathode Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":15185397.5,
+    "cluster":0
+  },
+  {
+    "website":"ad-lib.cn",
+    "operational_name":"Anda Technology",
+    "year_founded":1996,
+    "address":{
+      "country_code":"cn",
+      "latitude":26.6499922,
+      "longitude":106.6246178,
+      "region_name":"Guizhou",
+      "town":"Guiyang"
+    },
+    "employee_count":17,
+    "revenue":18333244,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"guiyang anda technology energy co., ltd. (\u8d35\u9633\u5b89\u8fbe\u79d1\u6280\u80fd\u6e90\u6709\u9650\u516c\u53f8) is a chinese company engaged in the research, development, production, and sales of phosphate iron lithium batteries, with a focus on lithium-ion battery cathode materials, phosphate iron, and phosphate iron lithium batteries. the company serves the automotive battery power, energy storage, and lead-acid replacement markets, providing battery cell products and battery systems for applications such as electric passenger cars, electric forklifts, electric sightseeing vehicles, and low-speed electric vehicles. anda technology is iso certified and operates a production facility in guiyang, china.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Energy",
+      "Industrial",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Battery Cell Sales and Distribution",
+      "Battery Technology Research and Development",
+      "Automotive Battery Power Solutions",
+      "Electric Sightseeing Vehicle Battery Solutions",
+      "Battery Cell Manufacturing",
+      "Battery Grade Phosphate Iron Manufacturing",
+      "Electric Forklift Battery Solutions",
+      "Lead-Acid Replacement Battery Solutions",
+      "Battery Grade Phosphate Iron Lithium Manufacturing",
+      "Battery System Manufacturing",
+      "Battery System Sales and Distribution",
+      "Low-Speed Electric Vehicle Battery Solutions",
+      "Electric Vehicle Battery Solutions",
+      "Energy Storage Solutions",
+      "Lithium-Ion Battery Cathode Material Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":1078426.1176470588,
+    "cluster":0
+  },
+  {
+    "website":"hengtron.com",
+    "operational_name":"Hengchuang",
+    "year_founded":2022,
+    "address":{
+      "country_code":"cn",
+      "latitude":33.349559,
+      "longitude":120.1577019,
+      "region_name":"Jiangsu",
+      "town":"Yancheng City"
+    },
+    "employee_count":7,
+    "revenue":4565222,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"jiangsu hengchuang nano technology co., ltd. (\u6c5f\u82cf\u73e9\u521b\u7eb3\u7c73\u79d1\u6280\u6709\u9650\u516c\u53f8), dba hengchuang (\u73fe\u521b), is a chinese technology company specialized in the research, development, production, and sales of lithium battery cathode materials, with a focus on lithium iron phosphate manganese (lmfp) as a replacement for iron in lithium iron phosphate (lfp) to improve voltage and energy density. the company primarily serves the automotive and transportation sectors, including new energy vehicles, electric bicycles, and consumer electronics, targeting major battery manufacturers in these industries. hengchuang has a global presence with patent protection in europe, the united states, japan, and south korea.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Consumer Electronics",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Lithium Battery Cathode Material Sales and Distribution",
+      "LMFP Cathode Material Sales and Distribution",
+      "Lithium Battery Technology Patent Layout Services",
+      "Lithium Battery Cathode Material Research and Development",
+      "Automotive Battery Cathode Material Solutions",
+      "LMFP Cathode Material Manufacturing",
+      "Consumer Electronics Battery Cathode Material Solutions",
+      "LMFP Cathode Material Development",
+      "Electric Bicycle Battery Cathode Material Solutions",
+      "Lithium Battery Cathode Material Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":652174.5714285715,
+    "cluster":0
+  },
+  {
+    "website":"shanshan.fi",
+    "operational_name":"Shanshan Technology",
+    "year_founded":2018,
+    "address":{
+      "country_code":"fi",
+      "latitude":63.0650528,
+      "longitude":21.7357123,
+      "region_name":"Ostrobothnia",
+      "town":"Vaasa"
+    },
+    "employee_count":12,
+    "revenue":7608704,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"shanshan new material (finland) oy, known as shanshan technology, is a finnish company engaged in the manufacturing and supply of lithium battery anode materials. the company operates a european production base in vaasa, finland, serving the european market with a focus on sustainable and eco-friendly production practices. its operations include research and development activities related to lithium battery anode materials.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Sustainable Battery Materials Production",
+      "Lithium Battery Anode Materials Research and Development",
+      "Lithium Battery Anode Materials Manufacturing",
+      "Eco-Friendly Battery Materials Manufacturing",
+      "Lithium Battery Anode Materials Distribution"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":634058.6666666666,
+    "cluster":0
+  },
+  {
+    "website":"shanshantech.com",
+    "operational_name":"Shan Shan Technology",
+    "year_founded":1999,
+    "address":{
+      "country_code":"cn",
+      "latitude":31.2593817,
+      "longitude":121.6001683,
+      "region_name":"Shanghai",
+      "town":"Pudong"
+    },
+    "employee_count":146,
+    "revenue":32500000,
+    "primary_naics":{
+      "code":"325998",
+      "label":"All Other Miscellaneous Chemical Product and Preparation Manufacturing"
+    },
+    "description":"shan shan technology co., ltd. (\u4e0a\u6d77\u6749\u6749\u79d1\u6280\u6709\u9650\u516c\u53f8), dba shan shan technology (\u6749\u6749\u79d1\u6280), is a chinese technology company specialized in the research, production, and sales of lithium-ion battery anode materials. the company operates as a manufacturer and supplier in the lithium-ion battery anode materials industry, serving global markets with applications in tool, power, and digital lithium-ion batteries. shan shan technology also engages in research and development of new materials and technologies, and holds certifications such as national enterprise technology center, national manufacturing single champion, and cnas national-level laboratory certification.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Lithium-Ion Battery Industry"
+    ],
+    "core_offerings":[
+      "Proprietary Materials Technology Development",
+      "Lithium-Ion Battery Anode Materials Research and Development",
+      "Lithium-Ion Battery Materials Innovation Services",
+      "Digital Battery Anode Materials Solutions",
+      "Natural Graphite Manufacturing",
+      "Lithium-Ion Battery Materials Quality Assurance Services",
+      "Sustainable Materials Development",
+      "Power and Tool Battery Anode Materials Solutions",
+      "Lithium-Ion Battery Anode Materials Global Distribution",
+      "Artificial Graphite Manufacturing",
+      "Lithium-Ion Battery Anode Materials Manufacturing",
+      "New Materials Development",
+      "Silicon-Based Anode Materials Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325998",
+    "industry_name":"All Other Miscellaneous Chemical Product and Preparation Manufacturing",
+    "revenue_per_employee":222602.7397260274,
+    "cluster":0
+  },
+  {
+    "website":"tttrnet.com",
+    "operational_name":"Hunan TianTai TianRun New Energy Technology",
+    "year_founded":2016,
+    "address":{
+      "country_code":"cn",
+      "latitude":29.494523,
+      "longitude":111.85987,
+      "region_name":"Hunan",
+      "town":"Jinshi"
+    },
+    "employee_count":12,
+    "revenue":7608704,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"hunan tiantai tianrun new energy technology co., ltd. (\u6e56\u5357\u5929\u6cf0\u5929\u6da6\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8), dba hunan tiantai tianrun new energy technology (\u6e56\u5357\u5929\u6cf0\u5929\u6da6\u65b0\u80fd\u6e90\u79d1\u6280), is a chinese company specialized in the production of lithium-ion battery cathode material precursors, particularly lithium iron phosphate (lfp), and the recycling and reuse of retired lithium-ion batteries. the company operates as a manufacturer and recycler of lithium-ion battery materials, serving both domestic and international markets. it is iso certified and holds national high-tech enterprise certification. hunan tiantai tianrun new energy technology also engages in research and development activities related to lithium-ion battery materials and collaborates with domestic research institutes and universities.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Lithium-Ion Battery Cathode Material Production",
+      "Lithium-Ion Battery Production",
+      "Lithium-Ion Battery Reuse",
+      "Lithium-Ion Battery Recycling"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":634058.6666666666,
+    "cluster":0
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"Indonesia BTR New Energy Material",
+    "year_founded":2023,
+    "address":{
+      "country_code":"id",
+      "latitude":-6.9509307,
+      "longitude":110.2352263,
+      "region_name":"Central Java",
+      "town":"Kendal"
+    },
+    "employee_count":17,
+    "revenue":18333244,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"pt indonesia btr new energy material, dba indonesia btr new energy material, is an indonesian private company operating in the mechanical and industrial engineering sector, specializing in the development, production, and sales of lithium-ion batteries and nano carbon materials such as anode and cathode. the company is engaged in manufacturing activities.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy"
+    ],
+    "core_offerings":[
+      "Nano Carbon Cathode Manufacturing",
+      "Lithium-Ion Battery Sales",
+      "Advanced Energy Material Development",
+      "Lithium-Ion Battery Manufacturing",
+      "Nano Carbon Anode Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":1078426.1176470588,
+    "cluster":0
+  },
+  {
+    "website":"greenbatt.ch",
+    "operational_name":"Greenbatt Technology",
+    "year_founded":2017,
+    "address":{
+      "country_code":"ch",
+      "latitude":47.1953394,
+      "longitude":8.5266127,
+      "region_name":"Zug",
+      "town":"Baar"
+    },
+    "employee_count":17,
+    "revenue":18333244,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"greenbatt technology holding ag is a swiss company engaged in battery technology, with a focus on lithium-ion and solid-state batteries. the company develops and manufactures battery cells using technologies such as thick layer technology and composite cathodes, and supplies battery solutions for industries including electric vehicles, renewable energy storage, and consumer electronics. greenbatt technology also emphasizes sustainability by promoting the recycling and reuse of materials and contributing to the energy transition.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Consumer Electronics",
+      "Renewable Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Battery Technology Research and Development",
+      "Thick Layer Battery Cell Manufacturing",
+      "Lithium-Ion Battery Manufacturing",
+      "Solid-State Battery Manufacturing",
+      "Consumer Electronics Battery Supply",
+      "Renewable Energy Storage Battery Supply",
+      "Electric Vehicle Battery Supply",
+      "Composite Cathode Manufacturing",
+      "Sustainable Energy Transition Solutions",
+      "Battery Cell Recycling and Material Reuse Solutions",
+      "Sodium Battery Manufacturing",
+      "Battery Cell Automation Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":1078426.1176470588,
+    "cluster":0
+  },
+  {
+    "website":"youshan.com",
+    "operational_name":"You Shan Technology",
+    "year_founded":2018,
+    "address":{
+      "country_code":"cn",
+      "latitude":30.7474425,
+      "longitude":120.7510971,
+      "region_name":"Zhejiang",
+      "town":"Jiaxing"
+    },
+    "employee_count":3,
+    "revenue":7608704,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"you shan new materials technology co., ltd. (\u6d59\u6c5f\u53cb\u5c71\u65b0\u6750\u6599\u79d1\u6280\u6709\u9650\u516c\u53f8), known as you shan technology (\u53cb\u5c71\u79d1\u6280), is a chinese company engaged in the research, development, production, and sales of lithium-ion battery materials, with a focus on phosphate iron lithium and related cathode materials for new energy vehicles, public and household energy storage, and other lithium-ion battery applications. the company operates as a manufacturer and distributor within the lithium-ion battery materials industry, and maintains a comprehensive product lifecycle service system. it also collaborates with upstream and downstream industry partners to support its supply chain and has established phosphate iron lithium production bases in inner mongolia, guangxi, and yunnan, with plans for international expansion.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Lithium-Ion Battery Material Research and Development",
+      "Lithium-Ion Battery Material Manufacturing",
+      "Lithium-Manganese-Iron-Phosphate Cathode Manufacturing",
+      "Industry Collaboration Solutions",
+      "Lithium-Iron-Phosphate Cathode Manufacturing",
+      "International Lithium-Ion Material Distribution",
+      "Phosphate Iron Lithium Cathode Manufacturing",
+      "Lithium-Ion Material Lifecycle Services",
+      "Lithium-Ion Battery Material Sales and Distribution",
+      "New Energy Vehicle Battery Material Supply",
+      "Energy Storage System Material Supply"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":2536234.6666666665,
+    "cluster":0
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"ReFire_ev",
+    "year_founded":2019,
+    "address":{
+      "country_code":"in",
+      "latitude":28.6259158464,
+      "longitude":77.3371243471,
+      "region_name":"Delhi",
+      "town":"New Delhi"
+    },
+    "employee_count":17,
+    "revenue":18333244,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"refire_ev is an indian company operating in the oil and energy sector, specializing in the development and supply of electric vehicle charging infrastructure and lithium ion battery technology. the company also provides electrical vehicle chargers and ev lithium ion batteries along with their accessories.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Electric Vehicle Charging Infrastructure Supply",
+      "EV Battery Accessory Distribution",
+      "EV Lithium Ion Battery Distribution",
+      "EV Battery Accessory Manufacturing",
+      "EV Lithium Ion Battery Manufacturing",
+      "Electric Vehicle Charging Infrastructure Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":1078426.1176470588,
+    "cluster":0
+  },
+  {
+    "website":"stratusmaterials.com",
+    "operational_name":"Stratus Materials",
+    "year_founded":2022,
+    "address":{
+      "country_code":"us",
+      "latitude":40.4544972,
+      "longitude":-79.9045806073,
+      "region_name":"Pennsylvania",
+      "town":"Pittsburgh"
+    },
+    "employee_count":24,
+    "revenue":26855378,
+    "primary_naics":{
+      "code":"325180",
+      "label":"Other Basic Inorganic Chemical Manufacturing"
+    },
+    "description":"stratus materials inc. is a u.s. company engaged in the development and manufacturing of manganese-rich, cobalt-free cathode active materials for lithium-ion batteries. the company focuses on proprietary formulations and production processes to address stability challenges in lithium manganese-rich cathode chemistries, with applications in light- to medium-duty electric vehicles, energy storage, and related battery technologies. stratus materials also provides materials solutions for battery manufacturers and original equipment manufacturers, supporting the sustainable development of electric vehicle batteries.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Cobalt-Free Cathode Material Engineering",
+      "Battery Material Cost Reduction Solutions",
+      "Sustainable Battery Material Solutions",
+      "Lithium-Ion Battery Performance Enhancement Solutions",
+      "Battery Material Safety Enhancement Solutions",
+      "Lithium-Ion Cathode Material Development",
+      "Advanced Cathode Material Commercialization",
+      "Energy Storage Material Solutions",
+      "Manganese-Rich Cathode Material Formulation",
+      "Battery Material Supply Chain Development",
+      "Electric Vehicle Battery Material Solutions",
+      "Lithium-Ion Cathode Material Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"325180",
+    "industry_name":"Other Basic Inorganic Chemical Manufacturing",
+    "revenue_per_employee":1118974.0833333333,
+    "cluster":0
+  },
+  {
+    "website":"zakurobattery.com",
+    "operational_name":"Zakuro",
+    "year_founded":2019,
+    "address":{
+      "country_code":"us",
+      "latitude":42.2813722,
+      "longitude":-83.7484616,
+      "region_name":"Michigan",
+      "town":"Ann Arbor"
+    },
+    "employee_count":3,
+    "revenue":23290678,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"zakuro, inc., dba zakuro, is an american company engaged in the development and manufacturing of solid-state lithium batteries, with a focus on technologies that utilize lithium metal anodes. the company operates within the semiconductor industry, with activities in hardware and renewable energy semiconductor manufacturing, and serves sectors such as energy storage, automotive, and consumer electronics. zakuro also develops battery technologies that aim to improve energy density and safety compared to traditional lithium-ion batteries.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Consumer Electronics",
+      "Energy",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Lithium Metal Anode Technology Development",
+      "Energy Storage Solutions Development",
+      "Battery Technology Innovation Services",
+      "Solid-State Lithium Battery Development",
+      "Automotive Battery Solutions Development",
+      "Lithium-Ion Battery Manufacturing",
+      "Solid-State Lithium Battery Manufacturing",
+      "Renewable Energy Semiconductor Manufacturing",
+      "Consumer Electronics Battery Solutions Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":7763559.333333333,
+    "cluster":0
+  },
+  {
+    "website":"jsxlytech.com",
+    "operational_name":"Xinliyuan",
+    "year_founded":2023,
+    "address":{
+      "country_code":"cn",
+      "latitude":32.3968554,
+      "longitude":119.4077658,
+      "region_name":"Jiangsu",
+      "town":"Yangzhou"
+    },
+    "employee_count":17,
+    "revenue":18333244,
+    "primary_naics":{
+      "code":"335910",
+      "label":"Battery Manufacturing"
+    },
+    "description":"jiangsu xinliyuan technology co., ltd. (\u6c5f\u82cf\u65b0\u9502\u5143\u79d1\u6280\u6709\u9650\u516c\u53f8), dba xinliyuan (\u65b0\u9502\u5143), is a chinese technology company specialized in the research, development, and production of solid-state lithium batteries, salt lake lithium extraction, and comprehensive recycling of lithium battery materials. the company primarily serves the lithium battery and new energy industries, focusing on solid-state electrolyte materials and lithium battery raw materials. xinliyuan operates multiple research centers in beijing and henan and has completed over 470 project research results, serving clients across multiple provinces and cities nationwide.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Lithium Battery Industry",
+      "New Energy"
+    ],
+    "core_offerings":[
+      "New Energy Industry Solutions",
+      "Lithium Battery Material Consulting Services",
+      "Sustainable Lithium Battery Material Development",
+      "Lithium Battery Material Distribution",
+      "Lithium Battery Material Project Research Services",
+      "Lithium Battery Industry Solutions",
+      "Lithium Battery Material Supply Chain Solutions",
+      "Solid-State Lithium Battery Manufacturing",
+      "Lithium Battery Raw Material Processing",
+      "Salt Lake Lithium Extraction Services",
+      "Lithium Battery Material Recycling Services",
+      "Lithium Battery Material Application Services",
+      "Solid-State Lithium Battery Material Innovation",
+      "Solid-State Lithium Battery Research and Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335910",
+    "industry_name":"Battery Manufacturing",
+    "revenue_per_employee":1078426.1176470588,
+    "cluster":0
+  }
+]

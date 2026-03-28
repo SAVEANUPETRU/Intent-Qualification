@@ -1,0 +1,2493 @@
+[
+  {
+    "website":"true-foundry.com",
+    "operational_name":"TrueFoundry",
+    "year_founded":2015,
+    "address":{
+      "country_code":"us",
+      "latitude":37.783838449,
+      "longitude":-122.3927910204,
+      "region_name":"California",
+      "town":"San Francisco"
+    },
+    "employee_count":15,
+    "revenue":3208366,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"ensemble labs inc, dba truefoundry, is a united states technology company specialized in machine learning platform automation and infrastructure as code solutions. the company provides tools and platforms for streamlining machine learning workflows, enabling data scientists and ml engineers to deploy models efficiently. truefoundry's platform automates parts of the ml pipeline, including model training, deployment, monitoring, and sharing, and integrates with ci\/cd pipelines and various deployment models such as serverless and cron jobs. the company serves organizations seeking to accelerate and scale their machine learning operations.",
+    "business_model":[
+      "Business-to-Business",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Cloud Computing",
+      "Machine Learning"
+    ],
+    "core_offerings":[
+      "ML Platform Integration Services",
+      "ML Model Monitoring and Sharing",
+      "Serverless Deployment Automation",
+      "Gitops-Based Integration Solutions",
+      "Infrastructure as Code Implementation",
+      "Machine Learning Platform Automation",
+      "Scalable ML Platform Development",
+      "ML Platform User Experience Enhancement",
+      "Model Deployment Automation",
+      "ML Deployment Model Support",
+      "Database Service Deployment Automation",
+      "Cron Job Deployment Automation",
+      "Model Training Automation",
+      "CI\/CD Pipeline Integration",
+      "ML Workflow Automation"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":213891.0666666667,
+    "cluster":3
+  },
+  {
+    "website":"lumeros.ai",
+    "operational_name":"Lumeros AI",
+    "year_founded":2022,
+    "address":{
+      "country_code":"sg",
+      "latitude":1.2899175,
+      "longitude":103.8519072,
+      "region_name":"Singapore",
+      "town":"Singapore"
+    },
+    "employee_count":10,
+    "revenue":2119280,
+    "primary_naics":{
+      "code":"541511",
+      "label":"Custom Computer Programming Services"
+    },
+    "description":"lumeros ai is a singaporean company operating in the information technology and services sector, specializing in machine learning testing solutions. the company provides automated and developer-driven testing tools for machine learning products, as well as software development platforms that support ml engineers in managing stakeholders and generating clinical data. lumeros ai serves organizations seeking to deploy machine learning models in new scenarios and requires efficient testing and simulation of model behavior.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Healthcare",
+      "Information Technology"
+    ],
+    "core_offerings":[
+      "Developer-Driven Machine Learning Testing Services",
+      "ML Testing Research Integration",
+      "Bug Detection Services",
+      "ML Model Deployment Enablement",
+      "Stakeholder Management Services for ML Engineers",
+      "ML Testing Platform Development",
+      "Data Drift Mitigation Services",
+      "Machine Learning Testing Solutions",
+      "Clinical Data Generation Services",
+      "Automatic Machine Learning Testing Implementation",
+      "ML Model Behavior Simulation Services",
+      "ML Data Generation Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541511",
+    "industry_name":"Custom Computer Programming Services",
+    "revenue_per_employee":211928.0,
+    "cluster":3
+  },
+  {
+    "website":"simplismart.ai",
+    "operational_name":"Simplismart",
+    "year_founded":2022,
+    "address":{
+      "country_code":"in",
+      "latitude":12.9857927,
+      "longitude":77.5789851,
+      "region_name":"Karnataka",
+      "town":"Bengaluru"
+    },
+    "employee_count":23,
+    "revenue":9305607,
+    "primary_naics":{
+      "code":"541511",
+      "label":"Custom Computer Programming Services"
+    },
+    "description":"verute technologies private limited, dba simplismart, is an indian technology company specialized in machine learning model training and deployment solutions. the company provides services for optimizing and deploying machine learning models, including model fine-tuning, deployment, and monitoring, and offers a platform that supports both shared and private infrastructure, integrating with major cloud providers. simplismart serves a range of industries, including financial services, adtech, commerce, data analysis, and healthcare, and is supported by a proprietary inference engine.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Adtech",
+      "Data Analysis",
+      "E-commerce",
+      "Financial Services",
+      "Healthcare",
+      "Commerce"
+    ],
+    "core_offerings":[
+      "Cloud Infrastructure Integration Services",
+      "Machine Learning Model Monitoring Services",
+      "Machine Learning Model Fine-Tuning Services",
+      "GenAI Workload Optimization Services",
+      "ML Model Performance Optimization Services",
+      "Machine Learning Model Training Services",
+      "Scalable ML Solution Development",
+      "Inference Engine Deployment Services",
+      "Secure Data Processing Services",
+      "ML Workload Streamlining Services",
+      "ML Model Security Enhancement Services",
+      "Industry-Specific ML Solution Development",
+      "Machine Learning Model Deployment Services",
+      "Proprietary ML Framework Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541511",
+    "industry_name":"Custom Computer Programming Services",
+    "revenue_per_employee":404591.6086956522,
+    "cluster":3
+  },
+  {
+    "website":"zenml.io",
+    "operational_name":"ZenML",
+    "year_founded":2021,
+    "address":{
+      "country_code":"de",
+      "latitude":48.15065395,
+      "longitude":11.5751166,
+      "region_name":"Bavaria",
+      "town":"Munich"
+    },
+    "employee_count":17,
+    "revenue":2199631,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"zenml gmbh, dba zenml, is a german software company specializing in the development of mlops and llmops platforms. the company provides an open-source, cloud-agnostic framework for machine learning operations, enabling collaboration among data scientists, ml engineers, and mlops developers. zenml supports integration with various machine learning frameworks and cloud providers, and offers both open-source and managed platform options. the company is soc2 and iso certified.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Retail",
+      "Developer",
+      "Email Marketing"
+    ],
+    "core_offerings":[
+      "Machine Learning Workflow Automation",
+      "ML Model Versioning and Logging",
+      "MLOps Platform Scalability Solutions",
+      "Cloud Provider Integration Solutions",
+      "Production-Ready Model Deployment Solutions",
+      "Open-Source MLOps Framework Development",
+      "Managed MLOps Platform Services",
+      "MLOps Platform Development",
+      "Collaborative ML Workflow Enablement",
+      "MLOps Platform Customization Services",
+      "Shared ML Building Block Distribution",
+      "Machine Learning Framework Integration Services",
+      "MLOps Platform Integration Services",
+      "Reproducible Machine Learning Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":129390.0588235294,
+    "cluster":3
+  },
+  {
+    "website":"chalk.ai",
+    "operational_name":"Chalk",
+    "year_founded":2015,
+    "address":{
+      "country_code":"us",
+      "latitude":37.7937859,
+      "longitude":-122.3925149,
+      "region_name":"California",
+      "town":"San Francisco"
+    },
+    "employee_count":57,
+    "revenue":25364896,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"chalk ai, inc, dba chalk, is an american software company specializing in the development and deployment of machine learning platforms. the company provides a data platform for machine learning, offering tools and services for real-time data pipelines, feature engineering, and ml model management. chalk serves industries such as finance, healthcare, and risk management, with a focus on mission-critical applications. its platform is designed to support high-volume workloads and is integrated with major cloud and data tools.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Finance",
+      "Healthcare",
+      "Risk Management"
+    ],
+    "core_offerings":[
+      "Rust-Based Runtime Environment Development",
+      "Feature Pipeline Iteration Enablement",
+      "Feature Store Development",
+      "ML Model Management Solutions",
+      "Real-Time Data Pipeline Development",
+      "Compute Engine Development",
+      "Python SDK Development",
+      "Low-Latency ML Platform Development",
+      "Feature Engineering Tools Development",
+      "Machine Learning Platform Development",
+      "Cloud Integration Solutions Development",
+      "Jupyter Notebook Integration Services",
+      "Monitoring Tools Development",
+      "Industry-Specific ML Solutions Development",
+      "Scalable ML Infrastructure Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":444998.1754385965,
+    "cluster":3
+  },
+  {
+    "website":"deepmorph.xyz",
+    "operational_name":"DeepMorph",
+    "year_founded":2019,
+    "address":{
+      "country_code":"in",
+      "latitude":28.4646148,
+      "longitude":77.0299194,
+      "region_name":"Haryana",
+      "town":"Gurugram"
+    },
+    "employee_count":15,
+    "revenue":2134613,
+    "primary_naics":{
+      "code":"541512",
+      "label":"Computer Systems Design Services"
+    },
+    "description":"deepmorph is an indian company specialized in end-to-end machine learning (ml) solutions and services, including custom ai\/ml solutions, ml pipelines, deployment, mlops, and consulting. the company provides services such as model development, data preprocessing, model training, integration with existing systems, automated data pipelines, feature engineering, model versioning, continuous training, model deployment, monitoring, and scaling. deepmorph serves startups, individuals, and businesses, offering flexible deployment options including cloud infrastructure, multi-cloud support, on-premises deployment, hybrid solutions, and cost optimization.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "core_offerings":[
+      "Cloud Infrastructure Deployment",
+      "Automated Data Pipeline Development",
+      "Model Deployment and Monitoring",
+      "Model Training and Optimization",
+      "Machine Learning Solutions Development",
+      "Hybrid Infrastructure Deployment",
+      "Data Preprocessing Services",
+      "MLOps Services",
+      "ML Consulting Services",
+      "Feature Engineering Services",
+      "Model Versioning and Continuous Training",
+      "System Integration Services",
+      "ML Pipeline Design and Implementation",
+      "Multi-Cloud Deployment Services",
+      "Custom AI Model Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541512",
+    "industry_name":"Computer Systems Design Services",
+    "revenue_per_employee":142307.5333333333,
+    "cluster":3
+  },
+  {
+    "website":"datatorch.io",
+    "operational_name":"DataTorch",
+    "year_founded":2020,
+    "address":{
+      "country_code":"us",
+      "latitude":33.7489924,
+      "longitude":-84.3902644,
+      "region_name":"Georgia",
+      "town":"Atlanta"
+    },
+    "employee_count":2,
+    "revenue":822416,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"datatorch is a private company specialized in developing machine learning data tools and platforms for data annotation, project management, and automation. the company provides a modular, customizable platform that supports supervised learning, artificial intelligence, and machine learning workflows, and enables integration with various storage providers. datatorch serves research and development teams, research institutions, and organizations engaged in machine learning production, offering both enterprise and enterprise editions. its platform is designed to support end-to-end machine learning operations, including mlops automation and security compliance through cloud or on-premise hosting.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "core_offerings":[
+      "Computer Vision Model Development Platform",
+      "Dataset and Annotation Management Solutions",
+      "Machine Learning Expert Collaboration Services",
+      "Cloud-Based ML Platform Deployment",
+      "AI Software Development Services",
+      "MLOps Automation Solutions",
+      "Project Management Tools Development",
+      "Machine Learning Data Tools Development",
+      "Data Storage Integration Services",
+      "Machine Learning Annotation Services",
+      "Modular ML Platform Architecture Development",
+      "On-Premise ML Platform Deployment",
+      "Customizable Metadata Solutions",
+      "Workflow Customization and Integration Services",
+      "AI-Powered Annotation Tools Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":411208.0,
+    "cluster":3
+  },
+  {
+    "website":"katanaml.io",
+    "operational_name":"Katana ML",
+    "year_founded":2015,
+    "address":{
+      "country_code":"lt",
+      "latitude":54.797353,
+      "longitude":25.2928880722,
+      "region_name":"Vilnius County",
+      "town":"Vilnius"
+    },
+    "employee_count":1,
+    "revenue":123663,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"katana ml is a lithuanian company specialized in open-source machine learning operations (mlops) infrastructure, offering a cloud-based and on-premise platform for machine learning apis and services. the company provides a platform for data processing and prediction service scaling, supporting developers and businesses globally. its platform is built on docker containers and kubernetes.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Software-as-a-Service",
+      "Licensing"
+    ],
+    "target_markets":[
+      "Machine Learning"
+    ],
+    "core_offerings":[
+      "ML Services Architecture Design",
+      "Machine Learning API Delivery",
+      "Docker Containerization Services for ML",
+      "Machine Learning Operations Platform Development",
+      "Machine Learning Project Consulting Services",
+      "ML Service Scaling Solutions",
+      "Pluggable ML Service Integration",
+      "Data Processing Services",
+      "Prediction Service Scaling Solutions",
+      "Production Environment ML Service Deployment",
+      "Kubernetes Deployment Services for ML"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":123663.0,
+    "cluster":3
+  },
+  {
+    "website":"trainml.ai",
+    "operational_name":"trainML",
+    "year_founded":2021,
+    "address":{
+      "country_code":"us",
+      "latitude":41.9000842401,
+      "longitude":-87.8010056128,
+      "region_name":"Illinois",
+      "town":"Oak Park"
+    },
+    "employee_count":4,
+    "revenue":22571289,
+    "primary_naics":{
+      "code":"518210",
+      "label":"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services"
+    },
+    "description":"trainml, llc, dba trainml, is an american limited liability company specialized in providing a serverless gpu-based deep learning infrastructure for machine learning model training and hyperparameter tuning. the company offers a platform that enables users to launch notebooks, run training jobs, and deploy rest api endpoints for inference, supporting a variety of gpu types. trainml serves machine learning developers globally and provides features such as persistent datasets, models, and project management.",
+    "business_model":[
+      "Subscription-Based",
+      "Business-to-Business",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Machine Learning"
+    ],
+    "core_offerings":[
+      "Inference API Deployment Services",
+      "Serverless GPU Infrastructure Deployment",
+      "Hyperparameter Tuning Services",
+      "Project Management and Access Control Services",
+      "Notebook-Based ML Development Services",
+      "Machine Learning Model Training Services",
+      "Subscription-Based ML Resource Allocation",
+      "Persistent Dataset and Model Management",
+      "Resource Sharing Services",
+      "Global ML Infrastructure Access Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"518210",
+    "industry_name":"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+    "revenue_per_employee":5642822.25,
+    "cluster":3
+  },
+  {
+    "website":"hexo.ai",
+    "operational_name":"Hexo AI",
+    "year_founded":2022,
+    "address":{
+      "country_code":"us",
+      "latitude":37.3876911215,
+      "longitude":-121.969058355,
+      "region_name":"California",
+      "town":"Santa Clara"
+    },
+    "employee_count":9,
+    "revenue":5500000,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"hexo ai is a software development company that provides a machine learning development platform for automating the machine learning lifecycle, including data preparation, model deployment, and monitoring. the company offers integration with data infrastructure such as databases, data lakes, warehouses, and streaming sources, and supports deployment in cloud, private cloud, and on-premises environments. hexo ai is soc 2 type ii certified, gdpr compliant, and hipaa compatible, and includes features for model governance, such as documentation, lineage tracking, and bias detection. the platform is designed for organizations of various sizes, including startups and enterprises, and is accessible to users with varying technical backgrounds.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Enterprise Software",
+      "Financial Services",
+      "Data Management",
+      "Healthcare"
+    ],
+    "core_offerings":[
+      "Model Documentation and Lineage Tracking",
+      "Model Governance and Compliance Services",
+      "Digital Transformation Consulting Services",
+      "Private Cloud ML Deployment Services",
+      "Generative AI Integration Solutions",
+      "Machine Learning Platform Development",
+      "Data Infrastructure Integration Solutions",
+      "Machine Learning Lifecycle Automation",
+      "Autonomous AI Agent Automation",
+      "Model Bias Detection Services",
+      "Model Evaluation Customization Services",
+      "On-Premises ML Deployment Services",
+      "Cloud-Based ML Deployment Services",
+      "AI Workflow Optimization Consulting"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":611111.1111111111,
+    "cluster":3
+  },
+  {
+    "website":"thewizard.ai",
+    "operational_name":"Wizard.AI",
+    "year_founded":2021,
+    "address":{
+      "country_code":"us",
+      "latitude":34.0536909,
+      "longitude":-118.242766,
+      "region_name":"California",
+      "town":"Los Angeles"
+    },
+    "employee_count":3,
+    "revenue":789676,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"wizard.ai is a united states software company engaged in providing machine learning reliability and governance tools for organizations. the company develops a platform that includes an ml firewall for risk management in development and production environments, as well as a testing toolkit for the rapid development of fair, auditable, transparent, and explainable models. wizard.ai serves data teams, including data scientists and ml engineers, and offers an api for model development and risk mitigation.",
+    "business_model":[
+      "Business-to-Business",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Data Science",
+      "Artificial Intelligence"
+    ],
+    "core_offerings":[
+      "ML Model Governance Tools Development",
+      "AI Model Robustness Solutions",
+      "Data Drift Detection Services",
+      "Machine Learning Governance Consulting",
+      "Data Team Enablement Services",
+      "Automated ML Testing Services",
+      "Fairness and Explainability Consulting",
+      "AI Risk Mitigation Consulting",
+      "ML Firewall Deployment Services",
+      "AI Model Development API Services",
+      "AI Deployment Optimization Services",
+      "Machine Learning Reliability Solutions",
+      "Auditability and Transparency Solutions",
+      "Synthetic Data Generation Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":263225.3333333333,
+    "cluster":3
+  },
+  {
+    "website":"aquariumlearning.com",
+    "operational_name":"Aquarium",
+    "year_founded":2020,
+    "address":{
+      "country_code":"us",
+      "latitude":37.7722312,
+      "longitude":-122.4386894285,
+      "region_name":"California",
+      "town":"San Francisco"
+    },
+    "employee_count":13,
+    "revenue":3208366,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"aquarium is a united states software company specializing in machine learning data operations and management. the company provides a saas platform for data quality analysis, model evaluation, data collection, and sampling, supporting businesses in managing complex datasets. aquarium serves clients in sectors such as healthcare, insurance, agriculture, and self-driving cars, and is soc2 type 2 certified for data security.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Insurance",
+      "Healthcare",
+      "Agriculture",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "ML User Training Services",
+      "Machine Learning Data Operations",
+      "Insurance Data Management Solutions",
+      "Machine Learning Data Management Platform",
+      "ML Tooling Development",
+      "Self-Driving Car Data Management Solutions",
+      "Healthcare Data Management Solutions",
+      "Data Collection and Sampling Services",
+      "Agriculture Data Management Solutions",
+      "Data Quality Analysis Services",
+      "Embeddings-Based Data Enhancement",
+      "Industry-Specific ML Solutions Development",
+      "Machine Learning Model Deployment Enablement",
+      "Model Evaluation Services",
+      "ML Engineering Consulting Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":246797.3846153846,
+    "cluster":3
+  },
+  {
+    "website":"armai.org",
+    "operational_name":"ARMAI",
+    "year_founded":2019,
+    "address":{
+      "country_code":"de",
+      "latitude":53.550341,
+      "longitude":10.000654,
+      "region_name":"Hamburg",
+      "town":"Hamburg"
+    },
+    "employee_count":71,
+    "revenue":10000000,
+    "primary_naics":{
+      "code":"541512",
+      "label":"Computer Systems Design Services"
+    },
+    "description":"armai is a german company engaged in machine learning (ml) systems design and architecture, with a focus on delivering end-to-end ml projects. the company provides services such as defining business requirements, data preparation, running experiments, validating solutions, deploying solutions, monitoring solutions, retraining models, and ml support, supported by governance guidelines, team collaboration, and robust ml workflows. armai serves industries requiring advanced ml solutions.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Data Science",
+      "Technology"
+    ],
+    "core_offerings":[
+      "End-to-End ML Project Delivery",
+      "Risk Assessment and Mitigation Services",
+      "ML Support Services",
+      "ML Experimentation and Solution Validation",
+      "Solution Deployment Services",
+      "Data Preparation Services",
+      "Solution Monitoring and Continuous Improvement",
+      "Computing Resource Optimization Services",
+      "Business Requirement Definition Services",
+      "ML Model Retraining Services",
+      "Machine Learning Systems Design and Architecture",
+      "ML Governance and Workflow Management"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541512",
+    "industry_name":"Computer Systems Design Services",
+    "revenue_per_employee":140845.0704225352,
+    "cluster":3
+  },
+  {
+    "website":"deepstributed.com",
+    "operational_name":"Deepstributed",
+    "year_founded":2019,
+    "address":{
+      "country_code":"ch",
+      "latitude":46.53232835,
+      "longitude":6.5912627508,
+      "region_name":"Vaud",
+      "town":"Renens"
+    },
+    "employee_count":1,
+    "revenue":50298,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"deepstributed ltd. is a swiss company engaged in providing machine learning experimentation platforms. the company offers a platform that enables users to run machine learning experiments without configuration, utilizing private, community, or cloud gpu resources. deepstributed serves machine learning engineers, startups, and businesses seeking to enhance their machine learning capabilities, with a focus on distributed computing and gpu resource management.",
+    "business_model":[
+      "Business-to-Business",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Machine Learning"
+    ],
+    "core_offerings":[
+      "ML Experiment Parameterization and Queuing",
+      "ML Platform Scalability Solutions",
+      "Cloud GPU Resource Access Services",
+      "Model Linking and Sharing Services",
+      "Community-Driven Platform Development",
+      "Distributed ML Experiment Execution",
+      "User Interface Design and Accessibility",
+      "GPU Resource Allocation and Sharing",
+      "Machine Learning Experimentation Platform Development",
+      "Community GPU Resource Access Services",
+      "ML Experiment Management and Tracking Services",
+      "Code and Data Linking Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":50298.0,
+    "cluster":3
+  },
+  {
+    "website":"zokorp.com",
+    "operational_name":"ZoKorp",
+    "year_founded":2019,
+    "address":{
+      "country_code":"us",
+      "latitude":29.5742416382,
+      "longitude":-95.6419525146,
+      "region_name":"Texas",
+      "town":"Sugar Land"
+    },
+    "employee_count":15,
+    "revenue":2134613,
+    "primary_naics":{
+      "code":"541512",
+      "label":"Computer Systems Design Services"
+    },
+    "description":"zokorp is a united states company specialized in ai\/ml and data analytics, with a focus on consulting and integration services for businesses and individuals. the company provides aws consultation, apn consultation, and offers aws ml products, including containerized etl solutions and data analytics workflow tools. zokorp also operates as a provider of cloud computing and machine learning solutions, supporting businesses in designing, deploying, and optimizing ai\/ml and data analytics initiatives.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Cloud Computing",
+      "Artificial Intelligence",
+      "Data Analytics"
+    ],
+    "core_offerings":[
+      "Data Analytics Workflow Tool Development",
+      "AI\/ML Solution Design",
+      "AI\/ML Solution Deployment",
+      "Containerized ETL Solution Development",
+      "AI\/ML Solution Integration",
+      "AWS Consultation Services",
+      "APN Consultation Services",
+      "AI\/ML Solution Optimization",
+      "AWS ML Product Development",
+      "AI\/ML Solution Scalability"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541512",
+    "industry_name":"Computer Systems Design Services",
+    "revenue_per_employee":142307.5333333333,
+    "cluster":3
+  },
+  {
+    "website":"ripleydecisionadvantage.net",
+    "operational_name":"Ripley Decision Advantage",
+    "year_founded":2022,
+    "address":{
+      "country_code":"us",
+      "latitude":37.4429964,
+      "longitude":-122.1545229,
+      "region_name":"California",
+      "town":"Palo Alto"
+    },
+    "employee_count":2,
+    "revenue":319327,
+    "primary_naics":{
+      "code":"541511",
+      "label":"Custom Computer Programming Services"
+    },
+    "description":"ripley decision advantage is a consulting firm engaged in ai\/ml tools and workflow optimization for businesses and public sector organizations. the company provides services such as bespoke ai\/ml model development, model explainability, performance, scalability, model development and training, and ml ops. ripley decision advantage also offers assessments of existing vendors and is involved in the development of pre-sales for ai and ml tools, data products, voice-enabled agentic ai, and digital twin solutions. the firm serves clients globally and is headquartered in silicon valley, california.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Financial Services",
+      "Public Sector",
+      "Media and Entertainment"
+    ],
+    "core_offerings":[
+      "AI and ML Workflow Optimization Consulting",
+      "Data Strategy Consulting Services",
+      "Model Scalability Assessment Services",
+      "Data Product Development Services",
+      "Digital Twin Solutions Development",
+      "Model Explainability and Performance Assessment",
+      "Pre-Sales AI and ML Advisory Services",
+      "Mobile App Design and Development",
+      "ML Operations Management Services",
+      "Vendor Assessment Services for AI and ML Solutions",
+      "AI and ML Consulting Services",
+      "Voice-Enabled AI Application Development",
+      "Bespoke AI and ML Model Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541511",
+    "industry_name":"Custom Computer Programming Services",
+    "revenue_per_employee":159663.5,
+    "cluster":3
+  },
+  {
+    "website":"cool-run.click",
+    "operational_name":"AIAdvantage",
+    "year_founded":2022,
+    "address":{
+      "country_code":"au",
+      "latitude":-23.7009051,
+      "longitude":133.8822255,
+      "region_name":"Northern Territory",
+      "town":"Alice Springs"
+    },
+    "employee_count":2,
+    "revenue":319327,
+    "primary_naics":{
+      "code":"541511",
+      "label":"Custom Computer Programming Services"
+    },
+    "description":"aiadvantage is an australian company specialized in artificial intelligence (ai) and machine learning (ml) solutions. the company provides customized ai and ml services and operates an online platform designed to facilitate the application of ai and ml technologies for businesses and organizations.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Technology"
+    ],
+    "core_offerings":[
+      "Machine Learning Model Development",
+      "AI and Machine Learning Solutions Development",
+      "AI and ML Resource Development",
+      "AI and ML Tool Development",
+      "AI and ML Consulting Services",
+      "Plinko Game Platform Services",
+      "Customized AI Solution Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541511",
+    "industry_name":"Custom Computer Programming Services",
+    "revenue_per_employee":159663.5,
+    "cluster":3
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"TensorFlow JVM Special Interest Group",
+    "year_founded":2015,
+    "address":{
+      "country_code":"us",
+      "latitude":37.3893889,
+      "longitude":-122.0832101,
+      "region_name":"California",
+      "town":"Mountain View"
+    },
+    "employee_count":28,
+    "revenue":5948036,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"tensorflow jvm special interest group is a computer software entity operating within the information technology and services sector, focused on enabling machine learning capabilities by supporting tensorflow on any java virtual machine (jvm) for building, training, and running models. the group provides utilities and frameworks to assist data scientists and developers in common machine learning tasks, supporting compatibility with java and other jvm languages such as scala and kotlin for use in enterprises worldwide.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Machine Learning",
+      "Information Technology"
+    ],
+    "core_offerings":[
+      "TensorFlow JVM Integration Services",
+      "Machine Learning Utility Framework Development",
+      "Data Science Platform Solutions",
+      "Machine Learning Platform Development",
+      "JVM-Based ML Application Enablement",
+      "Machine Learning Model Deployment Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":212429.8571428571,
+    "cluster":3
+  },
+  {
+    "website":"iml4e.org",
+    "operational_name":"IML4E",
+    "year_founded":2019,
+    "address":{
+      "country_code":"de",
+      "latitude":48.1322664,
+      "longitude":11.5296222,
+      "region_name":"Bavaria",
+      "town":"Munich"
+    },
+    "employee_count":2239,
+    "revenue":10653913,
+    "primary_naics":{
+      "code":"541715",
+      "label":"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)"
+    },
+    "description":"fraunhofer gesellschaft zur f\u00f6rderung der angewandten forschung e.v., dba iml4e, is a german research and development organization specialized in the development, operation, and maintenance of ai-based software, with a focus on the european software industry. the organization develops a european framework for ai-based software development, including a continuous auditing based certification (cabc) for mlops and a mlops framework that integrates technology, methodology, and platform layers. iml4e also provides teaching materials and playbooks to support the adoption of mlops in enterprises, and its work is relevant to european and international standardization bodies. the organization is supported by a network of partners and collaborators and is involved in research and development activities related to data protection and privacy.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Data Science",
+      "Software Development",
+      "Machine Learning"
+    ],
+    "core_offerings":[
+      "Adversarial Test Toolbox Development",
+      "Error Detection Tool Development",
+      "MLOps Testing Methodology Development",
+      "Continuous AI System Monitoring and Assessment Services",
+      "Data Quality Evaluation Tool Development",
+      "AI Ethics Metrics Development",
+      "ML Metrics Typology Development",
+      "Machine Learning Model Certification Services",
+      "Virtual Validation System Development",
+      "MLOps Platform Development",
+      "ML Lineage Tracking Tool Development",
+      "Data Cleaning Dashboard Development",
+      "AI-Based Software Development Framework Development",
+      "AI and Machine Learning Quality Assurance Solutions",
+      "ML-Py-Stevedore Development",
+      "Machine Learning Operations Framework Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541715",
+    "industry_name":"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",
+    "revenue_per_employee":4758.3354175971,
+    "cluster":3
+  },
+  {
+    "website":"dawn.cs.stanford.edu",
+    "operational_name":"Stanford DAWN",
+    "year_founded":2020,
+    "address":{
+      "country_code":"us",
+      "latitude":37.4262154393,
+      "longitude":-122.1643007614,
+      "region_name":"California",
+      "town":"Stanford"
+    },
+    "employee_count":6234,
+    "revenue":29659667,
+    "primary_naics":{
+      "code":"541715",
+      "label":"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)"
+    },
+    "description":"stanford dawn is a research project focused on democratizing machine learning by developing tools and technologies that enable non-expert users to build production-quality data products. the project addresses challenges in data management, feature selection, model training, productionization, and monitoring in the ml production pipeline, and collaborates with faculty, students, and industry partners to advance ml solutions. it operates globally, with a primary focus on making ml accessible to a broader audience.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Data Management",
+      "Machine Learning"
+    ],
+    "core_offerings":[
+      "Data Management Solutions Development",
+      "Machine Learning Technology Commercialization",
+      "Research Collaboration Services",
+      "ML Monitoring Solutions Development",
+      "Machine Learning Education Services",
+      "Machine Learning Tool Development",
+      "ML Productionization Solutions Development",
+      "Feature Selection Solutions Development",
+      "Data Product Production Enablement",
+      "Model Training Solutions Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541715",
+    "industry_name":"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",
+    "revenue_per_employee":4757.7264998396,
+    "cluster":3
+  },
+  {
+    "website":"cknowledge.org",
+    "operational_name":"Collective Knowledge",
+    "year_founded":2019,
+    "address":{
+      "country_code":"fr",
+      "latitude":48.8534951,
+      "longitude":2.3483915,
+      "region_name":"Ile-de-France",
+      "town":"Paris"
+    },
+    "employee_count":1,
+    "revenue":132163,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"collective knowledge is a french company operating in the information technology and services sector, with a focus on artificial intelligence, machine learning, and automation. the company develops open-source platforms and workflow automation frameworks for co-designing software and hardware to support ai and ml workloads, and provides it services and consulting related to these domains. collective knowledge also organizes public hackathons and collaborates with industry partners to advance research and development in ai and ml.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Information Technology"
+    ],
+    "core_offerings":[
+      "Open Challenge Participation Services",
+      "MLOps Automation Recipe Development",
+      "Deep Learning Optimization Services",
+      "Workflow Automation Framework Development",
+      "AI and ML Playground Services",
+      "AI and ML Productivity Solutions",
+      "AI and ML Research Collaboration",
+      "AI and ML Investment Consulting",
+      "Reproducibility Solutions Development",
+      "AI and ML Platform Development",
+      "AI System Co-Design Enablement",
+      "MLPerf Automation Recipe Development",
+      "AI and ML Consulting Services",
+      "AI and ML Education Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":132163.0,
+    "cluster":3
+  },
+  {
+    "website":"pycaret.org",
+    "operational_name":"PyCaret",
+    "year_founded":2020,
+    "address":{
+      "country_code":"ca",
+      "latitude":43.6534817,
+      "longitude":-79.3839347,
+      "region_name":"Ontario",
+      "town":"Toronto"
+    },
+    "employee_count":3,
+    "revenue":791126,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"pycaret is a canadian open-source software library that provides a low-code, modular framework for machine learning workflows. the library automates data preprocessing, model training, and model explainability, and supports the deployment of machine learning models as rest apis or front-end applications. pycaret serves as a python wrapper for various machine learning libraries and frameworks, enabling data scientists and citizen data scientists to perform end-to-end machine learning experiments with minimal code. the library is designed to be scalable, fast, and explainable, and is supported by a community of users and developers.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Non-Profit\/Non-Governmental Organization",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "core_offerings":[
+      "Model Training and Evaluation",
+      "Machine Learning Workflow Automation",
+      "Data Preprocessing Automation",
+      "Model Explainability Analysis",
+      "Machine Learning Model Deployment",
+      "REST API Deployment Services",
+      "Modular Machine Learning Solution Development",
+      "Reproducibility and Transferability Enablement",
+      "Citizen Data Scientist Enablement Services",
+      "Machine Learning Pipeline Development",
+      "MLOps Integration Services",
+      "Front-End ML Application Deployment",
+      "Community Documentation and Resource Services",
+      "Open-Source Machine Learning Library Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":263708.6666666667,
+    "cluster":3
+  },
+  {
+    "website":"prateekdubey.com",
+    "operational_name":"Prateek Dubey",
+    "year_founded":2019,
+    "address":{
+      "country_code":"sg",
+      "latitude":1.31181685,
+      "longitude":103.9354420197,
+      "region_name":"Southeast",
+      "town":"Bedok"
+    },
+    "employee_count":1,
+    "revenue":227559,
+    "primary_naics":{
+      "code":"541512",
+      "label":"Computer Systems Design Services"
+    },
+    "description":"prateek dubey is a singaporean data professional specializing in data engineering, cloud computing, and machine learning. he serves as the head of data engineering at chubb life, singapore, overseeing teams that develop ai and data products for clients. his work includes architecting, developing, and supporting data, ai, and ml platforms, as well as data engineering pipelines, feature engineering, model serving, and data architecture solutions. prateek dubey also operates as a blogger and video creator, providing insights on big data, cloud computing, devops, ci\/cd, ml platforms, ml engineering, data governance, and data engineering.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Cloud Computing",
+      "Data Engineering",
+      "Financial Services",
+      "Artificial Intelligence"
+    ],
+    "core_offerings":[
+      "Data Operations Services",
+      "ML Platform Architecture and Development",
+      "Data Governance Consulting",
+      "DevOps Integration Services",
+      "Feature Engineering Services",
+      "Cloud Infrastructure Solutions",
+      "ML Operations Services",
+      "Big Data Solutions Development",
+      "AI Platform Architecture and Development",
+      "AI Operations Services",
+      "Data Platform Architecture and Development",
+      "Machine Learning Model Deployment Services",
+      "Data Engineering Pipeline Development",
+      "Model Serving Solutions",
+      "Data Architecture Consulting"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541512",
+    "industry_name":"Computer Systems Design Services",
+    "revenue_per_employee":227559.0,
+    "cluster":3
+  },
+  {
+    "website":"vectice.com",
+    "operational_name":"Vectice",
+    "year_founded":2019,
+    "address":{
+      "country_code":"us",
+      "latitude":37.7858253,
+      "longitude":-122.4051729216,
+      "region_name":"California",
+      "town":"San Francisco"
+    },
+    "employee_count":19,
+    "revenue":4629007,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"vectice, inc. is an american private company that develops a data science documentation platform for artificial intelligence and machine learning. the company provides a platform for continuous documentation, model dependency mapping, and project governance, supporting data science, modeling and marketing research, it, and security teams. vectice integrates with various ai and ml tools and offers features such as automated lineage tracking, integration of validation libraries, and customizable workflows. the platform is designed to facilitate regulatory mlops and compliance for organizations in the ai and machine learning sectors.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Software-as-a-Service",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Data Science",
+      "Artificial Intelligence"
+    ],
+    "core_offerings":[
+      "AI and ML Tool Integration Services",
+      "AI Model Lifecycle Management Solutions",
+      "Data Science Team Productivity Enhancement Solutions",
+      "Model Dependency Mapping Tools Development",
+      "Validation Library Integration Services",
+      "Customizable AI Workflow Automation",
+      "AI and ML Model Documentation Automation",
+      "AI Model Governance and Compliance Services",
+      "Regulatory MLOps Platform Development",
+      "AI Model Lineage Tracking Solutions",
+      "Collaborative Model Review Tools Development",
+      "AI Model Governance Consulting",
+      "AI Model Risk Management Solutions",
+      "AI Model Transparency and Compliance Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":243631.947368421,
+    "cluster":3
+  },
+  {
+    "website":"icontributetoml.herokuapp.com",
+    "operational_name":"Unknown",
+    "year_founded":2019,
+    "address":{
+      "country_code":"ca",
+      "latitude":45.5031824,
+      "longitude":-73.5698065,
+      "region_name":"Quebec",
+      "town":"Quebec"
+    },
+    "employee_count":34,
+    "revenue":162104,
+    "primary_naics":{
+      "code":"541715",
+      "label":"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)"
+    },
+    "description":"the entity associated with the domain icontributetoml.herokuapp.com is a canadian research and development organization engaged in the development and dissemination of machine learning algorithms and their properties. the organization operates as a service provider in the technology industry, focusing on machine learning solutions and algorithmic properties, and provides a platform for capturing and synthesizing the properties of ml algorithms. its target markets include domains such as biology, cybersecurity, intelligence, marketing, and medical diagnosis, with a focus on domain specialists who are not ml experts. the organization also offers resources for data pre-processing pipelines and facilitates the proposal and refinement of ml algorithms.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Cybersecurity",
+      "Marketing",
+      "Biotechnology",
+      "Healthcare",
+      "Technology"
+    ],
+    "core_offerings":[
+      "ML Algorithm Taxonomy and Selection Criteria Development",
+      "Data Science Knowledge Dissemination Services",
+      "Machine Learning Algorithm Dissemination Services",
+      "ML Knowledge Base Development",
+      "Data Pre-Processing Pipeline Refinement Services",
+      "ML Community Contribution Facilitation",
+      "ML Algorithmic Properties Synthesis Services",
+      "ML Problem-Solving Workbench Development",
+      "Machine Learning Algorithm Research and Development",
+      "Data Pre-Processing Pipeline Development",
+      "ML Solution Exploration Platform Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541715",
+    "industry_name":"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",
+    "revenue_per_employee":4767.7647058824,
+    "cluster":3
+  },
+  {
+    "website":"clozon.com",
+    "operational_name":"Clozon",
+    "year_founded":2014,
+    "address":{
+      "country_code":"in",
+      "latitude":12.9096941,
+      "longitude":77.5866067,
+      "region_name":"Karnataka",
+      "town":"Bengaluru"
+    },
+    "employee_count":8,
+    "revenue":66102,
+    "primary_naics":{
+      "code":"541512",
+      "label":"Computer Systems Design Services"
+    },
+    "description":"clozon technologies private limited, dba clozon, is an indian private company that provides artificial intelligence and machine learning consulting, devops services, and cloud computing solutions. the company offers services such as ai\/ml strategy consulting, model training and deployment, monitoring and management, and implementation of ai\/ml solutions. it also delivers managed cloud services, including cloud hosting, application migration, and managed support for cloud environments, supporting clients with cloud consulting, setup, and migration across aws, azure, and google cloud platforms.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Cloud Computing",
+      "Technology"
+    ],
+    "core_offerings":[
+      "Model Deployment and Hosting Services",
+      "DevOps Services",
+      "AWS and Azure Cloud Services",
+      "AI and ML Strategy Consulting",
+      "Cloud Computing Services",
+      "Workflow Automation Solutions",
+      "Cloud Application Migration Services",
+      "Model Training and Evaluation Services",
+      "AI and ML Implementation Services",
+      "Application Performance Management Services",
+      "AIOps and MLOps Solutions",
+      "Model Monitoring and Maintenance Services",
+      "Cloud Environment Setup Services",
+      "Secure ML Environment Setup Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541512",
+    "industry_name":"Computer Systems Design Services",
+    "revenue_per_employee":8262.75,
+    "cluster":3
+  },
+  {
+    "website":"nimblebox.ai",
+    "operational_name":"NimbleBox",
+    "year_founded":2018,
+    "address":{
+      "country_code":"us",
+      "latitude":37.783401,
+      "longitude":-122.3930626667,
+      "region_name":"California",
+      "town":"San Francisco"
+    },
+    "employee_count":26,
+    "revenue":6367300,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"nimblebox, inc., dba nimblebox, is an american technology company specialized in providing a platform for machine learning model development and deployment. the company operates as a software-as-a-service provider, offering a plug-and-play mlops platform that supports open-source large language models and enables the creation of generative ai applications. nimblebox serves data scientists, ml engineers, and organizations in the technology and artificial intelligence sectors, with operations based in san francisco, california, and an additional office in chennai, india.",
+    "business_model":[
+      "Business-to-Business",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Artificial Intelligence"
+    ],
+    "core_offerings":[
+      "Machine Learning Workflow Automation",
+      "Generative AI Application Enablement",
+      "Generative AI Application Development",
+      "AI Technology Research and Development",
+      "Machine Learning Platform Development",
+      "Open-Source LLM Integration",
+      "Machine Learning Model Deployment Services",
+      "Plug-and-Play ML Infrastructure Solutions",
+      "MLOps Platform Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":244896.1538461538,
+    "cluster":3
+  },
+  {
+    "website":"chenmoney.com",
+    "operational_name":"Chen Qian",
+    "year_founded":2022,
+    "address":{
+      "country_code":"us",
+      "latitude":37.7884969,
+      "longitude":-122.3558473,
+      "region_name":"California",
+      "town":"San Francisco"
+    },
+    "employee_count":1,
+    "revenue":268562,
+    "primary_naics":{
+      "code":"541511",
+      "label":"Custom Computer Programming Services"
+    },
+    "description":"chen qian is a machine learning engineer and computer scientist specializing in deep learning, large language models, and machine learning operations. he is a co-founder of kerasnlp, a natural language processing library, and is involved in the development of mlflow and dspy, contributing to open-source machine learning platforms and frameworks. chen qian is also active in the areas of ml data processing, model authoring, training, optimization, and deployment, and is involved in backend and infrastructure engineering, building scalable web services. he is available to give tech talks and workshops on deep learning, focusing on training, finetuning, and mlops with mlflow.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "core_offerings":[
+      "Backend and Infrastructure Engineering",
+      "Deep Learning Model Development",
+      "ML Data Processing Services",
+      "Machine Learning Operations Solutions",
+      "Scalable Web Service Development",
+      "Machine Learning Engineering Services",
+      "Model Deployment Services",
+      "ML Experiment Tracking Solutions",
+      "Deep Learning Workshop Services",
+      "Open-Source Community Building Services",
+      "Natural Language Processing Library Development",
+      "Model Training and Optimization Services",
+      "Large Language Model Development",
+      "Multi-Backend Deep Learning Framework Development",
+      "Deep Learning Tech Talk Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541511",
+    "industry_name":"Custom Computer Programming Services",
+    "revenue_per_employee":268562.0,
+    "cluster":3
+  },
+  {
+    "website":"datavisum.com.br",
+    "operational_name":"Datavisum",
+    "year_founded":2019,
+    "address":{
+      "country_code":"br",
+      "latitude":-23.6260988,
+      "longitude":-46.5788129,
+      "region_name":"S\u00e3o Paulo",
+      "town":"S\u00e3o Caetano do Sul"
+    },
+    "employee_count":14,
+    "revenue":2000000,
+    "primary_naics":{
+      "code":"541512",
+      "label":"Computer Systems Design Services"
+    },
+    "description":"datavisum is a brazilian company specialized in providing artificial intelligence (ai) and machine learning (ml) solutions for small and medium-sized enterprises (smes) in brazil. the company offers consulting, training, and a cloud-based platform that supports real-time predictions and data extraction, enabling businesses to adopt ai and ml tools securely and efficiently. datavisum serves clients across various industries in brazil.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Small and Medium-sized Enterprises (SMEs)"
+    ],
+    "core_offerings":[
+      "Machine Learning Model Development",
+      "AI and ML Solutions Development",
+      "Cloud-Based Predictive Analytics Platform Deployment",
+      "Virtual Agent Integration Services",
+      "AI and ML Solution Scalability Consulting",
+      "Operational Optimization Solutions Development",
+      "Data Extraction and Real-Time Prediction Solutions",
+      "AI and ML Training Services",
+      "Data Science Services",
+      "Business Process Modernization Consulting",
+      "AI and ML Consulting Services",
+      "Strategic Decision Support System Implementation",
+      "AI and ML Platform Monitoring and Maintenance",
+      "Customized AI Solution Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541512",
+    "industry_name":"Computer Systems Design Services",
+    "revenue_per_employee":142857.1428571429,
+    "cluster":3
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"feder8.ai",
+    "year_founded":2019,
+    "address":{
+      "country_code":"ca",
+      "latitude":43.6534817,
+      "longitude":-79.3839347,
+      "region_name":"Ontario",
+      "town":"Toronto"
+    },
+    "employee_count":2421,
+    "revenue":11518929,
+    "primary_naics":{
+      "code":"541715",
+      "label":"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)"
+    },
+    "description":"feder8.ai is a canadian research and development company operating in the information technology and services sector, with a focus on few-shot learning, federated learning, and mlops. the company develops privacy-native machine learning models using minimal labeled data and is involved in cloud engineering, artificial intelligence, data operations, software development, deep learning, machine learning, and data science. feder8.ai also fosters a community of ml researchers and engineers.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Artificial Intelligence",
+      "Information Technology"
+    ],
+    "core_offerings":[
+      "Deep Learning Model Development",
+      "Machine Learning Model Development",
+      "ML Research Collaboration Services",
+      "DataOps Solutions Development",
+      "Cloud Engineering Services",
+      "Few-Shot Learning Research and Development",
+      "Federated Learning Research and Development",
+      "AI Software Development",
+      "MLOps Solutions Development",
+      "Privacy-Native Model Engineering",
+      "Data Science Services",
+      "ML Engineering Consulting"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541715",
+    "industry_name":"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",
+    "revenue_per_employee":4757.9219330855,
+    "cluster":3
+  },
+  {
+    "website":"etiq.ai",
+    "operational_name":"Etiq AI",
+    "year_founded":2019,
+    "address":{
+      "country_code":"gb",
+      "latitude":51.514812,
+      "longitude":-0.1235072,
+      "region_name":"England",
+      "town":"London"
+    },
+    "employee_count":18,
+    "revenue":2165739,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"etiq ai limited, dba etiq ai, is a british company specialized in providing data science and ai platform solutions, including a data science copilot platform that supports ai and machine learning pipeline development, testing, and debugging. the company offers tools for lineage analysis, testing recommendations, and root cause analysis, as well as real-time testing capabilities and spark integration for ai and ml model development. etiq ai serves data scientists, ai model developers, and organizations seeking to improve their ai and ml pipeline development processes, with support available in multiple languages.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Data Science",
+      "Artificial Intelligence"
+    ],
+    "core_offerings":[
+      "Data Pipeline Testing Services",
+      "Model Assessment Services",
+      "Root Cause Analysis Services",
+      "ML Model Debugging Services",
+      "AI and ML Pipeline Development Services",
+      "Model Testing Services",
+      "Data Assessment Services",
+      "Spark Integration Services",
+      "AI and ML Pipeline Consulting Services",
+      "Lineage Analysis Services",
+      "Testing Recommendation Services",
+      "AI Model Debugging Services",
+      "Real-Time Testing Services",
+      "Issue Identification and Insights Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":120318.8333333333,
+    "cluster":3
+  },
+  {
+    "website":"deepspect.de",
+    "operational_name":"DeepSpect",
+    "year_founded":2015,
+    "address":{
+      "country_code":"de",
+      "latitude":49.1826555,
+      "longitude":11.1660171074,
+      "region_name":"Bavaria",
+      "town":"Hilpoltstein"
+    },
+    "employee_count":28,
+    "revenue":5948036,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"nicolas stellwag, dba deepspect, is a german company specialized in developing software platforms that bridge the gap between computed tomography (ct) and machine learning (ml) technologies. the company focuses on providing a self-hostable platform for managing ct data for ml applications, including data normalization, annotation, augmentation, and integration with ml tools. deepspect serves clients in the medical imaging and machine learning sectors, offering both cloud-based and self-hosted solutions, and emphasizes data security for non-destructive testing (ndt) data.",
+    "business_model":[
+      "Business-to-Business",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Healthcare",
+      "Machine Learning"
+    ],
+    "core_offerings":[
+      "ML Model Training Automation",
+      "ML Tool Integration Solutions",
+      "CT Data Management Platform Development",
+      "Model Inference Automation",
+      "Self-Hostable Platform Deployment",
+      "CT Data Annotation Services",
+      "CT Data Augmentation Services",
+      "Cloud-Based Platform Access Services",
+      "CT Data Normalization Services",
+      "NDT Data Security Solutions",
+      "CT Data Screening Tools Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":212429.8571428571,
+    "cluster":3
+  },
+  {
+    "website":"efemarai.com",
+    "operational_name":"Efemarai Continuum",
+    "year_founded":2020,
+    "address":{
+      "country_code":"us",
+      "latitude":37.8700949,
+      "longitude":-122.268418,
+      "region_name":"California",
+      "town":"Berkeley"
+    },
+    "employee_count":2,
+    "revenue":531592,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"efemarai continuum is a united states company specialized in artificial intelligence and machine learning, with a focus on quality assurance, software development, and model visualization. the company provides a platform for testing and improving machine learning models, supporting a range of tasks including object detection, classification, segmentation, pose estimation, and regression, and is compatible with multiple model frameworks. efemarai continuum serves industries such as agriculture, healthcare, and retail, and is supported by a community of developers and users.",
+    "business_model":[
+      "Business-to-Business",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Retail",
+      "Healthcare",
+      "Agriculture"
+    ],
+    "core_offerings":[
+      "Edge Case Detection Services",
+      "Multi-Task ML Testing Services",
+      "Metamorphic Data Generation Services",
+      "Cloud-Based ML Testing Services",
+      "Industry-Specific AI Application Support Services",
+      "Custom ML Testing Solution Development",
+      "Regression Tracking Services",
+      "AI Visualization Services",
+      "Model Robustness Enhancement Services",
+      "Machine Learning Model Testing Services",
+      "Local ML Testing Services",
+      "AI Quality Assurance Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":265796.0,
+    "cluster":3
+  },
+  {
+    "website":"knowledgator.com",
+    "operational_name":"Knowledgator",
+    "year_founded":2021,
+    "address":{
+      "country_code":"gb",
+      "latitude":51.5747743,
+      "longitude":-0.4280091,
+      "region_name":"England",
+      "town":"Ruislip"
+    },
+    "employee_count":6,
+    "revenue":759639,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"knowledgator is a british company specialized in artificial intelligence and machine learning, with a focus on fundamental encoder-only models for information extraction. the company operates as a provider of open-source machine learning models and services, offering solutions for developers, researchers, and organizations seeking ai-driven information extraction and data processing. its activities include the development and distribution of machine learning models, provision of fine-tuning and deployment services, and support for data annotation and model training. knowledgator also offers resources such as documentation, tutorials, and a developer forum to facilitate model usage and integration. the company serves enterprises and organizations in the ai and data analytics sectors, supporting software development, big data, and enterprise software needs.",
+    "business_model":[
+      "Software-as-a-Service",
+      "Licensing",
+      "Subscription-Based",
+      "Business-to-Business",
+      "Service Provider"
+    ],
+    "target_markets":[
+      "Enterprise Software",
+      "Artificial Intelligence",
+      "Data Analytics"
+    ],
+    "core_offerings":[
+      "Summarization Model Deployment",
+      "Information Extraction Model Licensing",
+      "Machine Learning Model Development",
+      "Multi-Modal Data Processing Solutions",
+      "Data Annotation Services",
+      "Relation Extraction Model Deployment",
+      "Model Deployment Services",
+      "Text Classification Model Deployment",
+      "API Integration Solutions",
+      "Enterprise Software as a Service",
+      "Open-Source ML Model Distribution",
+      "Custom Model Fine-Tuning Services",
+      "Question-Answering Model Deployment",
+      "Named Entity Recognition Model Deployment",
+      "Multilingual Information Extraction Solutions",
+      "Data Pipeline Integration Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":126606.5,
+    "cluster":3
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"PMC Optimized",
+    "year_founded":2022,
+    "address":{
+      "country_code":"gb",
+      "latitude":54.5859836,
+      "longitude":-6.9591554,
+      "region_name":"Northern Ireland",
+      "town":"Belfast"
+    },
+    "employee_count":15,
+    "revenue":2134613,
+    "primary_naics":{
+      "code":"541512",
+      "label":"Computer Systems Design Services"
+    },
+    "description":"pmc optimized ltd, dba pmc optimized, is a british information technology and services company specialized in it consulting, machine learning consultancy, data science, and cloud services. the company focuses on machine learning model development, data analysis, insight generation, and model deployment to cloud services, and integrates technologies such as artificial intelligence, deep learning, computer vision, and python programming. pmc optimized also supports cloud-based machine learning operations.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Data Science",
+      "Information Technology"
+    ],
+    "core_offerings":[
+      "Deep Learning Model Development",
+      "Machine Learning Model Development",
+      "Data Analysis and Insight Generation",
+      "ML Model Deployment Services",
+      "Computer Vision Solutions Development",
+      "Cloud Services Consulting",
+      "Python Programming Services",
+      "IT Consulting Services",
+      "Machine Learning Consulting Services",
+      "Data Science Consulting Services",
+      "Cloud-Based ML Operations Management",
+      "AWS and Sagemaker Integration Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541512",
+    "industry_name":"Computer Systems Design Services",
+    "revenue_per_employee":142307.5333333333,
+    "cluster":3
+  },
+  {
+    "website":"rebataur.com",
+    "operational_name":"Rebataur",
+    "year_founded":2017,
+    "address":{
+      "country_code":"in",
+      "latitude":18.4701103388,
+      "longitude":73.8922505929,
+      "region_name":"Maharashtra",
+      "town":"Pune"
+    },
+    "employee_count":2,
+    "revenue":13776,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"rebataur pvt. ltd., dba rebataur, is an indian data science company specialized in providing ai\/ml tools and services, as well as it consulting and support. the company develops and offers a self-hosted platform for developers to experiment with data and generate ai\/ml rest apis, and also provides consulting and support services to enhance the functionality and scalability of its platform. rebataur serves developers and data scientists, primarily targeting business clients, and integrates open-source technologies and cloud integration into its offerings.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Data Science",
+      "Software Development"
+    ],
+    "core_offerings":[
+      "Agile Methodology Implementation Services",
+      "AI and ML Platform Scalability Solutions",
+      "Open-Source Platform Deployment",
+      "Design Thinking Consulting Services",
+      "Auto ML Algorithm Development",
+      "AI and ML Platform Extension",
+      "IT Consulting Services",
+      "Cloud Integration Services",
+      "AI and ML Platform Consulting",
+      "AI and ML Platform Development",
+      "Continuous Integration and Delivery Services",
+      "Data Science Consulting Services",
+      "API Integration Services",
+      "AI and ML Platform Integration"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":6888.0,
+    "cluster":3
+  },
+  {
+    "website":"comet.com",
+    "operational_name":"Comet",
+    "year_founded":2015,
+    "address":{
+      "country_code":"us",
+      "latitude":40.7377801,
+      "longitude":-73.9886747,
+      "region_name":"New York",
+      "town":"New York"
+    },
+    "employee_count":92,
+    "revenue":46337194,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"comet ml, inc., dba comet, is a united states company specialized in providing an end-to-end model evaluation platform for artificial intelligence development and deployment. the company offers tools for evaluating the output of large language model-powered applications, experiment management, model registry, and model production monitoring, supporting a broad range of machine learning frameworks and platforms. comet serves data scientists, ml practitioners, and engineers in enterprise environments, with a global presence.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Artificial Intelligence"
+    ],
+    "core_offerings":[
+      "Automated Agent Optimization Tools Development",
+      "Open-Source LLM Evaluation Tools Development",
+      "GenAI Compliance Tools Development",
+      "LLM Output Evaluation Tools Development",
+      "Model Registry Tools Development",
+      "Machine Learning Platform Integration Services",
+      "Machine Learning Experiment Management Services",
+      "AI Model Deployment Monitoring Services",
+      "Community-Driven AI Tool Development",
+      "Model Evaluation Platform Development",
+      "Model Production Monitoring Tools Development",
+      "Enterprise AI Platform Services",
+      "Machine Learning Research and Development Services",
+      "ML Experiment Tracking Tools Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":503665.152173913,
+    "cluster":3
+  },
+  {
+    "website":"infer.systems",
+    "operational_name":"Infer Systems",
+    "year_founded":2016,
+    "address":{
+      "country_code":"gb",
+      "latitude":51.52728665,
+      "longitude":-0.0888781662,
+      "region_name":"England",
+      "town":"London"
+    },
+    "employee_count":48,
+    "revenue":9921040,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"infer systems limited, dba infer systems, is a uk private company specialized in data engineering, applied artificial intelligence, and machine learning operations. the company provides solutions for creating production data engineering and inference operational environments, as well as data analysis services to support business outcomes. infer systems also offers software development and training services, and collaborates with partners to deliver tailored solutions.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Data Engineering",
+      "Machine Learning",
+      "Information Technology"
+    ],
+    "core_offerings":[
+      "Business Outcome Enhancement Consulting",
+      "Machine Learning Operations Management",
+      "Resource Management Solutions",
+      "ML Model Integration Services",
+      "Data Engineering Services",
+      "Inference Environment Development",
+      "Production Data Engineering Services",
+      "AI and Machine Learning Solutions Development",
+      "Ongoing AI and ML Support Services",
+      "CI\/CD Pipeline Implementation",
+      "Data Analysis Services",
+      "AI and ML Training Services",
+      "Event and API Architecture Development",
+      "Custom Software Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":206688.3333333333,
+    "cluster":3
+  },
+  {
+    "website":"highside.ai",
+    "operational_name":"HighsideAI",
+    "year_founded":2022,
+    "address":{
+      "country_code":"us",
+      "latitude":38.9036645334,
+      "longitude":-76.9895319982,
+      "region_name":"District of Columbia",
+      "town":"Washington"
+    },
+    "employee_count":2,
+    "revenue":319327,
+    "primary_naics":{
+      "code":"541511",
+      "label":"Custom Computer Programming Services"
+    },
+    "description":"highsideai is a united states company engaged in providing ai and machine learning services for the us government and department of defense. the company offers privately hosted ai applications, secure large language model inferencing, and ai\/ml training environments, as well as integration with existing tools such as sharepoint, confluence, and mattermost. highsideai also provides training programs for administrators and end users, enabling organizations to deploy secure ai solutions in classified environments and field operations.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Government",
+      "Defense"
+    ],
+    "core_offerings":[
+      "Machine Learning Training Environment Services",
+      "AI and ML End User Training Services",
+      "Retrieval Augment Generation Technology Deployment",
+      "AI and ML Platform Integration Services",
+      "Private Hosted AI Application Deployment",
+      "Secure AI Solutions Development",
+      "AI and ML Administrator Training Services",
+      "Secure Large Language Model Inferencing Services",
+      "ChatGPT-Interface AI Solutions Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541511",
+    "industry_name":"Custom Computer Programming Services",
+    "revenue_per_employee":159663.5,
+    "cluster":3
+  },
+  {
+    "website":"pandita.ai",
+    "operational_name":"Pandita.ai",
+    "year_founded":2023,
+    "address":{
+      "country_code":"us",
+      "latitude":37.42523065,
+      "longitude":-122.1364588399,
+      "region_name":"California",
+      "town":"Palo Alto"
+    },
+    "employee_count":2,
+    "revenue":531592,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"pandita ai llc, known as pandita.ai, is an american private company engaged in developing machine learning apis for the acceleration of custom-built machine learning solutions. the company provides a range of ml apis, including time-series forecasting, anomaly detection, predictive maintenance, sensor fault detection, object detection, noise reduction, remaining useful life prediction, and supplier ranking and recommendation, utilizing both classical and deep learning models. pandita.ai serves institutions and organizations across various industries.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Industrial",
+      "Manufacturing",
+      "Supply Chain"
+    ],
+    "core_offerings":[
+      "Anomaly Detection API Development",
+      "Object Detection API Development",
+      "Remaining Useful Life Prediction API Development",
+      "Deep Learning Model Deployment",
+      "Classical ML Model Deployment",
+      "Supplier Ranking and Recommendation API Development",
+      "Time-Series Forecasting API Development",
+      "Custom ML Solution Development",
+      "Noise Reduction API Development",
+      "Machine Learning API Development",
+      "Predictive Maintenance API Development",
+      "Data Integration and Insight Generation",
+      "Sensor Fault Detection API Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":265796.0,
+    "cluster":3
+  },
+  {
+    "website":"aipartnershipscorp.com",
+    "operational_name":"AI Partnerships",
+    "year_founded":2020,
+    "address":{
+      "country_code":"ca",
+      "latitude":43.6510017,
+      "longitude":-79.3810207,
+      "region_name":"Ontario",
+      "town":"Toronto"
+    },
+    "employee_count":11,
+    "revenue":1652391,
+    "primary_naics":{
+      "code":"541512",
+      "label":"Computer Systems Design Services"
+    },
+    "description":"ai partnerships corporation is a canadian private company that operates as an affiliate network and technology facilitator, connecting businesses with ai solution providers. the company provides a catalog of ai products and services, including ai education, buyers guides, and industry-specific solutions, and offers a saas model for scalable access to ai technologies. ai partnerships also delivers ai strategy, consulting, research, workflow automation, infrastructure support, and mlops services. its operations serve a global client base across sectors such as manufacturing, financial services, healthcare, construction, agriculture, real estate, aerospace, utilities, retail, telecommunications, automotive, hr, accounting, network technology, and cybersecurity.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Software-as-a-Service",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Data Analytics",
+      "Telecommunications",
+      "NLP",
+      "Cybersecurity",
+      "Robotics",
+      "Automation",
+      "Data Management",
+      "Agriculture",
+      "Manufacturing",
+      "Data Processing",
+      "Deep Learning",
+      "Cloud Hosting",
+      "Computer Vision",
+      "VR",
+      "Construction",
+      "Aerospace",
+      "Financial Services",
+      "Automotive",
+      "Machine Learning",
+      "Retail",
+      "Network Technology",
+      "HR",
+      "Customer Experience",
+      "Neural Networks",
+      "Utilities",
+      "Data Engineering",
+      "Real Estate",
+      "Healthcare",
+      "Sales and Marketing",
+      "Accounting",
+      "Speech Recognition"
+    ],
+    "core_offerings":[
+      "Workflow Automation Solutions Development",
+      "AI Buyers Guide Services",
+      "AI and ML Affiliate Network Services",
+      "AI and ML Platform Integration Services",
+      "AI and Machine Learning Tools Distribution",
+      "SaaS AI Solutions Delivery",
+      "AI and ML Infrastructure Integration Services",
+      "AI Solutions Consulting Services",
+      "AI Strategy Development Services",
+      "AI Education Services",
+      "AI Infrastructure Integration Services",
+      "Industry-Specific AI Solutions Development",
+      "AI and ML Consulting Services",
+      "AI and ML Tools Distribution",
+      "AI and ML Workflow Automation Services",
+      "AI Research and Analysis Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541512",
+    "industry_name":"Computer Systems Design Services",
+    "revenue_per_employee":150217.3636363636,
+    "cluster":3
+  },
+  {
+    "website":"cascadiapacific.com",
+    "operational_name":"Cascadia Pacific",
+    "year_founded":2019,
+    "address":{
+      "country_code":"us",
+      "latitude":47.6571508,
+      "longitude":-122.2067056,
+      "region_name":"Washington",
+      "town":"Kirkland"
+    },
+    "employee_count":190,
+    "revenue":26542732,
+    "primary_naics":{
+      "code":"541512",
+      "label":"Computer Systems Design Services"
+    },
+    "description":"cascadia pacific llc is an american consulting and research firm engaged in artificial intelligence and machine learning solutions. the company provides services such as ai infrastructure assessments, ml model development, data-driven insights, and deployment solutions, as well as risk management and board advisory for ai integration. cascadia pacific also offers consulting in llm model selection, deep learning development, and the integration of llm models with existing systems. its clients include organizations in healthcare, hospitality, and aerospace.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Hospitality",
+      "Aerospace",
+      "Healthcare"
+    ],
+    "core_offerings":[
+      "Deep Learning Model Development",
+      "Multi-Modal Language Model Development",
+      "AI Infrastructure Assessment Services",
+      "Predictive Analytics Services",
+      "Natural Language Processing Services",
+      "Performance Monitoring and Optimization Services",
+      "AI and ML Model Deployment Solutions",
+      "AI Risk Management and Board Advisory",
+      "ML Model Development Services",
+      "LLM Model Consulting Services",
+      "AI Model Fine-Tuning Services",
+      "Tailored Growth Roadmap Development",
+      "Data-Driven Insights Generation",
+      "AI and Machine Learning Consulting",
+      "LLM Case Study and Advisory Services",
+      "AI Infrastructure Readiness Assessment"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541512",
+    "industry_name":"Computer Systems Design Services",
+    "revenue_per_employee":139698.5894736842,
+    "cluster":3
+  },
+  {
+    "website":"getomnia.com",
+    "operational_name":"Omnia AI",
+    "year_founded":2022,
+    "address":{
+      "country_code":"us",
+      "latitude":37.7792588,
+      "longitude":-122.4193286,
+      "region_name":"California",
+      "town":"San Francisco"
+    },
+    "employee_count":1,
+    "revenue":268562,
+    "primary_naics":{
+      "code":"518210",
+      "label":"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services"
+    },
+    "description":"omnia ai is a united states company engaged in providing a platform-as-a-service solution for machine learning model deployment and monitoring. the company offers a no-code platform that enables users to register, deploy, monitor, and operate machine learning models, with features such as a\/b testing and operational monitoring. omnia ai serves businesses and organizations seeking to deploy and manage machine learning and large language models, and operates within the computer and network security, information technology, and services sectors. its activities include observability, devops, natural language processing, deep learning, computer vision, and model deployment and monitoring.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Artificial Intelligence",
+      "Computer and Network Security",
+      "Information Technology"
+    ],
+    "core_offerings":[
+      "Large Language Model Deployment and Monitoring",
+      "Deep Learning Solutions",
+      "Infrastructure-as-Code Development Services",
+      "Fraud Detection Model Development Services",
+      "Data Science Platform Services",
+      "LLMOps Platform Services",
+      "Recommender System Development Services",
+      "Machine Learning Model Deployment and Monitoring",
+      "Natural Language Processing Solutions",
+      "Computer Vision Solutions",
+      "Machine Learning Model A\/B Testing Services",
+      "API Integration Services",
+      "Machine Learning Model Operational Monitoring Services",
+      "MLOps Platform Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"518210",
+    "industry_name":"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+    "revenue_per_employee":268562.0,
+    "cluster":3
+  },
+  {
+    "website":"aryaxai.com",
+    "operational_name":"AryaXAI",
+    "year_founded":2024,
+    "address":{
+      "country_code":"us",
+      "latitude":39.7758438,
+      "longitude":-75.596184,
+      "region_name":"Delaware",
+      "town":"Greenville"
+    },
+    "employee_count":10,
+    "revenue":64814,
+    "primary_naics":{
+      "code":"541511",
+      "label":"Custom Computer Programming Services"
+    },
+    "description":"aryaxai research and development inc, dba aryaxai, is a united states company specialized in enterprise-grade ai explainability and alignment solutions. the company develops and provides products such as explainable ai, ml monitoring, ml audit, and policy control, supporting regulated industries and organizations requiring compliant, transparent, and trustworthy ai models. aryaxai also offers serverless computing and cloud deployment options, and engages in research and development focused on new explainability techniques, alignment strategies, and model risk management.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Enterprise Software",
+      "Cloud Computing",
+      "Regulated Industries"
+    ],
+    "core_offerings":[
+      "Regulated Industry AI Compliance Consulting",
+      "AI Explainability Solutions Development",
+      "ML Monitoring Solutions Development",
+      "Enterprise AI Transparency Consulting",
+      "Serverless Computing Platform Development",
+      "ML Audit Solutions Development",
+      "Model Risk Management Solutions Development",
+      "Cloud Environment Deployment Solutions",
+      "Policy Control Solutions Development",
+      "Deep Learning Explanation Technique Development",
+      "AI Research and Development Services",
+      "AI Alignment Solutions Development",
+      "Model Pruning Using Explainability Development",
+      "AI System Reliability Enhancement Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541511",
+    "industry_name":"Custom Computer Programming Services",
+    "revenue_per_employee":6481.4,
+    "cluster":3
+  },
+  {
+    "website":"zenlabs.com",
+    "operational_name":"ZenLabs",
+    "year_founded":2018,
+    "address":{
+      "country_code":"us",
+      "latitude":42.3967854,
+      "longitude":-71.1298271,
+      "region_name":"Massachusetts",
+      "town":"Cambridge"
+    },
+    "employee_count":8,
+    "revenue":2269226,
+    "primary_naics":{
+      "code":"541512",
+      "label":"Computer Systems Design Services"
+    },
+    "description":"zenlabs is a united states company engaged in data science as a service, digital business transformation, and digital engineering. the company provides solutions in areas such as digital transformation, devops, dataops, and continuous integration and deployment, utilizing technologies including artificial intelligence and machine learning. zenlabs serves clients across various industries, offering tailored data science platforms and services to support business operations and machine learning initiatives.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Financial Services"
+    ],
+    "core_offerings":[
+      "Digital Business Transformation Services",
+      "Continuous Integration and Deployment Services",
+      "AI and ML Solutions Development",
+      "Data Science Platform Development",
+      "Business Insights Generation Services",
+      "Model Evaluation and ROI Analysis Services",
+      "Machine Learning Experimentation and Optimization Services",
+      "Machine Learning Model Training and Deployment",
+      "DevOps Integration Services",
+      "Digital Engineering Services",
+      "Data Science Services",
+      "DataOps Integration Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541512",
+    "industry_name":"Computer Systems Design Services",
+    "revenue_per_employee":283653.25,
+    "cluster":3
+  },
+  {
+    "website":"modelshare.ai",
+    "operational_name":"Model Share AI",
+    "year_founded":2022,
+    "address":{
+      "country_code":"us",
+      "latitude":40.7127281,
+      "longitude":-74.0060152,
+      "region_name":"New York",
+      "town":"New York"
+    },
+    "employee_count":1,
+    "revenue":303968,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"serverless ai, llc, known as model share ai, is an american private company that operates a platform for machine learning model deployment and management. the company provides tools for creating, deploying, and improving machine learning models, supporting various data types such as image, text, tabular, video, and audio. its platform includes features for model improvement, analytics, reporting, and model sharing, as well as a searchable model library and a model playground for collaboration. model share ai serves researchers, data scientists, and machine learning teams, and offers its services in multiple languages.",
+    "business_model":[
+      "Business-to-Business",
+      "Software-as-a-Service",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "core_offerings":[
+      "Data Science Portfolio Building Services",
+      "Global Machine Learning Platform Services",
+      "Machine Learning Project Lifecycle Management",
+      "Reusable Machine Learning Model Database Services",
+      "Deep Learning Model Development Services",
+      "Machine Learning Model Improvement Services",
+      "Multi-Modal Data Processing and Model Integration",
+      "Reproducible Machine Learning Model Generation",
+      "Multilingual Machine Learning Platform Services",
+      "Model Playground and Sharing Platform Services",
+      "Machine Learning Analytics and Reporting Tools Development",
+      "Machine Learning Model Deployment and Management",
+      "Reusable Code Generation Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":303968.0,
+    "cluster":3
+  },
+  {
+    "website":"dylanzeigler.com",
+    "operational_name":"Dylan Zeigler",
+    "year_founded":2022,
+    "address":{
+      "country_code":"us",
+      "latitude":39.7392364,
+      "longitude":-104.984862,
+      "region_name":"Colorado",
+      "town":"Denver"
+    },
+    "employee_count":1,
+    "revenue":249993,
+    "primary_naics":{
+      "code":"541511",
+      "label":"Custom Computer Programming Services"
+    },
+    "description":"dylan zeigler is a united states software developer engaged in full-stack development and data engineering, with a focus on ai and machine learning use cases. he has experience in building, scaling, and deploying software products and teams, covering areas such as assembly, fpgas, web development, and data etls. dylan zeigler also operates as a machine learning engineer at lighty ai, contributing to ai\/ml projects.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Data Engineering",
+      "Technology",
+      "Machine Learning"
+    ],
+    "core_offerings":[
+      "Deep Learning Model Development",
+      "Cloud Infrastructure Development",
+      "Machine Learning Model Development",
+      "AI and ML Solutions Development",
+      "Data Engineering Services",
+      "Containerization and Orchestration Services",
+      "Agile Software Development Consulting",
+      "Natural Language Processing Solutions",
+      "Data ETL and Extraction Services",
+      "FPGA Software Integration",
+      "Full-Stack Software Development",
+      "Custom Software Product Deployment",
+      "Technical Team Consulting Services",
+      "Geospatial Data Processing Solutions",
+      "Web Application Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541511",
+    "industry_name":"Custom Computer Programming Services",
+    "revenue_per_employee":249993.0,
+    "cluster":3
+  },
+  {
+    "website":"proximascale.com",
+    "operational_name":"ProximaScale",
+    "year_founded":2022,
+    "address":{
+      "country_code":"ua",
+      "latitude":50.4680613312,
+      "longitude":30.510291825,
+      "region_name":"Kyiv",
+      "town":"Kyiv"
+    },
+    "employee_count":6,
+    "revenue":881846,
+    "primary_naics":{
+      "code":"541511",
+      "label":"Custom Computer Programming Services"
+    },
+    "description":"proximascale is a ukrainian company engaged in ai development and generative ai consulting services. the company provides subscription-based ai agent development, including customized solutions for organizations, and offers services such as bug fixes, api integrations, aws setup, and ongoing support. proximascale serves clients in the technology sector and utilizes python for app and model development across multiple platforms.",
+    "business_model":[
+      "Subscription-Based",
+      "Service Provider",
+      "Business-to-Business",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Technology"
+    ],
+    "core_offerings":[
+      "Production-Ready ML Solution Deployment",
+      "Multi-Platform AI Solution Development",
+      "Machine Learning Model Development",
+      "AI Consulting Services",
+      "AWS Infrastructure Setup Services",
+      "AI Agent Development Services",
+      "AI Solution Maintenance and Release",
+      "AI Feature Integration Services",
+      "Customized AI Subscription Services",
+      "Data Science Services",
+      "API Integration Services",
+      "Generative AI Solutions Development",
+      "Machine Learning Project Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541511",
+    "industry_name":"Custom Computer Programming Services",
+    "revenue_per_employee":146974.3333333333,
+    "cluster":3
+  },
+  {
+    "website":"ai2device.com",
+    "operational_name":"ai2device",
+    "year_founded":2020,
+    "address":{
+      "country_code":"pl",
+      "latitude":50.0211784,
+      "longitude":19.8862574068,
+      "region_name":"Lesser Poland Voivodeship",
+      "town":"Krakow"
+    },
+    "employee_count":3,
+    "revenue":688999,
+    "primary_naics":{
+      "code":"541330",
+      "label":"Engineering Services"
+    },
+    "description":"ai2device is a polish company specialized in the design and development of ai-powered smart devices, with a focus on integrating machine learning and blockchain technology into it solutions. the company also provides services in writing and testing ml algorithms, creating data sets for neural networks, and developing applications for multiple platforms. its target markets include academic institutions, high-tech corporations, and the military sector.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Technology",
+      "Education",
+      "Defense"
+    ],
+    "core_offerings":[
+      "ML Algorithm Testing",
+      "ML Algorithm Writing",
+      "Blockchain Solution Development",
+      "AI Algorithm Development",
+      "Application Development",
+      "Data Set Creation",
+      "AI Device Development",
+      "AI Device Design"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541330",
+    "industry_name":"Engineering Services",
+    "revenue_per_employee":229666.3333333333,
+    "cluster":3
+  },
+  {
+    "website":"kortical.com",
+    "operational_name":"Kortical",
+    "year_founded":2015,
+    "address":{
+      "country_code":"gb",
+      "latitude":51.450503,
+      "longitude":-0.1854136,
+      "region_name":"England",
+      "town":"London"
+    },
+    "employee_count":12,
+    "revenue":2434734,
+    "primary_naics":{
+      "code":"513210",
+      "label":"Software Publishers"
+    },
+    "description":"kortical limited, dba kortical, is a british technology company specialized in artificial intelligence and machine learning solutions, including automl, ml ops, and ai as a service. the company provides a platform for data scientists and coders to build, deploy, and maintain machine learning models, supporting a range of use cases such as supply chain optimization, predictive maintenance, tax automation, and customer churn prediction. kortical also offers ai consulting, data science training, and support services. the company is carbon neutral and emphasizes ethical practices, including data security and privacy.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Data Science",
+      "Cloud Computing",
+      "AI",
+      "Machine Learning"
+    ],
+    "core_offerings":[
+      "Data Science Training Services",
+      "ML Ops Platform Development",
+      "Machine Learning Model Maintenance",
+      "Predictive Maintenance Solutions",
+      "Machine Learning Model Deployment",
+      "AI Consulting Services",
+      "Customer Churn Prediction Solutions",
+      "Tax Automation Solutions",
+      "AutoML Platform Development",
+      "Cloud-Based AI Platform Services",
+      "Industry-Specific AI Solutions Development",
+      "Ethical AI Consulting Services",
+      "AI Platform Development",
+      "AI as a Service Solutions",
+      "Supply Chain Optimization Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"513210",
+    "industry_name":"Software Publishers",
+    "revenue_per_employee":202894.5,
+    "cluster":3
+  }
+]

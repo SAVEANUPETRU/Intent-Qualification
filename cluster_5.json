@@ -1,0 +1,1999 @@
+[
+  {
+    "website":"Unknown",
+    "operational_name":"EWP Windtower Production",
+    "year_founded":2000,
+    "address":{
+      "country_code":"se",
+      "latitude":55.8547989,
+      "longitude":12.8373175,
+      "region_name":"Sk\u00e5ne County",
+      "town":"Landskrona"
+    },
+    "employee_count":4,
+    "revenue":6343512,
+    "primary_naics":{
+      "code":"332312",
+      "label":"Fabricated Structural Metal Manufacturing"
+    },
+    "description":"ewp windtower production ab, dba ewp windtower production, is a swedish manufacturing company operating in the renewables and environment sector, specializing in the production of large steel structures for wind turbine towers. the company also manages support processes including preparation, planning, procurement, logistics, quality control, and maintenance. ewp windtower production serves global markets, with production facilities and market representation in multiple continents.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Power Equipment Quality Control",
+      "Wind Power Equipment Logistics",
+      "Wind Turbine Tower Assembly",
+      "Wind Power Project Planning and Consulting",
+      "Steel Structure Fabrication",
+      "Wind Turbine Tower Installation",
+      "Wind Turbine Tower Exporting",
+      "Wind Power Technology Development",
+      "Wind Turbine Tower Manufacturing",
+      "Wind Turbine Tower Maintenance Services",
+      "Wind Power Equipment Procurement",
+      "Wind Power Project Management Services",
+      "Wind Power Equipment Maintenance Services",
+      "Wind Power Equipment Supply"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"332312",
+    "industry_name":"Fabricated Structural Metal Manufacturing",
+    "revenue_per_employee":1585878.0,
+    "cluster":5
+  },
+  {
+    "website":"moventas.com",
+    "operational_name":"Moventas",
+    "year_founded":2005,
+    "address":{
+      "country_code":"fi",
+      "latitude":62.2417066,
+      "longitude":25.7495727,
+      "region_name":"Central Finland",
+      "town":"Jyv\u00e4skyl\u00e4"
+    },
+    "employee_count":4,
+    "revenue":184360773,
+    "primary_naics":{
+      "code":"333612",
+      "label":"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing"
+    },
+    "description":"flender finland oy, dba moventas, is a finnish company specialized in the manufacturing of mechanical power transmission equipment and the provision of after-sales service for the renewable energy sector, with a focus on wind turbine gearbox solutions. the company also operates as a service provider in the renewable energy industry, offering multibrand drivetrain services through its wind brand winergy. moventas is part of the flender family and is headquartered in jyv\u00e4skyl\u00e4, finland.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Gearbox Manufacturing",
+      "Legacy Wind Gearbox Solutions",
+      "Multibrand Drivetrain Services",
+      "Wind Turbine Gearbox Servicing",
+      "Renewable Energy Equipment Servicing",
+      "Wind Power Equipment Innovation Services",
+      "Mechanical Power Transmission Equipment Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333612",
+    "industry_name":"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing",
+    "revenue_per_employee":46090193.25,
+    "cluster":5
+  },
+  {
+    "website":"ventumdynamics.com",
+    "operational_name":"Ventum Dynamics",
+    "year_founded":2015,
+    "address":{
+      "country_code":"no",
+      "latitude":58.891874,
+      "longitude":5.7314819,
+      "region_name":"Rogaland",
+      "town":"Stavanger"
+    },
+    "employee_count":14,
+    "revenue":193865443,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"ventum dynamics, inc. is a norwegian company engaged in the design and manufacturing of wind turbines for on-site energy production, storage, and consumption. the company operates in the energy equipment and solutions sector, serving businesses and organizations seeking sustainable energy solutions globally.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Energy Storage System Manufacturing",
+      "Wind Turbine Installation Services",
+      "Clean Energy Solution Development",
+      "Scalable Wind Energy System Development",
+      "Wind Turbine Storage Integration",
+      "Sustainable Energy Equipment Manufacturing",
+      "Low Wind Energy Solution Development",
+      "Energy Consumption Solution Development",
+      "Wind Turbine Design and Manufacturing",
+      "Rooftop Wind Turbine Manufacturing",
+      "Energy Equipment Exporting",
+      "Global Energy Equipment Distribution"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":13847531.6428571437,
+    "cluster":5
+  },
+  {
+    "website":"teslaoceanturbine.com",
+    "operational_name":"Tesla Ocean Turbine",
+    "year_founded":2015,
+    "address":{
+      "country_code":"se",
+      "latitude":59.2608843,
+      "longitude":15.1959986095,
+      "region_name":"\u00d6rebro County",
+      "town":"\u00d6rebro"
+    },
+    "employee_count":2,
+    "revenue":18481391,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"tesla ocean turbine is a swedish renewable energy company specialized in the development and deployment of tidal energy harvesting systems. the company focuses on providing solutions for renewable energy investors and stakeholders seeking cost-effective and scalable tidal energy systems. its operations include project development and deployment of tidal energy technologies, with a particular emphasis on cost reduction and environmental impact reduction.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Environmental Impact Reduction Solutions",
+      "Tidal Energy System Development",
+      "Tidal Turbine System Manufacturing",
+      "Tidal Energy System Deployment",
+      "Offshore Renewable Energy Project Development",
+      "Energy Production Optimization Services",
+      "Scalable Tidal Energy System Design",
+      "Patented Turbine Technology Commercialization",
+      "Cost-Efficient Energy Solution Development",
+      "Single Turbine System Manufacturing",
+      "Renewable Energy Technology Innovation",
+      "Dual Turbine System Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":9240695.5,
+    "cluster":5
+  },
+  {
+    "website":"liftra.com",
+    "operational_name":"Liftra",
+    "year_founded":2003,
+    "address":{
+      "country_code":"dk",
+      "latitude":57.009934,
+      "longitude":9.900388,
+      "region_name":"North Denmark Region",
+      "town":"Aalborg"
+    },
+    "employee_count":4,
+    "revenue":80000000,
+    "primary_naics":{
+      "code":"333120",
+      "label":"Construction Machinery Manufacturing"
+    },
+    "description":"liftra aps, dba liftra, is a danish private company specialized in the design, engineering, manufacturing, and delivery of lifting and transportation solutions for the wind energy sector. the company provides tailored solutions for onshore and offshore wind turbine installation, maintenance, and transportation, including self-hoisting cranes, blade yokes, and turbine maintenance and installation tools. liftra also develops tower transport systems and main shaft fixtures, and holds multiple patents and pending patents in the wind energy industry. the company serves clients in over 30 countries and operates internationally with offices in denmark, spain, china, the usa, poland, vietnam, brazil, and australia.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Blade Yoke Manufacturing",
+      "Turbine Installation Tool Manufacturing",
+      "Turbine Maintenance Tool Manufacturing",
+      "Major Component Replacement Equipment Manufacturing",
+      "Turbine Installation Crane Manufacturing",
+      "Wind Turbine Installation Equipment Manufacturing",
+      "Self-Hoisting Crane Manufacturing",
+      "Wind Energy Solutions Engineering",
+      "Wind Energy Equipment Global Distribution",
+      "Wind Turbine Transportation Equipment Manufacturing",
+      "Main Shaft Fixture Manufacturing",
+      "Tower Lifting Equipment Manufacturing",
+      "Wind Turbine Maintenance Equipment Manufacturing",
+      "Tower Transport System Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333120",
+    "industry_name":"Construction Machinery Manufacturing",
+    "revenue_per_employee":20000000.0,
+    "cluster":5
+  },
+  {
+    "website":"windainergy.com",
+    "operational_name":"windainergy",
+    "year_founded":2015,
+    "address":{
+      "country_code":"se",
+      "latitude":57.77389735,
+      "longitude":11.9017402984,
+      "region_name":"V\u00e4stra G\u00f6taland County",
+      "town":"G\u00f6teborgs Stad"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"windainergy ab is a swedish company engaged in renewable energy solutions, with a focus on small-scale wind turbines and ai-optimized wind power systems. the company serves local communities and small-scale renewable energy users worldwide, emphasizing sustainability and energy independence in its operations.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Local Renewable Energy Solutions",
+      "Wind Turbine Installation Services",
+      "Energy Independence Consulting Services",
+      "Wind Turbine Maintenance Services",
+      "Wind Turbine Manufacturing",
+      "Renewable Energy Solutions",
+      "AI-Optimized Wind Power Solutions",
+      "Community Wind Power Solutions",
+      "Sustainable Energy Education Services",
+      "Small-Scale Wind Power Solutions",
+      "Global Renewable Energy Distribution",
+      "Renewable Energy Consulting Services",
+      "Cost-Effective Wind Power Solutions",
+      "Sustainable Energy Independence Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":5
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"MantaWind",
+    "year_founded":2018,
+    "address":{
+      "country_code":"se",
+      "latitude":59.85918326,
+      "longitude":17.641944485,
+      "region_name":"Uppsala County",
+      "town":"Uppsala kommun"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"mantawind ab, dba mantawind, is a swedish private company operating in the renewable energy sector, with a focus on wind power and clean energy technology. the company specializes in offshore wind and renewable energy solutions, and also provides environmental services and sustainability solutions. mantawind emphasizes the development and deployment of vertical axis floating wind turbines.",
+    "business_model":[
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Environmental Services",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Installation Services",
+      "Wind Turbine Maintenance Services",
+      "Clean Energy Technology Development",
+      "Renewable Energy Solutions",
+      "Wind Power Solutions",
+      "Environmental Impact Consulting Services",
+      "Sustainability Consulting Services",
+      "Vertical Axis Floating Wind Turbine Manufacturing",
+      "Offshore Wind Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":5
+  },
+  {
+    "website":"betaflight.cn",
+    "operational_name":"Aeolos Wind Turbine Company",
+    "year_founded":1986,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.23008005,
+      "longitude":11.54250005,
+      "region_name":null,
+      "town":null
+    },
+    "employee_count":2,
+    "revenue":15000000,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"aeolos wind energy ltd, known as aeolos wind turbine company, is a danish manufacturing company engaged in the production and distribution of small wind turbines and generators for residential, agricultural, educational, and small wind farm applications. the company serves a global market, supplying products to over 60 countries. in addition to manufacturing, aeolos wind turbine company also provides installation services. the company is certified by ul, ce, and iso.",
+    "business_model":[
+      "Wholesale",
+      "Manufacturing",
+      "Business-to-Business",
+      "Retail",
+      "Service Provider",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Education",
+      "Agriculture",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Installation Services",
+      "Wind Turbine and Generator Manufacturing",
+      "Vertical Axis Wind Turbine Manufacturing",
+      "Wind Turbine and Generator Distribution",
+      "Wind Turbine Blade Design and Development",
+      "Wind Turbine Inverter Technology Development",
+      "Horizontal Axis Wind Turbine Manufacturing",
+      "Wind Energy Solutions Consulting",
+      "Small Wind Turbine Manufacturing",
+      "Wind Energy Control System Development",
+      "Wind Energy Patent Technology Licensing",
+      "Wind Generator Technology Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":7500000.0,
+    "cluster":5
+  },
+  {
+    "website":"vestas.com",
+    "operational_name":"Vestas",
+    "year_founded":1945,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.19662,
+      "longitude":10.181177,
+      "region_name":"Central Denmark Region",
+      "town":"Aarhus"
+    },
+    "employee_count":35100,
+    "revenue":57215276900,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"vestas wind systems a\/s is a danish manufacturing company engaged in the design, production, installation, and servicing of wind turbines. the company also provides development and digital services, including drone inspections and fleet optimization, and offers environmental services related to renewable energy. vestas operates internationally, with manufacturing facilities and offices in multiple countries, and is involved in sustainability initiatives such as blade circularity, low-emission steel, and zero-waste wind turbines.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Blade Recycling and Circular Economy Solutions",
+      "Clean Energy Technology Development",
+      "Wind Turbine Manufacturing",
+      "Wind Power Solutions Development",
+      "Drone Wind Turbine Inspection Services",
+      "Wind Turbine Fleet Optimization Services",
+      "Global Wind Power Solutions Distribution",
+      "Sustainable Wind Energy Solutions",
+      "Wind Turbine Technology Innovation Services",
+      "Low-Emission Wind Turbine Manufacturing",
+      "Digital Wind Resource Optimization Services",
+      "Renewable Energy Consulting Services",
+      "Wind Turbine Servicing",
+      "Wind Turbine Installation",
+      "Environmental Sustainability Consulting Services"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":1630064.8689458689,
+    "cluster":5
+  },
+  {
+    "website":"sidewind.is",
+    "operational_name":"SideWind",
+    "year_founded":2019,
+    "address":{
+      "country_code":"is",
+      "latitude":64.1485268,
+      "longitude":-21.7946419,
+      "region_name":"Iceland",
+      "town":"Reykjavik"
+    },
+    "employee_count":4,
+    "revenue":24843385,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"sidewind is an icelandic company specialized in the development and deployment of vertical axis wind turbines (vawts) for the container shipping industry. the company provides renewable energy solutions, including containerized wind turbines designed for installation on cargo ships and land-based applications. sidewind also operates as a manufacturer of industrial wind turbines and holds a patent for a containerized turbine system that can be installed on various vessels. the company is involved in the whisper project and emphasizes sustainability through the use of recycled containers and the integration of wind energy into maritime transportation.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Maritime",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Renewable Energy Technology Research and Development",
+      "Sustainable Maritime Energy Consulting",
+      "Wind Turbine Installation Services",
+      "Wind Turbine Power System Integration",
+      "Wind Turbine Testing and Validation",
+      "Vertical Axis Wind Turbine Manufacturing",
+      "Multi-Turbine Maritime Wind Energy Deployment",
+      "Wind Energy Feasibility Assessment Services",
+      "Wind Energy Cost Optimization Consulting",
+      "Wind Energy Solutions Development",
+      "Container Shipping Decarbonization Solutions",
+      "Containerized Wind Turbine Deployment",
+      "Maritime Wind Energy Integration",
+      "Recycled Container Wind Turbine Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6210846.25,
+    "cluster":5
+  },
+  {
+    "website":"nextfabrication.com",
+    "operational_name":"Next Fabrication",
+    "year_founded":2023,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.192992,
+      "longitude":10.243775,
+      "region_name":"Central Denmark Region",
+      "town":"Aarhus"
+    },
+    "employee_count":4,
+    "revenue":6343512,
+    "primary_naics":{
+      "code":"332312",
+      "label":"Fabricated Structural Metal Manufacturing"
+    },
+    "description":"next fabrication a\/s is a danish manufacturing company engaged in the production of metal and composite parts for renewable energy applications, including wind turbines, photovoltaic solar systems, and power-to-x projects. the company provides manufacturing services such as metal fabrication, composite manufacturing, and machining, as well as logistics and operations support for the construction and installation of renewable energy systems. next fabrication serves original equipment manufacturers, tier-1 suppliers, and developers globally, and is certified to wind apqp4wind and ppap standards.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "PV-Solar System Component Manufacturing",
+      "Renewable Energy System Component Logistics",
+      "Renewable Energy System Component Quality Assurance Services",
+      "Metal Parts Manufacturing",
+      "Wind Turbine Generator Fabrication",
+      "Custom Composite Fabrication",
+      "Renewable Energy Component Manufacturing",
+      "Wind Turbine Component Manufacturing",
+      "Mold and Plug Manufacturing",
+      "Power-to-X System Component Manufacturing",
+      "Weldment Manufacturing",
+      "Renewable Energy System Component Distribution",
+      "Custom Metal Fabrication",
+      "Composite Parts Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"332312",
+    "industry_name":"Fabricated Structural Metal Manufacturing",
+    "revenue_per_employee":1585878.0,
+    "cluster":5
+  },
+  {
+    "website":"worldwidewind.no",
+    "operational_name":"World Wide Wind",
+    "year_founded":2021,
+    "address":{
+      "country_code":"no",
+      "latitude":59.9289639,
+      "longitude":10.4997108186,
+      "region_name":"Viken",
+      "town":"B\u00e6rum"
+    },
+    "employee_count":6,
+    "revenue":193865443,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"world wide wind as is a norwegian company engaged in the development and deployment of counter-rotating vertical axis turbines for offshore floating wind power. the company also operates as a wind turbine builder and is involved in technical cooperation agreements with research organizations to advance floating offshore wind technology. its activities include research and development in renewable energy and environmental solutions.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Floating Offshore Wind Solutions Development",
+      "Wind Power Scalability Solutions",
+      "Offshore Wind Industry Event Participation",
+      "Wind Turbine Technology Deployment",
+      "Wind Energy Efficiency Enhancement Solutions",
+      "Renewable Energy Technology Innovation",
+      "Sustainable Energy Solutions Development",
+      "Offshore Wind Industry Collaboration Services",
+      "Counter-Rotating Vertical Axis Turbine Engineering",
+      "Offshore Wind Turbine Technology Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":32310907.1666666679,
+    "cluster":5
+  },
+  {
+    "website":"galileoempower.fi",
+    "operational_name":"Galileo Empower Finland",
+    "year_founded":1984,
+    "address":{
+      "country_code":"fi",
+      "latitude":60.1669362,
+      "longitude":24.9398278,
+      "region_name":"Uusimaa",
+      "town":"Helsinki"
+    },
+    "employee_count":20,
+    "revenue":153633978,
+    "primary_naics":{
+      "code":"221115",
+      "label":"Wind Electric Power Generation"
+    },
+    "description":"galileo empower finland oy, dba galileo empower finland, is a finnish company specialized in wind power development, including wind turbine manufacturing, installation, commissioning, and storage. the company primarily operates in finland, focusing on the project development, construction, and operation of wind farms. it also maintains a global presence, serving stakeholders such as landowners, municipalities, and local communities.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Manufacturing",
+      "Renewable Energy Solutions",
+      "Wind Turbine Installation and Commissioning",
+      "Wind Turbine Storage Services",
+      "Wind Power Project Development",
+      "Wind Farm Operation and Maintenance"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"221115",
+    "industry_name":"Wind Electric Power Generation",
+    "revenue_per_employee":7681698.9000000004,
+    "cluster":5
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"DEIF Wind Power Technology",
+    "year_founded":1933,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.536895,
+      "longitude":9.030954,
+      "region_name":"Central Denmark Region",
+      "town":"Skive"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"deif a\/s, dba deif wind power technology, is a danish company specialized in control solutions for decentralized power production, marine and offshore applications, and wind turbines. the company operates as a global supplier, providing turbine components, retrofit solutions, wind park control technology, and pitch control systems for both new and existing turbines. deif wind power technology serves clients in the renewable energy sector, with headquarters in skive, denmark.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Marine and Offshore",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Park Control Technology Development",
+      "Renewable Energy Control Technology Development",
+      "Wind Turbine Controller Manufacturing",
+      "Pitch Control System Manufacturing",
+      "Wind Turbine Control Solutions",
+      "Turbine Component Manufacturing",
+      "SCADA System Development",
+      "Marine and Offshore Control Solutions",
+      "Turbine Power Performance Enhancement Solutions",
+      "Wind Turbine Retrofit Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":5
+  },
+  {
+    "website":"teqniq.fi",
+    "operational_name":"Teqniq",
+    "year_founded":2025,
+    "address":{
+      "country_code":"fi",
+      "latitude":63.1474725,
+      "longitude":21.5530503,
+      "region_name":"Ostrobothnia",
+      "town":"Vaasa"
+    },
+    "employee_count":149,
+    "revenue":34057455,
+    "primary_naics":{
+      "code":"541330",
+      "label":"Engineering Services"
+    },
+    "description":"teqniq wind oy is a finnish company engaged in the production and utilization of renewable energy, with a focus on wind turbine technology and manufacturing. the company provides wind turbine installation verification, wind turbine manufacturing verification, and wind turbine measurement services for wind, solar, hydro, geothermal, biomass, and large-scale energy sources. teqniq is a member of the finnish energy agency and holds finas accreditation and iso certification for wind turbine manufacturing verification.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Manufacturing Verification Services",
+      "Wind Turbine Installation Verification Services",
+      "Wind Turbine Technology Consulting Services",
+      "Renewable Energy Manufacturing Verification Services",
+      "Wind Turbine Measurement Device Services",
+      "Wind Data Collection Services",
+      "Wind Turbine Measurement Device Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541330",
+    "industry_name":"Engineering Services",
+    "revenue_per_employee":228573.5234899329,
+    "cluster":5
+  },
+  {
+    "website":"finnwind.fi",
+    "operational_name":"Finnwind",
+    "year_founded":1993,
+    "address":{
+      "country_code":"fi",
+      "latitude":61.4022215,
+      "longitude":23.7682306,
+      "region_name":"Pirkanmaa",
+      "town":"Lemp\u00e4\u00e4l\u00e4"
+    },
+    "employee_count":6,
+    "revenue":92180387,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"finnwind oy is a finnish company that operates as a manufacturer, service provider, and supplier in the renewable energy sector. the company designs, manufactures, and installs large-scale land-based wind turbines and ground-mounted solar power plants, and provides related installation systems. finnwind also offers services such as wind turbine design, installation, and maintenance, as well as support for land acquisition and permits. its products are ce-marked and certified to sfs-en 1090 standards.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Industrial",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Design Services",
+      "Solar Park Component Manufacturing",
+      "Solar Power Plant Design Services",
+      "Solar Power Plant Solutions Development",
+      "Wind Turbine Maintenance Services",
+      "Wind Turbine Manufacturing",
+      "Wind Turbine Installation System Manufacturing",
+      "Wind Power Solutions Development",
+      "Land Acquisition and Permitting Services",
+      "Solar Park Project Development",
+      "Wind Farm Project Development",
+      "Solar Park Component Distribution",
+      "Solar Power Plant Maintenance Services",
+      "Wind Turbine Installation System Distribution",
+      "Wind Turbine Installation",
+      "Solar Power Plant Installation"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":15363397.833333334,
+    "cluster":5
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"Winergy Finland",
+    "year_founded":1981,
+    "address":{
+      "country_code":"fi",
+      "latitude":62.1873795617,
+      "longitude":25.7147327134,
+      "region_name":"Central Finland",
+      "town":"Jyv\u00e4skyl\u00e4"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"winergy finland is a finnish private company specialized in machinery, with a focus on wind turbine components such as gearboxes, generators, and hybriddrives. the company supplies products for onshore and offshore wind turbines to wind turbine manufacturers and wind park owners worldwide. in addition to manufacturing and supplying wind turbine components, winergy finland provides consultancy, expert services, training, and remote condition management systems, as well as wind gear overhaul and maintenance, and management consulting related to renewable energy technology and wind power. the company operates production and service sites in germany, serbia, turkey, china, india, and the united states.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Power Training Services",
+      "Wind Gear Overhaul and Maintenance",
+      "Generator Manufacturing",
+      "Renewable Energy Management Consulting",
+      "Wind Turbine Component Manufacturing",
+      "Wind Turbine Component Distribution",
+      "Wind Power Consulting Services",
+      "HybridDrive Manufacturing",
+      "Remote Condition Management System Services",
+      "Gearbox Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":5
+  },
+  {
+    "website":"pellbin.se",
+    "operational_name":"Pellbin Turbine",
+    "year_founded":2015,
+    "address":{
+      "country_code":"se",
+      "latitude":59.3571810739,
+      "longitude":17.9702449348,
+      "region_name":"Stockholm County",
+      "town":"Sundbyberg"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"pellbin turbine is a swedish renewable energy technology company specialized in ocean and tidal current energy production. the company develops turbine concepts designed to convert the forces of ocean and tidal currents into electricity, with an emphasis on sustainable and efficient energy solutions for countries seeking to reduce their reliance on fossil fuels and address climate change.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Ocean and Tidal Current Turbine Engineering",
+      "Sustainable Energy System Solutions",
+      "Aviation-Inspired Turbine Design Integration",
+      "Ocean and Tidal Energy Production Solutions",
+      "Fossil-Free Energy Generation Services",
+      "Renewable Energy Technology Development",
+      "Renewable Energy Investment Collaboration"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":5
+  },
+  {
+    "website":"windspider.com",
+    "operational_name":"WindSpider",
+    "year_founded":2020,
+    "address":{
+      "country_code":"no",
+      "latitude":58.88925,
+      "longitude":5.6980397,
+      "region_name":"Rogaland",
+      "town":"Sandnes"
+    },
+    "employee_count":10,
+    "revenue":193865443,
+    "primary_naics":{
+      "code":"333120",
+      "label":"Construction Machinery Manufacturing"
+    },
+    "description":"windspider is a norwegian company specialized in the development and manufacturing of lifting solutions for the installation, maintenance, re-powering, and decommissioning of offshore and onshore wind turbines. the company operates primarily in the renewable energy sector, focusing on wind energy, and provides scalable, modular, and self-erecting lifting technologies that utilize wind turbine towers as support structures. windspider's products are compatible with existing vessels and barges, enabling cost-efficient operations and compliance with the jones act in the united states. the company also engages in hardware and renewable energy semiconductor manufacturing.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Lifting Equipment Services",
+      "Wind Turbine Lifting Equipment Sales",
+      "Wind Turbine Lifting Equipment Manufacturing",
+      "Wind Turbine Lifting Solutions",
+      "Wind Turbine Lifting Technology Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333120",
+    "industry_name":"Construction Machinery Manufacturing",
+    "revenue_per_employee":19386544.3000000007,
+    "cluster":5
+  },
+  {
+    "website":"norwinenergy.com",
+    "operational_name":"Norwin Energy",
+    "year_founded":2011,
+    "address":{
+      "country_code":"dk",
+      "latitude":55.672191724,
+      "longitude":12.5507609249,
+      "region_name":"Capital Region of Denmark",
+      "town":"Copenhagen"
+    },
+    "employee_count":1,
+    "revenue":122254865,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"norwin energy is a danish company specialized in distributed wind energy, focusing on the development, manufacturing, installation, and maintenance of wind turbines and related technologies. the company serves both residential and commercial clients internationally, and also operates as a provider of consultancy, project and product development, management, advisory, and business development services. norwin energy is involved in the deployment of licenses and technology transfer, and holds intellectual property rights for several wind turbine models.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Design Services",
+      "Wind Turbine Maintenance",
+      "Wind Energy Technology Transfer",
+      "Wind Turbine Manufacturing",
+      "Wind Energy Business Development Services",
+      "Wind Energy Consulting Services",
+      "Custom Wind Turbine Design and Engineering",
+      "Wind Energy Project Development",
+      "Wind Turbine Research and Development",
+      "Distributed Wind Energy Solutions",
+      "Wind Energy Technology Licensing Services",
+      "Wind Energy Management Services",
+      "Renewable Energy Semiconductor Manufacturing",
+      "Wind Energy Advisory Services",
+      "Wind Turbine Installation"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":122254865.0,
+    "cluster":5
+  },
+  {
+    "website":"fallorka.is",
+    "operational_name":"Fallorka",
+    "year_founded":2015,
+    "address":{
+      "country_code":"is",
+      "latitude":65.6779381,
+      "longitude":-18.1436919,
+      "region_name":"Iceland",
+      "town":"Akureyrarb\u00e6r"
+    },
+    "employee_count":21,
+    "revenue":135791654,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"fallorka is an icelandic company specialized in the production and sale of renewable energy products, with a focus on wind turbines and sustainable energy solutions. the company operates as both a manufacturer and service provider in the renewable energy sector, serving individual consumers and businesses nationwide in iceland. fallorka also engages in renewable energy projects and supports sustainable development initiatives.",
+    "business_model":[
+      "Manufacturing",
+      "Business-to-Business",
+      "Retail",
+      "Service Provider",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Installation Services",
+      "Wind Turbine Maintenance Services",
+      "Wind Turbine Manufacturing",
+      "Renewable Energy Project Consulting",
+      "Water Turbine Manufacturing",
+      "Sustainable Energy Consulting Services",
+      "Wind Energy Project Development",
+      "Wind Energy Retail",
+      "Renewable Energy Product Retail",
+      "Wind Turbine Component Manufacturing",
+      "Renewable Energy Product Manufacturing",
+      "Water Energy Retail",
+      "Water Turbine Installation Services",
+      "Sustainable Development Project Support Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6466269.2380952379,
+    "cluster":5
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"Verta",
+    "year_founded":2023,
+    "address":{
+      "country_code":"no",
+      "latitude":58.917162,
+      "longitude":5.725521,
+      "region_name":"Rogaland",
+      "town":"Stavanger"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"verta is a norwegian company operating in the environmental services and renewables & environment sectors, specializing in small-scale vertical axis wind turbines for renewable energy generation. the company focuses on wind electric power generation, wind energy, and clean energy technology, serving clients seeking sustainable and smart energy solutions.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Environmental Services",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Clean Energy Technology Development",
+      "Renewable Energy Solutions",
+      "Smart Energy Grid Solutions",
+      "Wind Energy Generation Solutions",
+      "Environmental Services Consulting",
+      "Small-Scale Wind Turbine Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":5
+  },
+  {
+    "website":"sol-ind.com",
+    "operational_name":"Sol Industries",
+    "year_founded":2015,
+    "address":{
+      "country_code":"no",
+      "latitude":58.7264356,
+      "longitude":5.5513094,
+      "region_name":"Rogaland",
+      "town":"Klepp"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"sol industries is a norwegian company specialized in the development and manufacturing of t-vawt micro wind turbines for the renewable energy sector. the company provides compact, scalable wind energy solutions designed for installation in urban and diverse locations, with a focus on energy efficiency, sustainability, and cost-effectiveness. sol industries also offers a software platform for workflow optimization and monitoring, supporting satellite connectivity for remote management.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Installation Services",
+      "Wind Energy Technology Development",
+      "Extreme Weather Wind Turbine Engineering",
+      "Urban Wind Energy Integration Services",
+      "Wind Turbine Maintenance and Monitoring Services",
+      "Wind Turbine Software Platform Development",
+      "Micro Wind Turbine Manufacturing",
+      "Energy Efficiency Solutions Consulting",
+      "Renewable Energy Solutions Consulting",
+      "Sustainable Energy Investment Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":5
+  },
+  {
+    "website":"vindparken.se",
+    "operational_name":"Erikshester Vindpark",
+    "year_founded":2015,
+    "address":{
+      "country_code":"se",
+      "latitude":57.3813237,
+      "longitude":15.1473589,
+      "region_name":"J\u00f6nk\u00f6ping County",
+      "town":"Vetlanda kommun"
+    },
+    "employee_count":16,
+    "revenue":101017584,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"erikshester vindpark ab, dba erikshester vindpark, is a swedish company specialized in the production and operation of wind turbines and renewable energy solutions. the company primarily serves industrial clients and the renewable energy sector in local and regional markets.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Operation",
+      "Wind Turbine Manufacturing",
+      "Wind Turbine Supply",
+      "Renewable Energy Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6313599.0,
+    "cluster":5
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"Envision Energy Denmark",
+    "year_founded":2007,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.23564835,
+      "longitude":9.2346250278,
+      "region_name":"Central Denmark Region",
+      "town":"Silkeborg"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"envision energy denmark is a danish company specialized in the development and testing of wind turbines, smart energy technology services, wind energy management software, and smart wind turbines. the company operates as a global innovation centre for wind turbine systems, serving international markets and collaborating with partners and suppliers to deliver business solutions in the renewables and environment sector.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Component Engineering",
+      "Offshore Wind Technology Innovation",
+      "Energy Sector Innovation Research",
+      "Environmental Impact Assessment Services",
+      "International Renewable Energy Collaboration",
+      "Renewable Energy Solutions Consulting",
+      "Wind Energy Asset Management Services",
+      "Wind Turbine Development and Testing",
+      "Wind Energy Management Software Development",
+      "Smart Wind Turbine Design and Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":5
+  },
+  {
+    "website":"teunhulst.nl",
+    "operational_name":"Logic-Energy",
+    "year_founded":2015,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.23008005,
+      "longitude":11.54250005,
+      "region_name":null,
+      "town":null
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"logic-energy aps is a danish company engaged in the design and production of small wind turbines, with a focus on renewable energy solutions. the company serves both residential and commercial customers globally, emphasizing sustainability and energy efficiency in its operations.",
+    "business_model":[
+      "Retail",
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Renewable Energy Product Distribution",
+      "Commercial Renewable Energy Solutions",
+      "Small Wind Turbine Manufacturing",
+      "Small Wind Turbine Distribution",
+      "Wind Technology Innovation Services",
+      "Renewable Energy Product Manufacturing",
+      "Residential Renewable Energy Solutions",
+      "Small Wind Turbine Design",
+      "Energy Efficiency Solutions Development",
+      "Multilingual Product Information Services",
+      "Sustainable Engineering Consulting"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":5
+  },
+  {
+    "website":"fredolsen1848.com",
+    "operational_name":"Fred. Olsen 1848",
+    "year_founded":2021,
+    "address":{
+      "country_code":"no",
+      "latitude":59.909625,
+      "longitude":10.748149,
+      "region_name":"Oslo",
+      "town":"Oslo"
+    },
+    "employee_count":15,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"fred. olsen 1848 as is a norwegian technology company engaged in renewable energy solutions, with a focus on floating solar and wind technologies. the company develops and commercializes floating solar and wind systems, as well as floating maintenance and mobile port solutions. it also provides wind turbine generator installation and floating foundation technologies. fred. olsen 1848 collaborates with industry partners and clients to deliver tailored solutions and holds certifications such as dnv basic design certification for its floating wind turbine foundation.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Floating Wind Turbine Foundation Engineering",
+      "Sustainable Energy Solutions Commercialization",
+      "Floating Wind Operations and Maintenance Services",
+      "Floating Wind Technology Development",
+      "Industry Collaboration Services",
+      "Floating Solar Technology Development",
+      "Customized Renewable Energy Solutions Consulting",
+      "Renewable Energy Pilot Project Execution",
+      "Mobile Port Solutions Development",
+      "Renewable Energy Technology Development",
+      "Floating Solar Operations and Maintenance Services",
+      "Renewable Energy Technology Validation Services",
+      "Modular Floating Foundation Manufacturing",
+      "Wind Turbine Generator Installation Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":3650004.2000000002,
+    "cluster":5
+  },
+  {
+    "website":"thybsydhavnmolle-2.dk",
+    "operational_name":"Thybor\u00f8n Sydhavn 2 | Vestas-m\u00f8lle",
+    "year_founded":2015,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.613184,
+      "longitude":8.181624,
+      "region_name":"Central Denmark Region",
+      "town":"Lemvig"
+    },
+    "employee_count":3,
+    "revenue":19506407,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"thybor\u00f8n sydhavn 2 | vestas-m\u00f8lle i\/s, dba thybor\u00f8n sydhavn 2 | vestas-m\u00f8lle, is a danish company specialized in the manufacturing, maintenance, and sale of wind turbines, as well as the operation of a wind turbine facility in the renewable energy sector. the company serves investors and renewable energy clients, focusing on sustainability and renewable energy solutions.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Manufacturing",
+      "Wind Turbine Share Sales",
+      "Wind Turbine Operation and Maintenance",
+      "Renewable Energy Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6502135.666666667,
+    "cluster":5
+  },
+  {
+    "website":"vindparken.se",
+    "operational_name":"Erikshester Vindpark",
+    "year_founded":2015,
+    "address":{
+      "country_code":"se",
+      "latitude":57.3813237,
+      "longitude":15.1473589,
+      "region_name":"J\u00f6nk\u00f6ping County",
+      "town":"Vetlanda kommun"
+    },
+    "employee_count":16,
+    "revenue":101017584,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"erikshester vindpark ab, dba erikshester vindpark, is a swedish company specialized in the production and operation of wind turbines and renewable energy solutions. the company primarily serves industrial clients and the renewable energy sector in local and regional markets.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Operation",
+      "Wind Turbine Manufacturing",
+      "Wind Turbine Supply",
+      "Renewable Energy Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6313599.0,
+    "cluster":5
+  },
+  {
+    "website":"windainergy.com",
+    "operational_name":"windainergy",
+    "year_founded":2015,
+    "address":{
+      "country_code":"se",
+      "latitude":57.77389735,
+      "longitude":11.9017402984,
+      "region_name":"V\u00e4stra G\u00f6taland County",
+      "town":"G\u00f6teborgs Stad"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"windainergy ab is a swedish company engaged in renewable energy solutions, with a focus on small-scale wind turbines and ai-optimized wind power systems. the company serves local communities and small-scale renewable energy users worldwide, emphasizing sustainability and energy independence in its operations.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Local Renewable Energy Solutions",
+      "Wind Turbine Installation Services",
+      "Energy Independence Consulting Services",
+      "Wind Turbine Maintenance Services",
+      "Wind Turbine Manufacturing",
+      "Renewable Energy Solutions",
+      "AI-Optimized Wind Power Solutions",
+      "Community Wind Power Solutions",
+      "Sustainable Energy Education Services",
+      "Small-Scale Wind Power Solutions",
+      "Global Renewable Energy Distribution",
+      "Renewable Energy Consulting Services",
+      "Cost-Effective Wind Power Solutions",
+      "Sustainable Energy Independence Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":5
+  },
+  {
+    "website":"teunhulst.nl",
+    "operational_name":"Logic-Energy",
+    "year_founded":2015,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.23008005,
+      "longitude":11.54250005,
+      "region_name":null,
+      "town":null
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"logic-energy aps is a danish company engaged in the design and production of small wind turbines, with a focus on renewable energy solutions. the company serves both residential and commercial customers globally, emphasizing sustainability and energy efficiency in its operations.",
+    "business_model":[
+      "Retail",
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Renewable Energy Product Distribution",
+      "Commercial Renewable Energy Solutions",
+      "Small Wind Turbine Manufacturing",
+      "Small Wind Turbine Distribution",
+      "Wind Technology Innovation Services",
+      "Renewable Energy Product Manufacturing",
+      "Residential Renewable Energy Solutions",
+      "Small Wind Turbine Design",
+      "Energy Efficiency Solutions Development",
+      "Multilingual Product Information Services",
+      "Sustainable Engineering Consulting"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":5
+  },
+  {
+    "website":"nextfabrication.com",
+    "operational_name":"Next Fabrication",
+    "year_founded":2023,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.192992,
+      "longitude":10.243775,
+      "region_name":"Central Denmark Region",
+      "town":"Aarhus"
+    },
+    "employee_count":4,
+    "revenue":6343512,
+    "primary_naics":{
+      "code":"332312",
+      "label":"Fabricated Structural Metal Manufacturing"
+    },
+    "description":"next fabrication a\/s is a danish manufacturing company engaged in the production of metal and composite parts for renewable energy applications, including wind turbines, photovoltaic solar systems, and power-to-x projects. the company provides manufacturing services such as metal fabrication, composite manufacturing, and machining, as well as logistics and operations support for the construction and installation of renewable energy systems. next fabrication serves original equipment manufacturers, tier-1 suppliers, and developers globally, and is certified to wind apqp4wind and ppap standards.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "PV-Solar System Component Manufacturing",
+      "Renewable Energy System Component Logistics",
+      "Renewable Energy System Component Quality Assurance Services",
+      "Metal Parts Manufacturing",
+      "Wind Turbine Generator Fabrication",
+      "Custom Composite Fabrication",
+      "Renewable Energy Component Manufacturing",
+      "Wind Turbine Component Manufacturing",
+      "Mold and Plug Manufacturing",
+      "Power-to-X System Component Manufacturing",
+      "Weldment Manufacturing",
+      "Renewable Energy System Component Distribution",
+      "Custom Metal Fabrication",
+      "Composite Parts Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"332312",
+    "industry_name":"Fabricated Structural Metal Manufacturing",
+    "revenue_per_employee":1585878.0,
+    "cluster":5
+  },
+  {
+    "website":"fredolsen1848.com",
+    "operational_name":"Fred. Olsen 1848",
+    "year_founded":2021,
+    "address":{
+      "country_code":"no",
+      "latitude":59.909625,
+      "longitude":10.748149,
+      "region_name":"Oslo",
+      "town":"Oslo"
+    },
+    "employee_count":15,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"fred. olsen 1848 as is a norwegian technology company engaged in renewable energy solutions, with a focus on floating solar and wind technologies. the company develops and commercializes floating solar and wind systems, as well as floating maintenance and mobile port solutions. it also provides wind turbine generator installation and floating foundation technologies. fred. olsen 1848 collaborates with industry partners and clients to deliver tailored solutions and holds certifications such as dnv basic design certification for its floating wind turbine foundation.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Floating Wind Turbine Foundation Engineering",
+      "Sustainable Energy Solutions Commercialization",
+      "Floating Wind Operations and Maintenance Services",
+      "Floating Wind Technology Development",
+      "Industry Collaboration Services",
+      "Floating Solar Technology Development",
+      "Customized Renewable Energy Solutions Consulting",
+      "Renewable Energy Pilot Project Execution",
+      "Mobile Port Solutions Development",
+      "Renewable Energy Technology Development",
+      "Floating Solar Operations and Maintenance Services",
+      "Renewable Energy Technology Validation Services",
+      "Modular Floating Foundation Manufacturing",
+      "Wind Turbine Generator Installation Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":3650004.2000000002,
+    "cluster":5
+  },
+  {
+    "website":"kva-vind.dk",
+    "operational_name":"KVA Wind",
+    "year_founded":2015,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.003208,
+      "longitude":8.621637,
+      "region_name":"Central Denmark Region",
+      "town":"Skjern"
+    },
+    "employee_count":5,
+    "revenue":34725558,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"kva wind int. aps, dba kva wind, is a danish company specialized in the production and installation of residential wind turbines and the provision of renewable energy solutions. the company primarily serves the danish market, offering services such as turbine placement consultation, energy production calculations, and noise compliance assessments. kva wind also provides maintenance and service for various types of residential wind turbines, including vestas, kva vind, and dtu vindenergi models, and is approved by the danish energy agency's approval committee for turbine maintenance. additionally, the company offers generator installations through its subsidiary, kva-diesel.dk.",
+    "business_model":[
+      "Service Provider",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Residential Wind Turbine Installation",
+      "Wind Energy Production Calculation Services",
+      "Wind Turbine Maintenance Services",
+      "Heat Pump Integration Services",
+      "Renewable Energy Solutions",
+      "Wind Turbine Noise Compliance Consulting",
+      "Electric Heater Integration Services",
+      "Residential Wind Turbine Manufacturing",
+      "Wind Turbine Placement Consulting",
+      "Diesel Generator Installation Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6945111.5999999996,
+    "cluster":5
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"Envision Energy Denmark",
+    "year_founded":2007,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.23564835,
+      "longitude":9.2346250278,
+      "region_name":"Central Denmark Region",
+      "town":"Silkeborg"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"envision energy denmark is a danish company specialized in the development and testing of wind turbines, smart energy technology services, wind energy management software, and smart wind turbines. the company operates as a global innovation centre for wind turbine systems, serving international markets and collaborating with partners and suppliers to deliver business solutions in the renewables and environment sector.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Component Engineering",
+      "Offshore Wind Technology Innovation",
+      "Energy Sector Innovation Research",
+      "Environmental Impact Assessment Services",
+      "International Renewable Energy Collaboration",
+      "Renewable Energy Solutions Consulting",
+      "Wind Energy Asset Management Services",
+      "Wind Turbine Development and Testing",
+      "Wind Energy Management Software Development",
+      "Smart Wind Turbine Design and Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":5
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"Verta",
+    "year_founded":2023,
+    "address":{
+      "country_code":"no",
+      "latitude":58.917162,
+      "longitude":5.725521,
+      "region_name":"Rogaland",
+      "town":"Stavanger"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"verta is a norwegian company operating in the environmental services and renewables & environment sectors, specializing in small-scale vertical axis wind turbines for renewable energy generation. the company focuses on wind electric power generation, wind energy, and clean energy technology, serving clients seeking sustainable and smart energy solutions.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Environmental Services",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Clean Energy Technology Development",
+      "Renewable Energy Solutions",
+      "Smart Energy Grid Solutions",
+      "Wind Energy Generation Solutions",
+      "Environmental Services Consulting",
+      "Small-Scale Wind Turbine Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":5
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"MantaWind",
+    "year_founded":2018,
+    "address":{
+      "country_code":"se",
+      "latitude":59.85918326,
+      "longitude":17.641944485,
+      "region_name":"Uppsala County",
+      "town":"Uppsala kommun"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"mantawind ab, dba mantawind, is a swedish private company operating in the renewable energy sector, with a focus on wind power and clean energy technology. the company specializes in offshore wind and renewable energy solutions, and also provides environmental services and sustainability solutions. mantawind emphasizes the development and deployment of vertical axis floating wind turbines.",
+    "business_model":[
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Environmental Services",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Installation Services",
+      "Wind Turbine Maintenance Services",
+      "Clean Energy Technology Development",
+      "Renewable Energy Solutions",
+      "Wind Power Solutions",
+      "Environmental Impact Consulting Services",
+      "Sustainability Consulting Services",
+      "Vertical Axis Floating Wind Turbine Manufacturing",
+      "Offshore Wind Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":5
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"Enercon",
+    "year_founded":2015,
+    "address":{
+      "country_code":"se",
+      "latitude":58.3780346,
+      "longitude":13.4279145,
+      "region_name":"V\u00e4stra G\u00f6taland County",
+      "town":"Skara"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"enercon is a swedish wind turbine builder operating in the renewable energy sector, specializing in the construction of wind turbines.",
+    "business_model":[
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":5
+  },
+  {
+    "website":"worldwidewind.no",
+    "operational_name":"World Wide Wind",
+    "year_founded":2021,
+    "address":{
+      "country_code":"no",
+      "latitude":59.9289639,
+      "longitude":10.4997108186,
+      "region_name":"Viken",
+      "town":"B\u00e6rum"
+    },
+    "employee_count":6,
+    "revenue":193865443,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"world wide wind as is a norwegian company engaged in the development and deployment of counter-rotating vertical axis turbines for offshore floating wind power. the company also operates as a wind turbine builder and is involved in technical cooperation agreements with research organizations to advance floating offshore wind technology. its activities include research and development in renewable energy and environmental solutions.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Floating Offshore Wind Solutions Development",
+      "Wind Power Scalability Solutions",
+      "Offshore Wind Industry Event Participation",
+      "Wind Turbine Technology Deployment",
+      "Wind Energy Efficiency Enhancement Solutions",
+      "Renewable Energy Technology Innovation",
+      "Sustainable Energy Solutions Development",
+      "Offshore Wind Industry Collaboration Services",
+      "Counter-Rotating Vertical Axis Turbine Engineering",
+      "Offshore Wind Turbine Technology Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":32310907.1666666679,
+    "cluster":5
+  },
+  {
+    "website":"sveno.no",
+    "operational_name":"SVENO",
+    "year_founded":2016,
+    "address":{
+      "country_code":"no",
+      "latitude":58.8691642,
+      "longitude":5.7345055,
+      "region_name":"Rogaland",
+      "town":"Sandnes"
+    },
+    "employee_count":4,
+    "revenue":6343512,
+    "primary_naics":{
+      "code":"332312",
+      "label":"Fabricated Structural Metal Manufacturing"
+    },
+    "description":"sverdrup energy norge as, known as sveno, is a norwegian company engaged in solutions for fastening structures to rock, with a focus on sustainable and efficient rock adapter designs for wind turbines. the company also provides wind turbine foundations, foundation repair, and green building design services, serving industrial companies, renewable energy investors, and green construction firms across europe.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Construction",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Environmental Impact Assessment Services",
+      "Customized Structural Solution Development",
+      "Renewable Energy Project Consulting",
+      "Green Building Design Services",
+      "Wind Turbine Foundation Installation",
+      "Construction Material Supply Services",
+      "Construction Project Management Services",
+      "Sustainable Structure Fastening Solutions",
+      "Renewable Energy Infrastructure Solutions",
+      "Wind Turbine Foundation Manufacturing",
+      "Operational and Capital Cost Reduction Consulting",
+      "Rock Adapter Design and Manufacturing",
+      "Industrial Structure Fastening Consulting",
+      "Structural Engineering Consulting",
+      "Wind Turbine Foundation Repair Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"332312",
+    "industry_name":"Fabricated Structural Metal Manufacturing",
+    "revenue_per_employee":1585878.0,
+    "cluster":5
+  },
+  {
+    "website":"sol-ind.com",
+    "operational_name":"Sol Industries",
+    "year_founded":2015,
+    "address":{
+      "country_code":"no",
+      "latitude":58.7264356,
+      "longitude":5.5513094,
+      "region_name":"Rogaland",
+      "town":"Klepp"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"sol industries is a norwegian company specialized in the development and manufacturing of t-vawt micro wind turbines for the renewable energy sector. the company provides compact, scalable wind energy solutions designed for installation in urban and diverse locations, with a focus on energy efficiency, sustainability, and cost-effectiveness. sol industries also offers a software platform for workflow optimization and monitoring, supporting satellite connectivity for remote management.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Installation Services",
+      "Wind Energy Technology Development",
+      "Extreme Weather Wind Turbine Engineering",
+      "Urban Wind Energy Integration Services",
+      "Wind Turbine Maintenance and Monitoring Services",
+      "Wind Turbine Software Platform Development",
+      "Micro Wind Turbine Manufacturing",
+      "Energy Efficiency Solutions Consulting",
+      "Renewable Energy Solutions Consulting",
+      "Sustainable Energy Investment Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":5
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"DEIF Wind Power Technology",
+    "year_founded":1933,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.536895,
+      "longitude":9.030954,
+      "region_name":"Central Denmark Region",
+      "town":"Skive"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"deif a\/s, dba deif wind power technology, is a danish company specialized in control solutions for decentralized power production, marine and offshore applications, and wind turbines. the company operates as a global supplier, providing turbine components, retrofit solutions, wind park control technology, and pitch control systems for both new and existing turbines. deif wind power technology serves clients in the renewable energy sector, with headquarters in skive, denmark.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Marine and Offshore",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Park Control Technology Development",
+      "Renewable Energy Control Technology Development",
+      "Wind Turbine Controller Manufacturing",
+      "Pitch Control System Manufacturing",
+      "Wind Turbine Control Solutions",
+      "Turbine Component Manufacturing",
+      "SCADA System Development",
+      "Marine and Offshore Control Solutions",
+      "Turbine Power Performance Enhancement Solutions",
+      "Wind Turbine Retrofit Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":5
+  },
+  {
+    "website":"teslaoceanturbine.com",
+    "operational_name":"Tesla Ocean Turbine",
+    "year_founded":2015,
+    "address":{
+      "country_code":"se",
+      "latitude":59.2608843,
+      "longitude":15.1959986095,
+      "region_name":"\u00d6rebro County",
+      "town":"\u00d6rebro"
+    },
+    "employee_count":2,
+    "revenue":18481391,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"tesla ocean turbine is a swedish renewable energy company specialized in the development and deployment of tidal energy harvesting systems. the company focuses on providing solutions for renewable energy investors and stakeholders seeking cost-effective and scalable tidal energy systems. its operations include project development and deployment of tidal energy technologies, with a particular emphasis on cost reduction and environmental impact reduction.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Environmental Impact Reduction Solutions",
+      "Tidal Energy System Development",
+      "Tidal Turbine System Manufacturing",
+      "Tidal Energy System Deployment",
+      "Offshore Renewable Energy Project Development",
+      "Energy Production Optimization Services",
+      "Scalable Tidal Energy System Design",
+      "Patented Turbine Technology Commercialization",
+      "Cost-Efficient Energy Solution Development",
+      "Single Turbine System Manufacturing",
+      "Renewable Energy Technology Innovation",
+      "Dual Turbine System Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":9240695.5,
+    "cluster":5
+  },
+  {
+    "website":"windspider.com",
+    "operational_name":"WindSpider",
+    "year_founded":2020,
+    "address":{
+      "country_code":"no",
+      "latitude":58.88925,
+      "longitude":5.6980397,
+      "region_name":"Rogaland",
+      "town":"Sandnes"
+    },
+    "employee_count":10,
+    "revenue":193865443,
+    "primary_naics":{
+      "code":"333120",
+      "label":"Construction Machinery Manufacturing"
+    },
+    "description":"windspider is a norwegian company specialized in the development and manufacturing of lifting solutions for the installation, maintenance, re-powering, and decommissioning of offshore and onshore wind turbines. the company operates primarily in the renewable energy sector, focusing on wind energy, and provides scalable, modular, and self-erecting lifting technologies that utilize wind turbine towers as support structures. windspider's products are compatible with existing vessels and barges, enabling cost-efficient operations and compliance with the jones act in the united states. the company also engages in hardware and renewable energy semiconductor manufacturing.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine Lifting Equipment Services",
+      "Wind Turbine Lifting Equipment Sales",
+      "Wind Turbine Lifting Equipment Manufacturing",
+      "Wind Turbine Lifting Solutions",
+      "Wind Turbine Lifting Technology Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333120",
+    "industry_name":"Construction Machinery Manufacturing",
+    "revenue_per_employee":19386544.3000000007,
+    "cluster":5
+  }
+]

@@ -1,0 +1,2571 @@
+[
+  {
+    "website":"Unknown",
+    "operational_name":"Hydra Tidal Energy Technology",
+    "year_founded":2001,
+    "address":{
+      "country_code":"no",
+      "latitude":68.7728082,
+      "longitude":16.5614933,
+      "region_name":"Troms og Finnmark",
+      "town":"Harstad"
+    },
+    "employee_count":3,
+    "revenue":793607,
+    "primary_naics":{
+      "code":"541330",
+      "label":"Engineering Services"
+    },
+    "description":"hydra tidal energy technology as, dba hydra tidal energy technology, is a norwegian technology developer operating in the renewables and environment sector, with a focus on offshore renewable energy solutions, including ocean energy systems and renewable energy technology. the company specializes in developing technologies for tidal and ocean currents, wave power, and floating and fixed offshore wind power. its operations include system design, marine and structure analysis, offshore structure design, hydro power systems, and project management and business development.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Marine and Offshore",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Floating Offshore Wind Technology Development",
+      "Fixed Offshore Wind Technology Development",
+      "Marine and Offshore Structure Design",
+      "Tidal Energy Technology Development",
+      "Wave Energy Technology Development",
+      "Offshore Renewable Energy Business Development",
+      "Hydro Power System Design",
+      "Offshore Renewable Energy System Development",
+      "Hydro Power System Development",
+      "Offshore Renewable Energy Project Management"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541330",
+    "industry_name":"Engineering Services",
+    "revenue_per_employee":264535.6666666667,
+    "cluster":9
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"Siemens Energy",
+    "year_founded":2015,
+    "address":{
+      "country_code":"fi",
+      "latitude":60.2087275,
+      "longitude":24.8345012,
+      "region_name":"Uusimaa",
+      "town":"Espoo"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"siemens energy oy, dba siemens energy, is a finnish company operating in the energy equipment and solutions sector, providing products and services related to energy technology.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy"
+    ],
+    "core_offerings":[
+      "Industrial Power Equipment Manufacturing",
+      "Renewable Energy Equipment Manufacturing",
+      "Energy Equipment Solutions",
+      "Energy Equipment Manufacturing",
+      "Renewable Energy Equipment Solutions",
+      "Energy Equipment Distribution",
+      "Gas and Steam Turbine Solutions",
+      "Wind Energy Equipment Manufacturing",
+      "Renewable Energy Equipment Distribution",
+      "Wind Energy Equipment Distribution",
+      "Industrial Power Equipment Distribution",
+      "Industrial Power Equipment Solutions",
+      "Electrical Power System Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":9
+  },
+  {
+    "website":"wavedragon.com",
+    "operational_name":"Wave Dragon",
+    "year_founded":2015,
+    "address":{
+      "country_code":"dk",
+      "latitude":55.6867243,
+      "longitude":12.5700724,
+      "region_name":"Capital Region of Denmark",
+      "town":"Copenhagen"
+    },
+    "employee_count":7,
+    "revenue":6375659,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"wave dragon aps is a danish private company engaged in the development and deployment of offshore floating power plant solutions for the generation of renewable energy from wave and wind sources. the company provides technology platforms that integrate hydro and wind turbines, offering scalable solutions for utility-scale power plants and other industries. wave dragon also operates as a technology provider, supporting its offerings with a dedicated infrastructure and a network of partners.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Energy Turbine Manufacturing",
+      "Offshore Floating Power Plant Manufacturing",
+      "Offshore Renewable Energy Solutions",
+      "Wave Energy Turbine Manufacturing",
+      "Sustainable Energy Infrastructure Development",
+      "Utility-Scale Power Plant Development",
+      "Overtopping Device Engineering",
+      "Renewable Energy System Maintenance Services",
+      "Scalable Energy Generation Solutions",
+      "Offshore Energy System Deployment",
+      "Renewable Energy Technology Innovation",
+      "Harsh Environment Energy Technology Development",
+      "Renewable Energy System Integration",
+      "Hydro Turbine Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":910808.4285714285,
+    "cluster":9
+  },
+  {
+    "website":"icewind.is",
+    "operational_name":"ICEWIND",
+    "year_founded":2012,
+    "address":{
+      "country_code":"is",
+      "latitude":64.1400521,
+      "longitude":-21.7650136,
+      "region_name":"Iceland",
+      "town":"Capital Region"
+    },
+    "employee_count":11,
+    "revenue":18486853,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"icewind inc., dba icewind, is an icelandic company engaged in the design, manufacturing, and consulting of renewable energy solutions, with a focus on vertical axis wind turbines for off-grid applications. the company develops compact turbines for use in remote and challenging environments, including telecom towers and weather stations, and provides consulting services for custom wind, solar, and hybrid energy systems. icewind serves clients in the energy sector, particularly those requiring energy solutions in remote or demanding locations.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Weather Stations",
+      "Renewable Energy",
+      "Telecommunications"
+    ],
+    "core_offerings":[
+      "Hybrid Energy System Consulting",
+      "Sustainable Energy Technology Development",
+      "Custom Wind and Solar Solution Development",
+      "Telecom Tower Power Solution Deployment",
+      "Remote Weather Station Power Solution Deployment",
+      "Off-Grid Energy System Consulting",
+      "Wind Turbine Design and Manufacturing",
+      "Renewable Energy Solutions Consulting",
+      "Vertical Axis Wind Turbine Engineering"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":1680623.0,
+    "cluster":9
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"R\u00f6gle Vindkraftpark",
+    "year_founded":2015,
+    "address":{
+      "country_code":"se",
+      "latitude":56.1692823,
+      "longitude":12.7741814,
+      "region_name":"Sk\u00e5ne County",
+      "town":"\u00c4ngelholm"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"r\u00f6gle vindkraftpark is a swedish company operating in the solar energy sector, functioning as both a supplier of solar energy equipment and a builder of wind turbines.",
+    "business_model":[
+      "Retail",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Solar Energy Equipment Supply",
+      "Wind Turbine Construction"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":9
+  },
+  {
+    "website":"norhybrid.com",
+    "operational_name":"Norhybrid Renewables",
+    "year_founded":2020,
+    "address":{
+      "country_code":"no",
+      "latitude":59.121448,
+      "longitude":9.628776,
+      "region_name":"Vestfold og Telemark",
+      "town":"Porsgrunn"
+    },
+    "employee_count":10,
+    "revenue":193865443,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"norhybrid renewables as is a norwegian private company engaged in the development, manufacturing, and integration of renewable energy solutions. the company designs and produces wind turbines, including vertical axis models, and develops hybrid power systems that combine wind, solar, and energy storage technologies. norhybrid renewables also provides energy management services and supports the implementation of sustainable energy systems for residential, commercial, and industrial clients. the company operates internationally and is part of hydro rein, a renewable energy division of norsk hydro.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Commercial",
+      "Residential",
+      "Industrial",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Industrial Energy Solutions",
+      "Solar Energy Generation",
+      "Hybrid Power Plant Integration",
+      "Environmental Impact Reduction Solutions",
+      "Renewable Energy Solutions",
+      "Energy-Efficient Technology Development",
+      "Wind Energy Generation",
+      "Commercial Energy Solutions",
+      "Wind Turbine Design and Manufacturing",
+      "Energy Storage Solutions",
+      "Sustainable Energy Consulting",
+      "Clean Energy Supply"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":19386544.3000000007,
+    "cluster":9
+  },
+  {
+    "website":"naust.is",
+    "operational_name":"Naust Marine",
+    "year_founded":2005,
+    "address":{
+      "country_code":"is",
+      "latitude":64.04919125,
+      "longitude":-21.9883342374,
+      "region_name":"Iceland",
+      "town":"Hafnarfjordur"
+    },
+    "employee_count":6,
+    "revenue":5500000,
+    "primary_naics":{
+      "code":"335999",
+      "label":"All Other Miscellaneous Electrical Equipment and Component Manufacturing"
+    },
+    "description":"naust marine ehf., dba naust marine, is an icelandic company specialized in marine engineering and the manufacturing and supply of components and systems for wind turbines and other marine applications. the company serves clients in the maritime sector, renewable energy, and industrial automation industries, providing energy-efficient solutions for marine and industrial use.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Marine",
+      "Industrial Automation",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Turbine System Supply",
+      "Marine Engineering Solutions",
+      "Marine Equipment Supply",
+      "Inverter Manufacturing",
+      "Renewable Energy Solutions",
+      "Industrial Automation Solutions",
+      "Tank Controller Manufacturing",
+      "Electrical Component Distribution",
+      "HMI and Display Unit Manufacturing",
+      "Wind Turbine Component Manufacturing",
+      "Heat Control System Manufacturing",
+      "Energy-Efficient System Solutions",
+      "Solar Power System Manufacturing",
+      "Marine Equipment Manufacturing",
+      "Battery Charger Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335999",
+    "industry_name":"All Other Miscellaneous Electrical Equipment and Component Manufacturing",
+    "revenue_per_employee":916666.6666666666,
+    "cluster":9
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"ENERCON",
+    "year_founded":1984,
+    "address":{
+      "country_code":"se",
+      "latitude":55.5663486429,
+      "longitude":13.0457816714,
+      "region_name":"Sk\u00e5ne County",
+      "town":"Malmo"
+    },
+    "employee_count":20,
+    "revenue":153633978,
+    "primary_naics":{
+      "code":"221115",
+      "label":"Wind Electric Power Generation"
+    },
+    "description":"enercon is a swedish company operating in the renewable energy sector, specializing in wind electric power generation and related services. the company is active in environmental services and the renewables & environment domain, with production facilities on three continents and market representation in more than 40 countries. enercon is committed to sustainability.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Renewable Energy Solutions",
+      "Wind Energy Equipment Maintenance",
+      "Sustainability Consulting Services",
+      "Wind Energy Equipment Manufacturing",
+      "Solar Power Generation",
+      "Wind Power Generation",
+      "Water Power Generation",
+      "Wind Energy Equipment Installation",
+      "Environmental Consulting Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"221115",
+    "industry_name":"Wind Electric Power Generation",
+    "revenue_per_employee":7681698.9000000004,
+    "cluster":9
+  },
+  {
+    "website":"puhuri.fi",
+    "operational_name":"Puhuri",
+    "year_founded":2010,
+    "address":{
+      "country_code":"fi",
+      "latitude":64.931524,
+      "longitude":25.3860207576,
+      "region_name":"North Ostrobothnia",
+      "town":"Oulunsalo"
+    },
+    "employee_count":20,
+    "revenue":153633978,
+    "primary_naics":{
+      "code":"221115",
+      "label":"Wind Electric Power Generation"
+    },
+    "description":"puhuri oy is a finnish company engaged in the development, construction, and operation of wind and solar power plants, as well as the investment in renewable energy projects. the company manages a portfolio of small and medium-sized energy companies and operates wind and solar power plants, including wind farms and solar power installations. puhuri also invests in renewable energy semiconductor manufacturing and hardware, and is involved in the development of wind parks through its subsidiaries. the company serves clients in finland and is committed to sustainability and environmental responsibility.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Power Plant Development",
+      "Renewable Energy Project Development",
+      "Sustainability and Carbon Reduction Solutions",
+      "Wind Turbine Manufacturing",
+      "Solar Power Plant Operation",
+      "Wind and Solar Electricity Production",
+      "Wind Power Plant Operation",
+      "Wind Power Plant Construction",
+      "Solar Power Plant Construction",
+      "Solar Power Plant Development",
+      "Renewable Energy Semiconductor Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"221115",
+    "industry_name":"Wind Electric Power Generation",
+    "revenue_per_employee":7681698.9000000004,
+    "cluster":9
+  },
+  {
+    "website":"texonsystems.com",
+    "operational_name":"Texon",
+    "year_founded":2010,
+    "address":{
+      "country_code":"no",
+      "latitude":58.8051283,
+      "longitude":5.6010051,
+      "region_name":"Rogaland",
+      "town":"Klepp"
+    },
+    "employee_count":0,
+    "revenue":1420425,
+    "primary_naics":{
+      "code":"334413",
+      "label":"Semiconductor and Related Device Manufacturing"
+    },
+    "description":"texon as is a norwegian public limited company engaged in solar energy solutions, including solar panels, wind turbines, and lithium-ion energy storage systems. the company serves a broad market encompassing agriculture, industrial construction, private residential, and energy storage sectors, providing tailored energy and energy storage solutions. texon also collaborates with professional partners for installation and maintenance of its products.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Energy",
+      "Residential",
+      "Agriculture",
+      "Industrial Construction"
+    ],
+    "core_offerings":[
+      "Industrial Construction Energy Solutions",
+      "Lithium-Ion Energy Storage System Installation",
+      "Solar Panel Technology Integration",
+      "Residential Energy Solutions",
+      "Wind Power Solutions",
+      "Inverter System Integration",
+      "Solar Panel Installation",
+      "Agricultural Energy Solutions",
+      "Solar Energy Solutions",
+      "Underwater Installation and Certification Services",
+      "Energy System Maintenance Services",
+      "Customized Energy Solution Development",
+      "Energy Storage Solutions",
+      "Wind Turbine Installation"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"334413",
+    "industry_name":"Semiconductor and Related Device Manufacturing",
+    "revenue_per_employee":null,
+    "cluster":9
+  },
+  {
+    "website":"varmalammitys.fi",
+    "operational_name":"Varmal\u00e4mmitys",
+    "year_founded":1992,
+    "address":{
+      "country_code":"fi",
+      "latitude":62.30064565,
+      "longitude":27.1637966573,
+      "region_name":"South Savo",
+      "town":"Pieks\u00e4m\u00e4ki"
+    },
+    "employee_count":221,
+    "revenue":79142168,
+    "primary_naics":{
+      "code":"333414",
+      "label":"Heating Equipment (except Warm Air Furnaces) Manufacturing"
+    },
+    "description":"varmal\u00e4mmitys oy, dba varmal\u00e4mmitys, is a finnish company specialized in the sale and servicing of biomass-fired power generation equipment, including biomass boilers. the company operates as a service provider in the renewable energy sector, targeting municipal energy companies and industrial clients in finland. varmal\u00e4mmitys also engages in the design, construction, and operation of biomass plants beyond the contract period, and is part of a nordic joint venture with expertise in biomass plant operations.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Industrial",
+      "Renewable Energy",
+      "Municipal"
+    ],
+    "core_offerings":[
+      "Durable Capacity Payment Model Services",
+      "Low Emission Energy Equipment Manufacturing",
+      "Biomass Power Generation Equipment Sales",
+      "Biomass Plant Operation and Maintenance",
+      "Renewable Energy Solutions",
+      "Biomass Plant Design and Construction",
+      "Domestic Biomass Energy Solutions",
+      "Sustainable Energy Equipment Manufacturing",
+      "Energy Efficiency Equipment Manufacturing",
+      "High Utilization Energy Equipment Manufacturing",
+      "Clean Energy Technology Manufacturing",
+      "Biomass Power Generation Equipment Leasing",
+      "Municipal Energy Equipment Supply",
+      "Biomass Boiler Sales",
+      "Industrial Energy Equipment Supply"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333414",
+    "industry_name":"Heating Equipment (except Warm Air Furnaces) Manufacturing",
+    "revenue_per_employee":358109.3574660633,
+    "cluster":9
+  },
+  {
+    "website":"cktl.se",
+    "operational_name":"Carita och Torbj\u00f6rn",
+    "year_founded":1984,
+    "address":{
+      "country_code":"se",
+      "latitude":59.1978582,
+      "longitude":14.685046,
+      "region_name":"\u00d6rebro County",
+      "town":"Lekebergs kommun"
+    },
+    "employee_count":20,
+    "revenue":153633978,
+    "primary_naics":{
+      "code":"221115",
+      "label":"Wind Electric Power Generation"
+    },
+    "description":"carita och torbj\u00f6rn is a swedish company specialized in the production and sale of wind power equipment and related services. the company operates a wind power park in kronoberget, serving customers interested in renewable energy solutions.",
+    "business_model":[
+      "Retail",
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Renewable Energy Solutions",
+      "Wind Power Equipment Services",
+      "Wind Power Park Operation",
+      "Wind Power Equipment Manufacturing",
+      "Wind Power Equipment Retail"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"221115",
+    "industry_name":"Wind Electric Power Generation",
+    "revenue_per_employee":7681698.9000000004,
+    "cluster":9
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"International Wind Energy",
+    "year_founded":2003,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.139063,
+      "longitude":10.214991,
+      "region_name":"Central Denmark Region",
+      "town":"Aarhus"
+    },
+    "employee_count":17,
+    "revenue":18333244,
+    "primary_naics":{
+      "code":"423690",
+      "label":"Other Electronic Parts and Equipment Merchant Wholesalers"
+    },
+    "description":"international wind energy aps, dba international wind energy, is a danish company specialized in the promotion and investment in green energy, renewable energy semiconductor manufacturing, wind turbines, hardware, and alternative pension savings. the company serves danish investors and has also marketed german wind turbines and solar panels in sweden, england, and the united states. it operates through its subsidiary, iwe administration aps, which manages a portfolio of german solar installations.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Asset Management",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Financial Services",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Green Energy Investment Services",
+      "Wind Turbine Sales",
+      "Renewable Energy Project Marketing",
+      "Solar Installation Portfolio Management",
+      "Solar Panel Marketing",
+      "Wind Turbine Marketing",
+      "Alternative Pension Savings Solutions",
+      "Renewable Energy Semiconductor Manufacturing",
+      "Solar Panel Sales"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"423690",
+    "industry_name":"Other Electronic Parts and Equipment Merchant Wholesalers",
+    "revenue_per_employee":1078426.1176470588,
+    "cluster":9
+  },
+  {
+    "website":"sowinpower.no",
+    "operational_name":"Sowin Power",
+    "year_founded":2020,
+    "address":{
+      "country_code":"no",
+      "latitude":59.8561452,
+      "longitude":10.6616211,
+      "region_name":"Viken",
+      "town":"Nesoddtangen"
+    },
+    "employee_count":3,
+    "revenue":3000000,
+    "primary_naics":{
+      "code":"335999",
+      "label":"All Other Miscellaneous Electrical Equipment and Component Manufacturing"
+    },
+    "description":"sowin power as, dba sowin power, is a norwegian company specialized in the development and sale of power stations for the cabin and residential markets, focusing on clean energy solutions for individuals and households. the company combines solar panels, wind turbines, and used electric car batteries in its power stations, designed to be mounted outside houses and cottages. sowin power serves customers in norway and sweden.",
+    "business_model":[
+      "Retail",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Residential",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Outdoor Power Station Mounting Solutions",
+      "Used Electric Car Battery Integration",
+      "Residential Energy Equipment Retail",
+      "Solar and Wind Energy Integration",
+      "Green Transition Energy Solutions",
+      "Clean Energy Power Station Retail",
+      "Inverter and Remote Monitoring System Integration",
+      "Battery Storage System Manufacturing",
+      "Clean Energy Power Station Development",
+      "Sustainable Energy Solution Development"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335999",
+    "industry_name":"All Other Miscellaneous Electrical Equipment and Component Manufacturing",
+    "revenue_per_employee":1000000.0,
+    "cluster":9
+  },
+  {
+    "website":"cirkelenergi.dk",
+    "operational_name":"CIRKEL Energi",
+    "year_founded":2000,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.466615,
+      "longitude":9.397171,
+      "region_name":"Central Denmark Region",
+      "town":"Viborg"
+    },
+    "employee_count":4,
+    "revenue":122254865,
+    "primary_naics":{
+      "code":"334413",
+      "label":"Semiconductor and Related Device Manufacturing"
+    },
+    "description":"cirkel energi aps is a danish private company engaged in the production, supply, and installation of green energy solutions, including solar panels, battery systems, and wind turbines. the company provides products and services for private individuals, housing associations, institutions, and businesses, with a focus on sustainable energy solutions. its operations include the reselling and installation of wind turbines and energy storage systems, as well as installation and maintenance services. cirkel energi primarily serves the danish market and emphasizes sustainability and environmental responsibility in its activities.",
+    "business_model":[
+      "Manufacturing",
+      "Business-to-Business",
+      "Retail",
+      "Service Provider",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Commercial",
+      "Residential",
+      "Industrial",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Solar Panel Manufacturing and Installation",
+      "Wind Turbine Maintenance Services",
+      "Energy Storage System Maintenance Services",
+      "Sustainable Technology Solutions",
+      "Energy Independence Solutions",
+      "Wind Turbine Manufacturing and Installation",
+      "Green Energy Solutions Production and Supply",
+      "Energy Storage System Manufacturing and Installation",
+      "Renewable Energy Consulting Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"334413",
+    "industry_name":"Semiconductor and Related Device Manufacturing",
+    "revenue_per_employee":30563716.25,
+    "cluster":9
+  },
+  {
+    "website":"jn-solar.fi",
+    "operational_name":"JN-Solar",
+    "year_founded":2007,
+    "address":{
+      "country_code":"fi",
+      "latitude":61.05917465,
+      "longitude":22.3205085903,
+      "region_name":"Satakunta",
+      "town":"S\u00e4kyl\u00e4"
+    },
+    "employee_count":6,
+    "revenue":5500000,
+    "primary_naics":{
+      "code":"335999",
+      "label":"All Other Miscellaneous Electrical Equipment and Component Manufacturing"
+    },
+    "description":"jn-solar is a finnish company engaged in the import, manufacturing, and sale of renewable-energy-related products, including solar panels, solar water heaters, small wind turbines, and related accessories. the company also operates as a retailer and provides installation and design services for its products. jn-solar serves private individuals, businesses, and community groups, with operations based in s\u00e4kyl\u00e4, finland, and additional offices in turku and salo.",
+    "business_model":[
+      "Manufacturing",
+      "Business-to-Business",
+      "Retail",
+      "Service Provider",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Solar Panel and Water Heater Retail",
+      "Solar Panel Maintenance Services",
+      "Product Delivery Services",
+      "Solar Panel Installation Services",
+      "Technical Support Services",
+      "Solar Water Heater Installation Services",
+      "Renewable Energy Product Retail",
+      "Renewable Energy Accessory Retail",
+      "Small Wind Turbine Installation Services",
+      "Small Wind Turbine Retail",
+      "Renewable Energy System Design Services",
+      "Solar Water Heater Maintenance Services",
+      "Small Wind Turbine Maintenance Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335999",
+    "industry_name":"All Other Miscellaneous Electrical Equipment and Component Manufacturing",
+    "revenue_per_employee":916666.6666666666,
+    "cluster":9
+  },
+  {
+    "website":"sunnytek.se",
+    "operational_name":"Sunnytek",
+    "year_founded":2020,
+    "address":{
+      "country_code":"se",
+      "latitude":59.2855504,
+      "longitude":17.6672891,
+      "region_name":"Stockholm County",
+      "town":"Eker\u00f6"
+    },
+    "employee_count":0,
+    "revenue":432857,
+    "primary_naics":{
+      "code":"335999",
+      "label":"All Other Miscellaneous Electrical Equipment and Component Manufacturing"
+    },
+    "description":"sunnytek solar sweden ab, dba sunnytek, is a swedish company specialized in solar, wind, and thermal energy technologies. the company provides products and solutions for energy storage, lighting, and security, serving both residential and commercial markets globally. sunnytek also operates in the laser optronics sector and is registered with gr\u00f6n teknik for modern energy technology management. its operations include offices in the nordic region, africa, south america, and asia.",
+    "business_model":[
+      "Retail",
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Industrial",
+      "Renewable Energy",
+      "Security"
+    ],
+    "core_offerings":[
+      "Solar Panel Manufacturing",
+      "Laser Optronics Manufacturing",
+      "Inverter Manufacturing",
+      "Energy Efficiency Solutions",
+      "Renewable Energy Solutions",
+      "LED Lighting Solutions",
+      "Home Security Laser Systems Manufacturing",
+      "Sustainable Energy Consulting Services",
+      "Solar Energy Solutions",
+      "Thermal Energy Solutions",
+      "Wind Energy Solutions",
+      "Mini Hydro Turbine Manufacturing",
+      "Distance Meter Manufacturing",
+      "Energy Storage Solutions",
+      "Battery Backup Systems Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335999",
+    "industry_name":"All Other Miscellaneous Electrical Equipment and Component Manufacturing",
+    "revenue_per_employee":null,
+    "cluster":9
+  },
+  {
+    "website":"rhinopower.fi",
+    "operational_name":"Rhino Power",
+    "year_founded":2009,
+    "address":{
+      "country_code":"fi",
+      "latitude":60.6448136,
+      "longitude":24.4666923,
+      "region_name":"Kanta-H\u00e4me",
+      "town":"L\u00e4yli\u00e4inen"
+    },
+    "employee_count":17,
+    "revenue":16095954,
+    "primary_naics":{
+      "code":"335999",
+      "label":"All Other Miscellaneous Electrical Equipment and Component Manufacturing"
+    },
+    "description":"rhino power oy is a finnish company engaged in the production and distribution of power generation equipment, with a focus on renewable energy solutions. the company primarily serves clients in the energy industry.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Power Generation Equipment Distribution",
+      "Renewable Energy Equipment Manufacturing",
+      "Renewable Energy Equipment Distribution",
+      "Power Generation Equipment Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335999",
+    "industry_name":"All Other Miscellaneous Electrical Equipment and Component Manufacturing",
+    "revenue_per_employee":946820.8235294118,
+    "cluster":9
+  },
+  {
+    "website":"vasol.se",
+    "operational_name":"VASOL TECH",
+    "year_founded":2020,
+    "address":{
+      "country_code":"se",
+      "latitude":59.3251172,
+      "longitude":18.0710935,
+      "region_name":"Stockholm County",
+      "town":"Stockholm"
+    },
+    "employee_count":6,
+    "revenue":5500000,
+    "primary_naics":{
+      "code":"335999",
+      "label":"All Other Miscellaneous Electrical Equipment and Component Manufacturing"
+    },
+    "description":"vasol tech ab, dba vasol tech, is a swedish company specialized in providing solar power solutions for remote and crisis-affected regions, focusing on clean, self-sufficient energy systems for both personal and commercial use. the company operates in the renewable energy sector, offering products such as solar power generation units and energy storage systems, and serves markets globally.",
+    "business_model":[
+      "Retail",
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Crisis-affected Regions",
+      "Renewable Energy",
+      "Off-Grid Energy"
+    ],
+    "core_offerings":[
+      "Energy Storage System Manufacturing",
+      "Monocrystalline Solar Panel Manufacturing",
+      "Solar Power System Customization Services",
+      "Off-Grid Energy Solutions",
+      "Energy Storage System Maintenance Services",
+      "Renewable Energy Solutions",
+      "Renewable Energy System Training Services",
+      "Solar Power Generation Unit Manufacturing",
+      "Solar Power System Installation Services",
+      "Crisis Region Energy Solutions",
+      "Clean Energy System Distribution",
+      "Energy Storage System Customization Services",
+      "Sustainable Energy System Consulting",
+      "Solar Power System Maintenance Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335999",
+    "industry_name":"All Other Miscellaneous Electrical Equipment and Component Manufacturing",
+    "revenue_per_employee":916666.6666666666,
+    "cluster":9
+  },
+  {
+    "website":"krefter.no",
+    "operational_name":"Krefter",
+    "year_founded":2021,
+    "address":{
+      "country_code":"no",
+      "latitude":59.907975,
+      "longitude":10.759128,
+      "region_name":"Oslo",
+      "town":"Oslo"
+    },
+    "employee_count":1,
+    "revenue":10114124,
+    "primary_naics":{
+      "code":"518210",
+      "label":"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services"
+    },
+    "description":"krefter as, dba krefter, is a norwegian company that develops and operates data centers, renewable energy solutions, and computer networking products. the company specializes in providing power-intensive solutions for industries such as data centers, battery factories, and hydrogen production, utilizing 100% renewable energy sources including hydropower and wind power. krefter also engages in research and development focused on renewable energy technologies and invests profits from its operations in further development. its primary markets are asia and the united states, with operations primarily in norway and other scandinavian countries.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Data Center Services",
+      "Renewable Energy",
+      "Information Technology"
+    ],
+    "core_offerings":[
+      "Streaming Services",
+      "Artificial Intelligence Services",
+      "Renewable Energy Solutions",
+      "Bio Technology Services",
+      "Data Center Development",
+      "Solar Power Energy Generation",
+      "Hydrogen Production",
+      "Hydropower Energy Generation",
+      "Cloud Computing Services",
+      "Self-Driving Car Services",
+      "Tidal Power Energy Generation",
+      "Wind Power Energy Generation",
+      "Battery Capacity Generation"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"518210",
+    "industry_name":"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+    "revenue_per_employee":10114124.0,
+    "cluster":9
+  },
+  {
+    "website":"deif.com",
+    "operational_name":"DEIF",
+    "year_founded":1933,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.536895,
+      "longitude":9.030954,
+      "region_name":"Central Denmark Region",
+      "town":"Skive"
+    },
+    "employee_count":640,
+    "revenue":173126619,
+    "primary_naics":{
+      "code":"335314",
+      "label":"Relay and Industrial Control Manufacturing"
+    },
+    "description":"deif a\/s is a danish private company engaged in the design, manufacturing, and distribution of power control and energy management solutions for decentralized power generation, marine, and offshore applications. the company develops and supplies products such as power management controllers, plcs, protection relays, power converters, bridge instruments, switchboard equipment, and energy management systems. deif also provides turnkey backup power systems for hospitals and hybrid power solutions that integrate renewables. in addition to its core manufacturing and distribution activities, deif offers training and education through the deif academy to support customers in adopting sustainable energy solutions. the company is certified for med approval and iacs ur e27 certification.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Marine",
+      "Energy",
+      "Healthcare",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Switchboard Equipment Manufacturing",
+      "Protection Relay Manufacturing",
+      "Energy Management Solutions Development",
+      "Bridge Instrumentation Manufacturing",
+      "Power Converter Manufacturing",
+      "Turnkey Backup Power System Integration",
+      "Energy Sector Training Services",
+      "Wind Turbine Control System Development",
+      "Marine and Offshore Power Control Solutions",
+      "Renewable Energy Integration Services",
+      "Power Management Controller Manufacturing",
+      "Hybrid Power Solution Integration",
+      "Energy Management System Development",
+      "Power Control Device Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335314",
+    "industry_name":"Relay and Industrial Control Manufacturing",
+    "revenue_per_employee":270510.3421875,
+    "cluster":9
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"Bioener",
+    "year_founded":2002,
+    "address":{
+      "country_code":"dk",
+      "latitude":55.6528709796,
+      "longitude":12.4127696168,
+      "region_name":"Capital Region of Denmark",
+      "town":"Br\u00f8ndby"
+    },
+    "employee_count":114,
+    "revenue":40821084,
+    "primary_naics":{
+      "code":"333414",
+      "label":"Heating Equipment (except Warm Air Furnaces) Manufacturing"
+    },
+    "description":"bioener aps, dba bioener, is a danish machinery manufacturer specialized in the engineering, design, manufacturing, erection, and commissioning of straw fired and other biomass fired energy plants. the company operates within the machinery sector and serves clients in denmark.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy"
+    ],
+    "core_offerings":[
+      "Biomass Energy Plant Manufacturing",
+      "Biomass Fired Power Plant Solutions",
+      "Biomass Energy Plant Erection and Commissioning",
+      "Biomass Energy Plant Engineering and Design",
+      "Biomass Energy Equipment Manufacturing",
+      "Straw Fired Power Plant Solutions",
+      "Biomass Power Plant Technology Licensing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333414",
+    "industry_name":"Heating Equipment (except Warm Air Furnaces) Manufacturing",
+    "revenue_per_employee":358079.6842105263,
+    "cluster":9
+  },
+  {
+    "website":"voltacapital.it",
+    "operational_name":"Volta Capital",
+    "year_founded":2025,
+    "address":{
+      "country_code":"it",
+      "latitude":44.0014247,
+      "longitude":12.6322572,
+      "region_name":"Emilia-Romagna",
+      "town":"Riccione"
+    },
+    "employee_count":1,
+    "revenue":442431,
+    "primary_naics":{
+      "code":"541690",
+      "label":"Other Scientific and Technical Consulting Services"
+    },
+    "description":"volta capital srl is an italian company engaged in renewable energy and energy efficiency solutions. the company provides consulting, project development, installation, monitoring, and long-term value creation for renewable energy projects, with a focus on transforming agricultural land and industrial rooftops into sustainable energy sources. volta capital also develops proprietary software and utilizes territorial analysis to support its operations.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Industrial",
+      "Agriculture",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Renewable Energy Asset Installation",
+      "Renewable Energy Project Development",
+      "Sustainable Property Transformation Services",
+      "Agricultural Land Energy Integration Services",
+      "Environmental Impact Assessment Services",
+      "Renewable Energy Project Consulting",
+      "Industrial Rooftop Energy Integration Services",
+      "Proprietary Energy Software Development",
+      "Energy Efficiency Solutions Consulting",
+      "Customized Energy Solution Development",
+      "Long-Term Value Creation Services",
+      "Strategic Energy Project Planning Services",
+      "Renewable Energy Asset Monitoring"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541690",
+    "industry_name":"Other Scientific and Technical Consulting Services",
+    "revenue_per_employee":442431.0,
+    "cluster":9
+  },
+  {
+    "website":"solarschmiede.ch",
+    "operational_name":"Solarschmiede",
+    "year_founded":2025,
+    "address":{
+      "country_code":"ch",
+      "latitude":46.8979274,
+      "longitude":7.4894466173,
+      "region_name":"Bern",
+      "town":"Belp"
+    },
+    "employee_count":2,
+    "revenue":793607,
+    "primary_naics":{
+      "code":"541330",
+      "label":"Engineering Services"
+    },
+    "description":"solarschmiede gmbh, dba solarschmiede, is a swiss company specialized in the planning and technical consulting of photovoltaic systems. the company provides services including technical consulting, detailed planning, project coordination, and the use of drone photography for aerial and thermal imaging. solarschmiede serves both new construction and renovation projects, offering tailored solutions for solar energy utilization.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Thermal Imaging Services for Solar Projects",
+      "Tailored Solar Solutions Development",
+      "Drone Photography Services for Project Marketing",
+      "Photovoltaic System Planning Services",
+      "Photovoltaic Project Coordination",
+      "Solar Project Cost Estimation",
+      "Solar Plant Layout and Design",
+      "Solar Project Timeline Development",
+      "Aerial Imaging Services for Solar Projects",
+      "Solar Energy Renovation Consulting",
+      "Drone Photography Services for Project Planning",
+      "Photovoltaic Project Consulting"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541330",
+    "industry_name":"Engineering Services",
+    "revenue_per_employee":396803.5,
+    "cluster":9
+  },
+  {
+    "website":"inside-edge.co.uk",
+    "operational_name":"Inside Edge",
+    "year_founded":2025,
+    "address":{
+      "country_code":"gb",
+      "latitude":51.5391868,
+      "longitude":-0.9025042,
+      "region_name":"England",
+      "town":"Henley-on-Thames"
+    },
+    "employee_count":1,
+    "revenue":143246,
+    "primary_naics":{
+      "code":"541611",
+      "label":"Administrative Management and General Management Consulting Services"
+    },
+    "description":"inside edge power limited, dba inside edge, is a british consultancy specialized in the power industry, with a particular focus on renewable energy and offshore wind farms. the company provides services in market and asset sales, commercial due diligence, commercial training, contract negotiations, commercial product development, service delivery planning, warranty structuring, contract drafting, market intelligence, jv structuring, operating model design, dispute avoidance, and acquisition support. inside edge serves clients in the power generation sector across multiple countries, including the uk, usa, taiwan, netherlands, germany, and poland.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Power Industry",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Power Asset Operating Model Design",
+      "Power Asset Warranty Structuring",
+      "Power Asset JV Structuring",
+      "Power Asset Contract Drafting",
+      "Power Market Intelligence Services",
+      "Power Asset Dispute Avoidance Consulting",
+      "Power Asset Commercial Due Diligence",
+      "Renewable Energy Asset Sales",
+      "Power Asset Contract Negotiation",
+      "Power Asset Acquisition Support Services",
+      "Power Asset Commercial Product Development",
+      "Power Asset Commercial Training Services",
+      "Power Asset Service Delivery Planning",
+      "Power Asset Development Consulting"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541611",
+    "industry_name":"Administrative Management and General Management Consulting Services",
+    "revenue_per_employee":143246.0,
+    "cluster":9
+  },
+  {
+    "website":"valfryx.com",
+    "operational_name":"ValfryX",
+    "year_founded":2025,
+    "address":{
+      "country_code":"es",
+      "latitude":39.6840979,
+      "longitude":-0.2817789,
+      "region_name":"Valencian Community",
+      "town":"Valencia"
+    },
+    "employee_count":17,
+    "revenue":793607,
+    "primary_naics":{
+      "code":"541330",
+      "label":"Engineering Services"
+    },
+    "description":"valfry solar s.l., dba valfryx, is a spanish company specialized in renewable energy production and comprehensive energy management solutions for businesses. the company provides services including solar panel installation, energy management platforms, energy optimization, and energy consumption monitoring. valfryx also offers energy strategy design, contract diagnostics, and subscription-based energy management solutions, serving industries such as manufacturing, hospitality, transportation, logistics, retail, and offices, with a focus on clients with high energy consumption or complex energy requirements.",
+    "business_model":[
+      "Subscription-Based",
+      "Service Provider",
+      "Business-to-Business",
+      "Software-as-a-Service"
+    ],
+    "target_markets":[
+      "Manufacturing",
+      "Hospitality",
+      "Transportation",
+      "Retail",
+      "Logistics"
+    ],
+    "core_offerings":[
+      "Energy Technical Support Services",
+      "Industry-Specific Energy Solutions",
+      "Energy Visibility Platform Services",
+      "Energy Cost Reduction Consulting",
+      "Energy Risk Assessment Services",
+      "Energy Strategy Design",
+      "Energy Optimization Services",
+      "Solar Panel Installation",
+      "Renewable Energy Production",
+      "Energy Management Platform Services",
+      "Energy Subscription Services",
+      "Power Purchase Agreement Structuring",
+      "Energy Management Solutions",
+      "Energy Consumption Monitoring"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541330",
+    "industry_name":"Engineering Services",
+    "revenue_per_employee":46682.7647058823,
+    "cluster":9
+  },
+  {
+    "website":"energy-technik.com",
+    "operational_name":"Energy-Technik",
+    "year_founded":2025,
+    "address":{
+      "country_code":"eg",
+      "latitude":30.0337723,
+      "longitude":31.2152106,
+      "region_name":"Giza",
+      "town":"Giza"
+    },
+    "employee_count":1,
+    "revenue":793607,
+    "primary_naics":{
+      "code":"541330",
+      "label":"Engineering Services"
+    },
+    "description":"energy-technik s.a.e, dba energy-technik, is an egyptian engineering company that provides engineering, consulting, and integration services for power systems and industrial environments. the company\u2019s activities include the design, engineering, installation, and commissioning of turnkey solar photovoltaic systems, power generation and distribution infrastructure, and automation solutions. energy-technik also offers digital intelligence for industrial efficiency, smart control systems, substation design and operation, and asset monitoring. additional services include energy efficiency consulting, integration with industrial communication protocols, secure remote diagnostics, and after-sales support. the company is unido-certified.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise"
+    ],
+    "target_markets":[
+      "Energy",
+      "Industrial",
+      "Infrastructure"
+    ],
+    "core_offerings":[
+      "Asset Monitoring System Implementation",
+      "Substation Design and Commissioning",
+      "Electrical System Installation and Testing",
+      "Industrial Automation System Integration",
+      "Smart Control System Development",
+      "Secure Network Integration for Remote Diagnostics",
+      "Turnkey Power Project Management Services",
+      "Solar Photovoltaic System Design and Installation",
+      "Renewable Energy System Engineering",
+      "Power Distribution Engineering",
+      "Digital Intelligence for Industrial Efficiency",
+      "Data Acquisition and Real-Time Analytics Services",
+      "Industrial Communication and Remote Access Solutions",
+      "Hybrid Power Plant Engineering",
+      "Energy Efficiency and Sustainability Consulting"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541330",
+    "industry_name":"Engineering Services",
+    "revenue_per_employee":793607.0,
+    "cluster":9
+  },
+  {
+    "website":"nextgen-energy.eu",
+    "operational_name":"NextGEN Energy",
+    "year_founded":2024,
+    "address":{
+      "country_code":"it",
+      "latitude":45.66920355,
+      "longitude":12.1764609323,
+      "region_name":"Veneto",
+      "town":"Quinto di Treviso"
+    },
+    "employee_count":5,
+    "revenue":793607,
+    "primary_naics":{
+      "code":"541330",
+      "label":"Engineering Services"
+    },
+    "description":"nextgen energy is an italian company that provides energy storage solutions, including photovoltaic systems, power conversion systems, and battery energy storage systems. the company offers engineering, consulting, technical support, and maintenance services, as well as simulation, analysis, inspection, permitting, installation, and energy management optimization. nextgen energy also develops ai-powered tools for energy management and supplies scalable energy storage systems. its operations serve companies, energy producers, and communities in italy.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business"
+    ],
+    "target_markets":[
+      "Energy",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Energy Storage System Maintenance Services",
+      "Customized Energy Storage System Solutions",
+      "Battery Energy Storage System Manufacturing",
+      "Energy Storage System Simulation and Analysis",
+      "Energy Management Software Development",
+      "Energy Efficiency Solutions Consulting",
+      "Power Plant Technical Support Services",
+      "Sustainable Energy Solutions Development",
+      "Renewable Energy Solutions Consulting",
+      "Energy Storage System Inspection and Permitting",
+      "Photovoltaic System Engineering and Installation",
+      "Power Conversion System Integration",
+      "Energy Storage Solutions Engineering and Installation",
+      "Energy Storage System Consulting Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541330",
+    "industry_name":"Engineering Services",
+    "revenue_per_employee":158721.4,
+    "cluster":9
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"International Wind Energy",
+    "year_founded":2003,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.139063,
+      "longitude":10.214991,
+      "region_name":"Central Denmark Region",
+      "town":"Aarhus"
+    },
+    "employee_count":17,
+    "revenue":18333244,
+    "primary_naics":{
+      "code":"423690",
+      "label":"Other Electronic Parts and Equipment Merchant Wholesalers"
+    },
+    "description":"international wind energy aps, dba international wind energy, is a danish company specialized in the promotion and investment in green energy, renewable energy semiconductor manufacturing, wind turbines, hardware, and alternative pension savings. the company serves danish investors and has also marketed german wind turbines and solar panels in sweden, england, and the united states. it operates through its subsidiary, iwe administration aps, which manages a portfolio of german solar installations.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Asset Management",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Financial Services",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Green Energy Investment Services",
+      "Wind Turbine Sales",
+      "Renewable Energy Project Marketing",
+      "Solar Installation Portfolio Management",
+      "Solar Panel Marketing",
+      "Wind Turbine Marketing",
+      "Alternative Pension Savings Solutions",
+      "Renewable Energy Semiconductor Manufacturing",
+      "Solar Panel Sales"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"423690",
+    "industry_name":"Other Electronic Parts and Equipment Merchant Wholesalers",
+    "revenue_per_employee":1078426.1176470588,
+    "cluster":9
+  },
+  {
+    "website":"climatico.dk",
+    "operational_name":"Climatico",
+    "year_founded":2015,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.011177,
+      "longitude":12.025688,
+      "region_name":"Capital Region of Denmark",
+      "town":"Frederiksv\u00e6rk"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"climatico aps is a danish company engaged in the production and installation of renewable energy solutions, including wind turbines, rainwater harvesting systems, and solar panels. the company serves both residential and commercial clients in denmark.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Solar Panel Production and Installation",
+      "Wind Turbine Production and Installation",
+      "Rainwater Harvesting System Production and Installation",
+      "Renewable Energy Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":9
+  },
+  {
+    "website":"fastnet.se",
+    "operational_name":"Fastnet",
+    "year_founded":2004,
+    "address":{
+      "country_code":"se",
+      "latitude":57.71326345,
+      "longitude":11.9727829278,
+      "region_name":"V\u00e4stra G\u00f6taland County",
+      "town":"Gothenburg"
+    },
+    "employee_count":3,
+    "revenue":14264324,
+    "primary_naics":{
+      "code":"541330",
+      "label":"Engineering Services"
+    },
+    "description":"fastnet ab is a swedish company engaged in the development, procurement, and logistics of renewable energy projects, with a primary focus on the solar industry. the company provides services including project design, engineering, procurement, logistics, construction, and asset management for both domestic and commercial markets. fastnet also operates as a consultancy, offering climate change consultancy, renewable energy semiconductor manufacturing, clean energy and technology, environmental services, and project procurement management. its operations extend across europe, canada, the usa, and the uae, and the company supplies products such as solar panels, wind turbines, biogas systems, and hydropower solutions.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Energy",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Project Procurement Management Services",
+      "Hydropower Project Development",
+      "Renewable Energy Project Development",
+      "Energy-Efficient Solutions Consulting",
+      "Environmental Impact Assessment Services",
+      "Wind Project Development",
+      "Renewable Energy Project Engineering",
+      "Renewable Energy Project Logistics",
+      "Clean Energy Technology Solutions",
+      "Renewable Energy Asset Management",
+      "Renewable Energy Project Construction",
+      "Biogas Project Development",
+      "Solar Project Development",
+      "Renewable Energy Project Procurement",
+      "Renewable Energy Semiconductor Manufacturing",
+      "Climate Change Consultancy Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541330",
+    "industry_name":"Engineering Services",
+    "revenue_per_employee":4754774.666666667,
+    "cluster":9
+  },
+  {
+    "website":"effecta.se",
+    "operational_name":"Effecta Energy Solutions",
+    "year_founded":1982,
+    "address":{
+      "country_code":"se",
+      "latitude":57.5662668,
+      "longitude":12.2166091,
+      "region_name":"Halland County",
+      "town":"Kungsbacka"
+    },
+    "employee_count":7,
+    "revenue":2500000,
+    "primary_naics":{
+      "code":"333414",
+      "label":"Heating Equipment (except Warm Air Furnaces) Manufacturing"
+    },
+    "description":"effecta energy solutions ab is a swedish company that operates in the renewable energy and heating sectors. the company provides solar energy solutions, including solar panels, battery storage, and heating systems, as well as integrated heating solutions for residential, commercial, agricultural, and industrial clients. its activities include the manufacturing, installation, and servicing of renewable energy and heating equipment, such as biomass boilers, pellet stoves, and related products. effecta energy solutions also offers project planning and installation services, and supplies a range of heating and biomass equipment to private individuals, businesses, municipalities, and construction projects across sweden.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Renewable Energy",
+      "Agricultural"
+    ],
+    "core_offerings":[
+      "Pellet Boiler and Heater Manufacturing",
+      "Integrated Heating Solution Development",
+      "Biomass Heating Equipment Manufacturing",
+      "Pellet Boiler and Heater Installation",
+      "Solar Thermal Panel Installation",
+      "Battery Storage System Installation",
+      "Solar Energy System Installation",
+      "Solar Thermal Panel Manufacturing",
+      "Renewable Energy Project Planning Services",
+      "Customized Heating System Design",
+      "Solar Energy System Manufacturing",
+      "Battery Storage System Manufacturing",
+      "Heating System Maintenance and Servicing",
+      "Renewable Energy System Installation Services",
+      "Biomass Heating Equipment Installation"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333414",
+    "industry_name":"Heating Equipment (except Warm Air Furnaces) Manufacturing",
+    "revenue_per_employee":357142.8571428572,
+    "cluster":9
+  },
+  {
+    "website":"davidnyren.se",
+    "operational_name":"David Nyren",
+    "year_founded":2003,
+    "address":{
+      "country_code":"se",
+      "latitude":57.57673705,
+      "longitude":12.0638295783,
+      "region_name":"V\u00e4stra G\u00f6taland County",
+      "town":"Lindome"
+    },
+    "employee_count":0,
+    "revenue":560179,
+    "primary_naics":{
+      "code":"334413",
+      "label":"Semiconductor and Related Device Manufacturing"
+    },
+    "description":"david nyren is a swedish company specialized in the production and installation of solar panels, as well as the provision of educational services related to renewable energy. the company serves both residential and commercial clients, including those in the construction sector, and operates a solar panel production facility. it also offers educational services for individuals interested in renewable energy solutions.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Construction",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Solar Panel Manufacturing",
+      "Renewable Energy Solutions",
+      "Solar Energy Production and Monitoring",
+      "Solar Energy Education Services",
+      "Solar Panel Installation",
+      "Energy Efficiency Consulting",
+      "Solar Panel Sales"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"334413",
+    "industry_name":"Semiconductor and Related Device Manufacturing",
+    "revenue_per_employee":null,
+    "cluster":9
+  },
+  {
+    "website":"norhybrid.com",
+    "operational_name":"Norhybrid Renewables",
+    "year_founded":2020,
+    "address":{
+      "country_code":"no",
+      "latitude":59.121448,
+      "longitude":9.628776,
+      "region_name":"Vestfold og Telemark",
+      "town":"Porsgrunn"
+    },
+    "employee_count":10,
+    "revenue":193865443,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"norhybrid renewables as is a norwegian private company engaged in the development, manufacturing, and integration of renewable energy solutions. the company designs and produces wind turbines, including vertical axis models, and develops hybrid power systems that combine wind, solar, and energy storage technologies. norhybrid renewables also provides energy management services and supports the implementation of sustainable energy systems for residential, commercial, and industrial clients. the company operates internationally and is part of hydro rein, a renewable energy division of norsk hydro.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Commercial",
+      "Residential",
+      "Industrial",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Industrial Energy Solutions",
+      "Solar Energy Generation",
+      "Hybrid Power Plant Integration",
+      "Environmental Impact Reduction Solutions",
+      "Renewable Energy Solutions",
+      "Energy-Efficient Technology Development",
+      "Wind Energy Generation",
+      "Commercial Energy Solutions",
+      "Wind Turbine Design and Manufacturing",
+      "Energy Storage Solutions",
+      "Sustainable Energy Consulting",
+      "Clean Energy Supply"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":19386544.3000000007,
+    "cluster":9
+  },
+  {
+    "website":"solamarkis.se",
+    "operational_name":"Sola Markis & Persienn",
+    "year_founded":2003,
+    "address":{
+      "country_code":"se",
+      "latitude":59.3695844,
+      "longitude":13.555743,
+      "region_name":"V\u00e4rmland County",
+      "town":"Karlstad"
+    },
+    "employee_count":0,
+    "revenue":10651824,
+    "primary_naics":{
+      "code":"334413",
+      "label":"Semiconductor and Related Device Manufacturing"
+    },
+    "description":"sola markis & persienn ab is a swedish company engaged in the production and sale of solar panels and related products, with a focus on renewable energy solutions. the company operates as both a manufacturer and distributor, serving individual and business customers interested in solar energy. it is also active as a store, offering solar energy products to customers in sweden.",
+    "business_model":[
+      "Retail",
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Solar Panel Manufacturing",
+      "Energy Efficiency Solutions",
+      "Renewable Energy Solutions",
+      "Solar Panel Distribution",
+      "Solar Panel Retail",
+      "Solar Product Innovation"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"334413",
+    "industry_name":"Semiconductor and Related Device Manufacturing",
+    "revenue_per_employee":null,
+    "cluster":9
+  },
+  {
+    "website":"kraftkarenergi.no",
+    "operational_name":"Kraftkar Energi",
+    "year_founded":2015,
+    "address":{
+      "country_code":"no",
+      "latitude":60.6264204,
+      "longitude":8.5603422,
+      "region_name":"Viken",
+      "town":"\u00c5l"
+    },
+    "employee_count":17,
+    "revenue":2755972,
+    "primary_naics":{
+      "code":"221114",
+      "label":"Solar Electric Power Generation"
+    },
+    "description":"kraftkar energi as, dba kraftkar energi, is a norwegian company specialized in renewable energy solutions, with a focus on solar energy. the company provides solar energy products and services, including outdoor solar panels, building-integrated photovoltaics, and free-standing solar panels, serving residential, industrial, commercial, and off-grid energy needs. kraftkar energi also operates as a supplier of green energy and offers installation and maintenance services for solar panels, as well as after-sales support and building-integrated solutions. the company is part of the med enerett group, which is involved in renewable energy projects and initiatives.",
+    "business_model":[
+      "Manufacturing",
+      "Business-to-Business",
+      "Retail",
+      "Service Provider",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Commercial",
+      "Residential",
+      "Industrial",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Off-Grid Energy Solutions",
+      "Solar Panel Manufacturing",
+      "Renewable Energy Solutions",
+      "Solar Panel Maintenance Services",
+      "Solar Panel Installation Services",
+      "Outdoor Solar Panel Manufacturing",
+      "Solar Panel Distribution",
+      "Free-Standing Solar Panel Manufacturing",
+      "Solar Energy Solutions",
+      "Sustainable Electricity Production",
+      "Solar Energy Consulting Services",
+      "Energy Efficiency Consulting",
+      "Building-Integrated Photovoltaic Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"221114",
+    "industry_name":"Solar Electric Power Generation",
+    "revenue_per_employee":162116.0,
+    "cluster":9
+  },
+  {
+    "website":"lscp.no",
+    "operational_name":"Lundeseter Solcellepark",
+    "year_founded":2003,
+    "address":{
+      "country_code":"no",
+      "latitude":60.2739245,
+      "longitude":12.1695468,
+      "region_name":"Innlandet",
+      "town":"Kongsvinger"
+    },
+    "employee_count":0,
+    "revenue":10651824,
+    "primary_naics":{
+      "code":"334413",
+      "label":"Semiconductor and Related Device Manufacturing"
+    },
+    "description":"lundeseter solcellepark is a norwegian business entity specialized in the development and production of solar panels, operating as a service provider in the renewable energy sector with a focus on solar energy projects. the company targets renewable energy consumers and environmental stakeholders, and is engaged in sustainable development and community support initiatives.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Community Engagement Services",
+      "Clean Electricity Distribution",
+      "Solar Panel Manufacturing",
+      "Renewable Energy Solutions",
+      "Sustainable Development Consulting",
+      "Solar Panel Project Development",
+      "Environmental Stakeholder Engagement Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"334413",
+    "industry_name":"Semiconductor and Related Device Manufacturing",
+    "revenue_per_employee":null,
+    "cluster":9
+  },
+  {
+    "website":"alotta.no",
+    "operational_name":"Alotta",
+    "year_founded":2020,
+    "address":{
+      "country_code":"no",
+      "latitude":62.4715583,
+      "longitude":6.1623552,
+      "region_name":"M\u00f8re og Romsdal",
+      "town":"\u00c5lesund"
+    },
+    "employee_count":11,
+    "revenue":5500000,
+    "primary_naics":{
+      "code":"335999",
+      "label":"All Other Miscellaneous Electrical Equipment and Component Manufacturing"
+    },
+    "description":"alotta as, dba alotta, is a norwegian company specialized in renewable energy solutions, with a focus on floating photovoltaic systems and hardware for renewable energy. the company provides planning, installation, and maintenance services for renewable energy systems, including floating solar power solutions that integrate with existing energy sources. alotta also engages in renewable energy semiconductor manufacturing and operates within the semiconductors sector. its services are designed for industries and communities reliant on fossil fuel generators, particularly in remote or off-grid locations.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy",
+      "Aquaculture"
+    ],
+    "core_offerings":[
+      "Floating Solar Power System Manufacturing",
+      "Sustainable Energy Consulting Services",
+      "Renewable Energy System Maintenance Services",
+      "Floating Solar Power System Installation",
+      "Off-Grid Energy Solutions Development",
+      "Renewable Energy Hardware Manufacturing",
+      "Turn-Key Renewable Energy Deployment Services",
+      "Renewable Energy System Planning Services",
+      "Renewable Energy System Installation Services",
+      "Floating Solar Power System Maintenance",
+      "Emissions Reduction Solutions Development",
+      "Scalable Renewable Energy Solutions Development",
+      "Renewable Energy Solutions Development",
+      "Renewable Energy Semiconductor Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335999",
+    "industry_name":"All Other Miscellaneous Electrical Equipment and Component Manufacturing",
+    "revenue_per_employee":500000.0,
+    "cluster":9
+  },
+  {
+    "website":"magnoraasa.com",
+    "operational_name":"Magnora",
+    "year_founded":2018,
+    "address":{
+      "country_code":"no",
+      "latitude":59.918695,
+      "longitude":10.684765,
+      "region_name":"Oslo",
+      "town":"Oslo"
+    },
+    "employee_count":23,
+    "revenue":193865443,
+    "primary_naics":{
+      "code":"237130",
+      "label":"Power and Communication Line and Related Structures Construction"
+    },
+    "description":"magnora asa is a norwegian public company engaged in the development and management of data center and renewable energy projects, with activities in solar photovoltaic (pv), wind energy, and battery energy storage systems. the company also operates as a semiconductor manufacturer, focusing on hardware and renewable energy semiconductor production. magnora manages a portfolio of renewable energy entities and reinvests its legacy royalty business in renewable energy development. its operations extend to sweden, england, norway, south africa, and scotland, with a particular emphasis on offshore wind and battery storage projects.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Data Centers",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Renewable Energy Project Development",
+      "Project Risk Management Consulting",
+      "Project Management Services",
+      "Data Center Project Development",
+      "Wind Energy Project Development",
+      "Renewable Energy Hardware Manufacturing",
+      "Offshore Wind Project Development",
+      "Sustainable Investment Services",
+      "Legacy Royalty Investment Management",
+      "Solar PV Project Development",
+      "Scalable Renewable Energy Solution Development",
+      "Renewable Energy Semiconductor Manufacturing",
+      "Battery Energy Storage System Development"
+    ],
+    "is_public":true,
+    "secondary_naics":"Unknown",
+    "naics_code":"237130",
+    "industry_name":"Power and Communication Line and Related Structures Construction",
+    "revenue_per_employee":8428932.3043478262,
+    "cluster":9
+  },
+  {
+    "website":"nace.dk",
+    "operational_name":"Navitas",
+    "year_founded":2012,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.174929,
+      "longitude":10.135624,
+      "region_name":"Central Denmark Region",
+      "town":"Aarhus"
+    },
+    "employee_count":2,
+    "revenue":623825,
+    "primary_naics":{
+      "code":"541330",
+      "label":"Engineering Services"
+    },
+    "description":"navitas is a danish consultancy firm engaged in renewable energy engineering and business consultancy. the company provides advisory services for renewable projects, including feasibility studies, design, procurement, construction, operation and maintenance, contract review, site supervision, commissioning, and technical due diligence. navitas also engages in renewable energy semiconductor manufacturing and owners engineering, supporting large-scale international projects in areas such as wind energy, photovoltaic systems, geothermal heating and cooling, solar thermal, and solar energy.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Semiconductors",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Feasibility Study Services",
+      "EPC Project Delivery",
+      "Site Supervision and Commissioning Services",
+      "Detailed Design and Engineering Services",
+      "Renewable Energy Project Consulting",
+      "Wind Energy Project Consulting",
+      "Contract Review and Negotiation Services",
+      "Geothermal Energy Consulting",
+      "Technical Due Diligence Services",
+      "Sustainability and CO\u2082 Target Consulting",
+      "Solar Thermal Energy Consulting",
+      "Owner\u2019s Engineering Consulting",
+      "Photovoltaic System Consulting",
+      "Renewable Energy Semiconductor Manufacturing",
+      "Operation and Maintenance Tendering Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"541330",
+    "industry_name":"Engineering Services",
+    "revenue_per_employee":311912.5,
+    "cluster":9
+  },
+  {
+    "website":"againity.com",
+    "operational_name":"Againity",
+    "year_founded":2013,
+    "address":{
+      "country_code":"se",
+      "latitude":58.5982296,
+      "longitude":16.1753703,
+      "region_name":"\u00d6sterg\u00f6tland County",
+      "town":"Norrk\u00f6ping"
+    },
+    "employee_count":26,
+    "revenue":14264324,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"againity ab, dba againity, is a swedish private company specialized in the manufacturing and supply of organic rankine cycle (orc) turbines and battery energy storage systems (bess) for renewable energy applications. the company develops modular orc systems for converting low-grade heat into electricity, serving sectors such as heating plants, industrial waste heat, geothermal heat, solar panels, landfill gas, waste management, and industrial processes including aluminum plants, gas turbines, and large diesel generators. againity also provides energy storage solutions that integrate with orc systems to support sustainable energy supply and backup power. the company operates in the nordic region and has expanded its presence to poland and greenland.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Energy",
+      "Industrial",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Organic Rankine Cycle Turbine Installation",
+      "Organic Rankine Cycle Turbine Manufacturing",
+      "Small Pellet Boiler Utilization Solutions",
+      "Modular Energy System Design and Integration",
+      "Battery Energy Storage System Manufacturing",
+      "Battery Energy Storage System Installation",
+      "Industrial Waste Heat Utilization Solutions",
+      "Landfill Gas Utilization Solutions",
+      "Renewable Energy System Manufacturing",
+      "Waste Management Plant Utilization Solutions",
+      "Low-Temperature Heat Utilization Solutions",
+      "Geothermal Heat Utilization Solutions",
+      "Renewable Energy System Installation",
+      "Solar Panel Heat Utilization Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":548627.8461538461,
+    "cluster":9
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"R\u00f6gle Vindkraftpark",
+    "year_founded":2015,
+    "address":{
+      "country_code":"se",
+      "latitude":56.1692823,
+      "longitude":12.7741814,
+      "region_name":"Sk\u00e5ne County",
+      "town":"\u00c4ngelholm"
+    },
+    "employee_count":8,
+    "revenue":54750063,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"r\u00f6gle vindkraftpark is a swedish company operating in the solar energy sector, functioning as both a supplier of solar energy equipment and a builder of wind turbines.",
+    "business_model":[
+      "Retail",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Solar Energy Equipment Supply",
+      "Wind Turbine Construction"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":6843757.875,
+    "cluster":9
+  },
+  {
+    "website":"vivstavarvsvagen.se",
+    "operational_name":"BRF Vivstavarvsv\u00e4gen",
+    "year_founded":2025,
+    "address":{
+      "country_code":"se",
+      "latitude":59.2819983,
+      "longitude":18.0499416,
+      "region_name":"Stockholm County",
+      "town":"Stockholm"
+    },
+    "employee_count":1,
+    "revenue":1378770,
+    "primary_naics":{
+      "code":"335999",
+      "label":"All Other Miscellaneous Electrical Equipment and Component Manufacturing"
+    },
+    "description":"brf vivstavarvsv\u00e4gen is a swedish company specialized in the production and installation of solar panels and related rooftop work, operating primarily in the renewable energy sector. the company focuses on solar energy production and rooftop renovation projects, serving residential and commercial clients seeking sustainable energy solutions and property renovation services.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Sustainable Property Renovation",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Sustainable Property Renovation Services",
+      "Solar Panel Manufacturing",
+      "Energy Efficiency Solutions",
+      "Solar Panel Installation",
+      "Renewable Energy Production",
+      "Solar Energy Production",
+      "Rooftop Renovation Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"335999",
+    "industry_name":"All Other Miscellaneous Electrical Equipment and Component Manufacturing",
+    "revenue_per_employee":1378770.0,
+    "cluster":9
+  },
+  {
+    "website":"sembakken.dk",
+    "operational_name":"Sembakken",
+    "year_founded":2003,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.23008005,
+      "longitude":11.54250005,
+      "region_name":null,
+      "town":null
+    },
+    "employee_count":0,
+    "revenue":2332667,
+    "primary_naics":{
+      "code":"334413",
+      "label":"Semiconductor and Related Device Manufacturing"
+    },
+    "description":"sembakken is a danish company engaged in the production and installation of solar energy systems, including photovoltaic panels and solar energy solutions, with a focus on renewable energy solutions. the company primarily serves residential and commercial clients in denmark.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Commercial",
+      "Residential",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Commercial Solar Energy Services",
+      "Photovoltaic Panel Manufacturing and Installation",
+      "Renewable Energy Solutions Consulting",
+      "Solar Power System Design and Implementation",
+      "Solar Energy System Production and Installation",
+      "Residential Solar Energy Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"334413",
+    "industry_name":"Semiconductor and Related Device Manufacturing",
+    "revenue_per_employee":null,
+    "cluster":9
+  },
+  {
+    "website":"wavedragon.com",
+    "operational_name":"Wave Dragon",
+    "year_founded":2015,
+    "address":{
+      "country_code":"dk",
+      "latitude":55.6867243,
+      "longitude":12.5700724,
+      "region_name":"Capital Region of Denmark",
+      "town":"Copenhagen"
+    },
+    "employee_count":7,
+    "revenue":6375659,
+    "primary_naics":{
+      "code":"333611",
+      "label":"Turbine and Turbine Generator Set Units Manufacturing"
+    },
+    "description":"wave dragon aps is a danish private company engaged in the development and deployment of offshore floating power plant solutions for the generation of renewable energy from wave and wind sources. the company provides technology platforms that integrate hydro and wind turbines, offering scalable solutions for utility-scale power plants and other industries. wave dragon also operates as a technology provider, supporting its offerings with a dedicated infrastructure and a network of partners.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Wind Energy Turbine Manufacturing",
+      "Offshore Floating Power Plant Manufacturing",
+      "Offshore Renewable Energy Solutions",
+      "Wave Energy Turbine Manufacturing",
+      "Sustainable Energy Infrastructure Development",
+      "Utility-Scale Power Plant Development",
+      "Overtopping Device Engineering",
+      "Renewable Energy System Maintenance Services",
+      "Scalable Energy Generation Solutions",
+      "Offshore Energy System Deployment",
+      "Renewable Energy Technology Innovation",
+      "Harsh Environment Energy Technology Development",
+      "Renewable Energy System Integration",
+      "Hydro Turbine Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"333611",
+    "industry_name":"Turbine and Turbine Generator Set Units Manufacturing",
+    "revenue_per_employee":910808.4285714285,
+    "cluster":9
+  },
+  {
+    "website":"cktl.se",
+    "operational_name":"Carita och Torbj\u00f6rn",
+    "year_founded":1984,
+    "address":{
+      "country_code":"se",
+      "latitude":59.1978582,
+      "longitude":14.685046,
+      "region_name":"\u00d6rebro County",
+      "town":"Lekebergs kommun"
+    },
+    "employee_count":20,
+    "revenue":153633978,
+    "primary_naics":{
+      "code":"221115",
+      "label":"Wind Electric Power Generation"
+    },
+    "description":"carita och torbj\u00f6rn is a swedish company specialized in the production and sale of wind power equipment and related services. the company operates a wind power park in kronoberget, serving customers interested in renewable energy solutions.",
+    "business_model":[
+      "Retail",
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Renewable Energy Solutions",
+      "Wind Power Equipment Services",
+      "Wind Power Park Operation",
+      "Wind Power Equipment Manufacturing",
+      "Wind Power Equipment Retail"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"221115",
+    "industry_name":"Wind Electric Power Generation",
+    "revenue_per_employee":7681698.9000000004,
+    "cluster":9
+  },
+  {
+    "website":"cirkelenergi.dk",
+    "operational_name":"CIRKEL Energi",
+    "year_founded":2000,
+    "address":{
+      "country_code":"dk",
+      "latitude":56.466615,
+      "longitude":9.397171,
+      "region_name":"Central Denmark Region",
+      "town":"Viborg"
+    },
+    "employee_count":4,
+    "revenue":122254865,
+    "primary_naics":{
+      "code":"334413",
+      "label":"Semiconductor and Related Device Manufacturing"
+    },
+    "description":"cirkel energi aps is a danish private company engaged in the production, supply, and installation of green energy solutions, including solar panels, battery systems, and wind turbines. the company provides products and services for private individuals, housing associations, institutions, and businesses, with a focus on sustainable energy solutions. its operations include the reselling and installation of wind turbines and energy storage systems, as well as installation and maintenance services. cirkel energi primarily serves the danish market and emphasizes sustainability and environmental responsibility in its activities.",
+    "business_model":[
+      "Manufacturing",
+      "Business-to-Business",
+      "Retail",
+      "Service Provider",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Commercial",
+      "Residential",
+      "Industrial",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Solar Panel Manufacturing and Installation",
+      "Wind Turbine Maintenance Services",
+      "Energy Storage System Maintenance Services",
+      "Sustainable Technology Solutions",
+      "Energy Independence Solutions",
+      "Wind Turbine Manufacturing and Installation",
+      "Green Energy Solutions Production and Supply",
+      "Energy Storage System Manufacturing and Installation",
+      "Renewable Energy Consulting Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"334413",
+    "industry_name":"Semiconductor and Related Device Manufacturing",
+    "revenue_per_employee":30563716.25,
+    "cluster":9
+  },
+  {
+    "website":"bluetecvest.no",
+    "operational_name":"BlueTec Vest",
+    "year_founded":2003,
+    "address":{
+      "country_code":"no",
+      "latitude":61.2401976,
+      "longitude":7.7141946,
+      "region_name":"Vestland",
+      "town":"\u00c5rdal"
+    },
+    "employee_count":0,
+    "revenue":18970982,
+    "primary_naics":{
+      "code":"334413",
+      "label":"Semiconductor and Related Device Manufacturing"
+    },
+    "description":"bluetec vest as is a norwegian company engaged in the manufacturing of solar panel systems and renewable energy solutions, with a focus on solar energy. the company serves private individuals and businesses in the vestland region of norway, providing products such as solar cell panels, inverters, and fixed equipment, as well as energy consulting and implementation services. bluetec vest also undertakes solar installation projects for private individuals and agricultural farms, with an emphasis on sustainability and climate goals aligned with eu targets.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Agriculture",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Solar Inverter Manufacturing",
+      "Agricultural Solar Installation Services",
+      "Solar Panel Manufacturing",
+      "Renewable Energy Solutions",
+      "Solar Installation Services",
+      "Private Solar Installation Services",
+      "Green Energy Profile Consulting Services",
+      "Fixed Solar Equipment Manufacturing",
+      "CO2 Emission Reduction Consulting Services",
+      "Solar Energy Consulting Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"334413",
+    "industry_name":"Semiconductor and Related Device Manufacturing",
+    "revenue_per_employee":null,
+    "cluster":9
+  },
+  {
+    "website":"parkasol.se",
+    "operational_name":"Parkasol",
+    "year_founded":2015,
+    "address":{
+      "country_code":"se",
+      "latitude":61.35223,
+      "longitude":16.3959935,
+      "region_name":"G\u00e4vleborg County",
+      "town":"Bolln\u00e4s"
+    },
+    "employee_count":1,
+    "revenue":767770,
+    "primary_naics":{
+      "code":"332311",
+      "label":"Prefabricated Metal Building and Component Manufacturing"
+    },
+    "description":"parkasol sweden ab is a swedish company that develops and distributes climate-smart parking solutions, including carports with solar panels and charging stations. the company provides self-sufficient parking systems that utilize renewable energy from solar panels or wind turbines, enabling electric vehicle charging in remote or inaccessible locations. parkasol also operates as an official distributor of its solutions in sweden and collaborates with international partners to expand its offerings.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Sustainable Energy",
+      "Transportation",
+      "Automotive"
+    ],
+    "core_offerings":[
+      "Renewable Energy Utilization Services",
+      "Smart Parking System Integration",
+      "Off-Grid Vehicle Charging Solutions",
+      "Solar-Powered Carport Manufacturing",
+      "Sustainable Parking System Consulting",
+      "Sustainable Building Energy Solutions",
+      "Wind Turbine Integration Services",
+      "Solar Panel Integration Services",
+      "Remote Location Vehicle Charging Services",
+      "Climate-Smart Parking Solutions Distribution",
+      "Electric Vehicle Accessibility Enhancement Services",
+      "Renewable Energy Excess Sales",
+      "Electric Vehicle Charging Station Installation",
+      "Electric Vehicle Range Extension Solutions"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"332311",
+    "industry_name":"Prefabricated Metal Building and Component Manufacturing",
+    "revenue_per_employee":767770.0,
+    "cluster":9
+  },
+  {
+    "website":"homeenergy.se",
+    "operational_name":"Home Energy",
+    "year_founded":2015,
+    "address":{
+      "country_code":"se",
+      "latitude":55.5511527,
+      "longitude":12.9846292,
+      "region_name":"Sk\u00e5ne County",
+      "town":"Malmo"
+    },
+    "employee_count":17,
+    "revenue":14264324,
+    "primary_naics":{
+      "code":"423610",
+      "label":"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers"
+    },
+    "description":"home energy ab, dba home energy, is a swedish company specialized in the production and supply of small-scale renewable energy products, including solar, wind, and bioenergy solutions. the company serves industrial properties and businesses seeking sustainable energy solutions in sweden. home energy also operates as a service provider for the maintenance and support of its renewable energy products.",
+    "business_model":[
+      "Business-to-Business",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Industrial",
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Sustainable Technology Integration Services",
+      "Energy System Installation Services",
+      "Heat Pump System Distribution",
+      "Sustainable Energy Solution Consulting",
+      "Renewable Energy Product Distribution",
+      "Energy Sector Collaboration Services",
+      "Energy Cost Reduction Solution Services",
+      "Energy System Maintenance Services",
+      "Renewable Energy Product Manufacturing",
+      "Solar Energy System Manufacturing",
+      "Sustainable Energy Event Participation Services",
+      "Wind Energy System Manufacturing",
+      "Combined Solar and Wind System Development",
+      "Bioenergy System Manufacturing",
+      "Industrial Energy Solution Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"423610",
+    "industry_name":"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",
+    "revenue_per_employee":839077.8823529412,
+    "cluster":9
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"BayWa r.e. Scandinavia",
+    "year_founded":2006,
+    "address":{
+      "country_code":"se",
+      "latitude":55.6113758833,
+      "longitude":13.0040995333,
+      "region_name":"Sk\u00e5ne County",
+      "town":"Malmo"
+    },
+    "employee_count":0,
+    "revenue":10651824,
+    "primary_naics":{
+      "code":"334413",
+      "label":"Semiconductor and Related Device Manufacturing"
+    },
+    "description":"baywa r.e. scandinavia ab, dba baywa r.e. scandinavia, is a swedish private company operating in the semiconductors sector, specializing in hardware and renewable energy semiconductor manufacturing. the company is also engaged in the development, service supply, wholesale, and energy solutions provision for solar, wind, and bioenergy. baywa r.e. scandinavia serves businesses, installers, developers, utility providers, investors, and governments globally, and is part of the baywa group.",
+    "business_model":[
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing",
+      "Wholesale"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Energy Storage Asset Management Services",
+      "Energy Storage Solutions Development",
+      "Renewable Energy Project Consulting",
+      "Wind Hardware Manufacturing",
+      "Solar Hardware Manufacturing",
+      "Energy Storage Solutions Integration",
+      "Wind Wholesale",
+      "Energy Storage Asset Management",
+      "Bioenergy Wholesale",
+      "Renewable Energy Asset Management",
+      "Solar Wholesale",
+      "Energy Trading Services",
+      "Bioenergy Hardware Manufacturing",
+      "Renewable Energy Solutions Development",
+      "Renewable Energy Semiconductor Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"334413",
+    "industry_name":"Semiconductor and Related Device Manufacturing",
+    "revenue_per_employee":null,
+    "cluster":9
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"IKM InWind",
+    "year_founded":2021,
+    "address":{
+      "country_code":"no",
+      "latitude":58.8798653,
+      "longitude":5.6536454,
+      "region_name":"Rogaland",
+      "town":"Sola"
+    },
+    "employee_count":17,
+    "revenue":18333244,
+    "primary_naics":{
+      "code":"811310",
+      "label":"Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+    },
+    "description":"ikm inwind as, dba ikm inwind, is a norwegian company operating in the renewable energy sector, specializing in maintenance and inspection services, as well as the manufacturing of renewable energy semiconductors. the company provides services related to drivetrain components, mechanical and electrical rotating equipment, and high voltage applications, supporting the reliability and efficiency of renewable energy infrastructure.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Field Service Support for Renewable Energy Infrastructure",
+      "Renewable Energy Equipment Inspection Services",
+      "Electrical Rotating Equipment Maintenance",
+      "Main Component Exchange Services",
+      "Renewable Energy Equipment Maintenance Services",
+      "Blade Inspection and Repair Services",
+      "High Voltage Equipment Inspection and Repair",
+      "Mechanical Rotating Equipment Maintenance",
+      "Drivetrain Component Maintenance and Repair",
+      "Renewable Energy Semiconductor Manufacturing",
+      "Maintenance Campaign Planning Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"811310",
+    "industry_name":"Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance",
+    "revenue_per_employee":1078426.1176470588,
+    "cluster":9
+  },
+  {
+    "website":"Unknown",
+    "operational_name":"ENERCON",
+    "year_founded":1984,
+    "address":{
+      "country_code":"se",
+      "latitude":55.5663486429,
+      "longitude":13.0457816714,
+      "region_name":"Sk\u00e5ne County",
+      "town":"Malmo"
+    },
+    "employee_count":20,
+    "revenue":153633978,
+    "primary_naics":{
+      "code":"221115",
+      "label":"Wind Electric Power Generation"
+    },
+    "description":"enercon is a swedish company operating in the renewable energy sector, specializing in wind electric power generation and related services. the company is active in environmental services and the renewables & environment domain, with production facilities on three continents and market representation in more than 40 countries. enercon is committed to sustainability.",
+    "business_model":[
+      "Service Provider",
+      "Business-to-Business",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Renewable Energy Solutions",
+      "Wind Energy Equipment Maintenance",
+      "Sustainability Consulting Services",
+      "Wind Energy Equipment Manufacturing",
+      "Solar Power Generation",
+      "Wind Power Generation",
+      "Water Power Generation",
+      "Wind Energy Equipment Installation",
+      "Environmental Consulting Services"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"221115",
+    "industry_name":"Wind Electric Power Generation",
+    "revenue_per_employee":7681698.9000000004,
+    "cluster":9
+  },
+  {
+    "website":"folksol.se",
+    "operational_name":"Folksol",
+    "year_founded":2003,
+    "address":{
+      "country_code":"se",
+      "latitude":59.4716969,
+      "longitude":18.0996317,
+      "region_name":"Stockholm County",
+      "town":"T\u00e4by kommun"
+    },
+    "employee_count":0,
+    "revenue":10651824,
+    "primary_naics":{
+      "code":"334413",
+      "label":"Semiconductor and Related Device Manufacturing"
+    },
+    "description":"folksol stockholm ab, dba folksol, is a swedish company specialized in solar energy solutions, focusing on solar panels, smart batteries, and off-grid energy systems. the company operates as both a service provider and product manufacturer in the renewable energy sector, serving residential and off-grid energy consumers primarily in sweden. folksol emphasizes sustainability and energy efficiency in its operations.",
+    "business_model":[
+      "Retail",
+      "Service Provider",
+      "Manufacturing",
+      "Business-to-Consumer"
+    ],
+    "target_markets":[
+      "Renewable Energy"
+    ],
+    "core_offerings":[
+      "Renewable Energy Solutions",
+      "Smart Battery System Installation",
+      "Solar Energy System Installation",
+      "Off-Grid Energy System Installation",
+      "Energy Efficiency Consulting Services",
+      "Solar Panel Retail",
+      "Smart Battery Retail",
+      "Solar Energy Product Manufacturing"
+    ],
+    "is_public":false,
+    "secondary_naics":"Unknown",
+    "naics_code":"334413",
+    "industry_name":"Semiconductor and Related Device Manufacturing",
+    "revenue_per_employee":null,
+    "cluster":9
+  }
+]
